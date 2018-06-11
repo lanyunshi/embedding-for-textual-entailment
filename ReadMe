@@ -16,6 +16,11 @@
 	a. Python 2.7
 	b. Tensorflow
 
+# Download data
+To download the data, please directly use git clone 
+$ git clone https://github.com/lanyunshi/embedding-for-textual-entailment.git
+Since the embeddings of SNLI w2vnn and w2vour are too large, please download files w2vnn.txt and w2vour.txt from [link](https://drive.google.com/open?id=1qoCP5MuO2MS9vZQ657qtP5nhCZLFPzd2) and put them under path ./TextualEntailment/data/SNLIglove/
+
 # Usage 
 To test pre-trained NN model of Entailment Vectors on test/CS data
 $ cd EntailmentVector
