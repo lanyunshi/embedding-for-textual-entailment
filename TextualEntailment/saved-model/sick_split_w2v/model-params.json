@@ -1,0 +1,1 @@
+{"vocab_size": 2383, "embedding_size": 300, "max_len": null, "num_units": 200, "num_classes": 3, "mode": "w2vw2v"}

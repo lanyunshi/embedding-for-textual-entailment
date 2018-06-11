@@ -1,0 +1,719 @@
+bod	|	cosmos
+cochon de lait	|	dark meat
+personation	|	mensuration
+personation	|	practice
+personation	|	military operation
+personation	|	education
+personation	|	market
+female mammal	|	pleurodont
+female mammal	|	giant
+female mammal	|	metazoan
+female mammal	|	ectotherm
+female mammal	|	larva
+chainlink fence	|	breakwater
+chainlink fence	|	seawall
+chainlink fence	|	railing
+lift bridge	|	lookout station
+lift bridge	|	impedimenta
+lift bridge	|	deathtrap
+lift bridge	|	signboard
+lift bridge	|	housing
+getting	|	make-up
+fraternity house	|	theater
+fraternity house	|	office building
+fraternity house	|	farm building
+fraternity house	|	hotel
+fraternity house	|	dormitory
+fraternity house	|	eating place
+fraternity house	|	Roman building
+fraternity house	|	morgue
+fraternity house	|	packinghouse
+ranch house	|	theater
+ranch house	|	office building
+ranch house	|	farm building
+ranch house	|	hotel
+ranch house	|	dormitory
+ranch house	|	eating place
+ranch house	|	Roman building
+ranch house	|	morgue
+ranch house	|	packinghouse
+duplex house	|	theater
+duplex house	|	office building
+duplex house	|	farm building
+duplex house	|	hotel
+duplex house	|	dormitory
+duplex house	|	eating place
+duplex house	|	Roman building
+duplex house	|	morgue
+duplex house	|	packinghouse
+capture	|	departure
+capture	|	leaving
+dancing	|	practice
+dancing	|	training
+dancing	|	work
+writing paper	|	waste product
+parchment	|	waste product
+tideland	|	lakeside
+wealthy man	|	picker
+wealthy man	|	juvenile
+wealthy man	|	large person
+wealthy man	|	Jat
+wealthy man	|	abomination
+wealthy man	|	intellectual
+wealthy man	|	anti
+wealthy man	|	outdoorsman
+wealthy man	|	traveler
+wealthy man	|	welcomer
+wealthy man	|	public relations person
+wealthy man	|	noncompliant
+wealthy man	|	female person
+wealthy man	|	denizen
+wealthy man	|	baldhead
+wealthy man	|	Elizabethan
+wealthy man	|	nonperson
+wealthy man	|	dweller
+wealthy man	|	second-rater
+wealthy man	|	Capricorn
+wealthy man	|	smotherer
+wealthy man	|	red-header
+wealthy man	|	Amerindian
+wealthy man	|	baldy
+wealthy man	|	carrottop
+wealthy man	|	shitter
+wealthy man	|	percher
+wealthy man	|	significant other
+wealthy man	|	unraveler
+wealthy man	|	brunet
+wealthy man	|	gambler
+wealthy man	|	proponent
+wealthy man	|	ouster
+wealthy man	|	married
+wealthy man	|	thirster
+wealthy man	|	baby boomer
+wealthy man	|	handicapped person
+wealthy man	|	sniveler
+wealthy man	|	outcaste
+wealthy man	|	inhabitant
+wealthy man	|	bereaved
+flautist	|	ecdysiast
+flautist	|	peeler
+flautist	|	striptease
+flautist	|	puppeteer
+lutanist	|	ecdysiast
+lutanist	|	peeler
+lutanist	|	striptease
+lutanist	|	puppeteer
+funambulism	|	gambol
+lassie	|	nymphet
+lassie	|	matriarch
+lassie	|	bawd
+lassie	|	wife
+lassie	|	sporting lady
+lassie	|	old woman
+lassie	|	eyeful
+lassie	|	flirt
+latency stage	|	morning time
+land mass	|	discard
+madrigalist	|	bassoonist
+madrigalist	|	trombone player
+madrigalist	|	bassist
+madrigalist	|	violist
+madrigalist	|	lutanist
+madrigalist	|	cellist
+careerism	|	preparation
+careerism	|	performing
+careerism	|	military operation
+careerism	|	liveliness
+careerism	|	diversion
+careerism	|	space walk
+careerism	|	activating
+lobbyism	|	preparation
+lobbyism	|	performing
+lobbyism	|	military operation
+lobbyism	|	liveliness
+lobbyism	|	diversion
+lobbyism	|	space walk
+lobbyism	|	activating
+uphill	|	bank
+rill	|	embayment
+crag	|	shore
+glacial boulder	|	chondrite
+taxicab	|	bike
+secondhand car	|	bike
+racing car	|	bike
+squad car	|	bike
+population	|	electron shell
+social class	|	electron shell
+defeated	|	electron shell
+ancients	|	electron shell
+rubble	|	sewer water
+rubble	|	dross
+military uniform	|	protective garment
+military uniform	|	leisure wear
+military uniform	|	sleepwear
+military uniform	|	headgear
+motor	|	Kinetoscope
+motor	|	explosive device
+motor	|	musical instrument
+motor	|	drop forge
+motor	|	moistener
+motor	|	tongs
+motor	|	electronic device
+motor	|	vaporiser
+motor	|	dart thrower
+motor	|	noisemaker
+motor	|	bootjack
+motor	|	key
+motor	|	breathalyzer
+motor	|	lifting device
+motor	|	storage device
+motor	|	interrupter
+staple gun	|	Kinetoscope
+staple gun	|	explosive device
+staple gun	|	musical instrument
+staple gun	|	drop forge
+staple gun	|	moistener
+staple gun	|	tongs
+staple gun	|	electronic device
+staple gun	|	vaporiser
+staple gun	|	dart thrower
+staple gun	|	noisemaker
+staple gun	|	bootjack
+staple gun	|	key
+staple gun	|	breathalyzer
+staple gun	|	lifting device
+staple gun	|	storage device
+staple gun	|	interrupter
+medical instrument	|	bird feeder
+medical instrument	|	vaporiser
+medical instrument	|	drop hammer
+medical instrument	|	stylus
+medical instrument	|	bootjack
+medical instrument	|	warmer
+medical instrument	|	sensing element
+medical instrument	|	take-up
+medical instrument	|	gas fixture
+medical instrument	|	converter
+reenactment	|	measuring
+reenactment	|	use
+reenactment	|	help
+reenactment	|	utilization
+reenactment	|	process
+reenactment	|	assistance
+reenactment	|	positioning
+reenactment	|	timekeeping
+reenactment	|	space walk
+reenactment	|	leadership
+dispersion	|	rising
+spa	|	anchorage ground
+spa	|	stamping ground
+rye bread	|	murphy
+brown bread	|	murphy
+comrade	|	heterosexual person
+comrade	|	departed
+comrade	|	saver
+comrade	|	pansexual
+comrade	|	effector
+comrade	|	tagger
+comrade	|	winker
+comrade	|	technologist
+comrade	|	occultist
+comrade	|	neglecter
+comrade	|	acquirer
+comrade	|	dieter
+comrade	|	stifler
+comrade	|	opposer
+comrade	|	worldling
+comrade	|	romanticist
+comrade	|	struggler
+comrade	|	cripple
+comrade	|	slobberer
+comrade	|	redheader
+comrade	|	suspect
+comrade	|	effecter
+comrade	|	urinator
+comrade	|	sniffler
+comrade	|	lightning rod
+comrade	|	loved one
+comrade	|	decedent
+comrade	|	survivalist
+comrade	|	personification
+comrade	|	withholder
+comrade	|	smotherer
+comrade	|	scrapper
+comrade	|	sex symbol
+comrade	|	red-header
+comrade	|	religious person
+comrade	|	toucher
+comrade	|	unraveller
+comrade	|	dyslectic
+comrade	|	yielder
+comrade	|	ward
+comrade	|	dead soul
+comrade	|	defecator
+comrade	|	carrottop
+comrade	|	ouster
+comrade	|	compulsive
+comrade	|	spitter
+comrade	|	biter
+comrade	|	archaist
+comrade	|	pamperer
+comrade	|	simpleton
+comrade	|	sloucher
+comrade	|	nonworker
+comrade	|	deceased
+imperial beard	|	moustache
+quantitative analysis	|	committal to writing
+quantitative analysis	|	use
+quantitative analysis	|	actus reus
+quantitative analysis	|	positioning
+quantitative analysis	|	acting
+quantitative analysis	|	doings
+quantitative analysis	|	market
+quantitative analysis	|	wrongful conduct
+quantitative analysis	|	disassembly
+quantitative analysis	|	worship
+quantitative analysis	|	procedure
+whisky on the rocks	|	white meat
+libation	|	white meat
+north-south direction	|	paper round
+north-south direction	|	main line
+north-south direction	|	orbit
+north-south direction	|	paper route
+vamp	|	centrist
+vamp	|	pacificist
+vamp	|	liberal
+vamp	|	stay-at-home
+bridesmaid	|	centrist
+bridesmaid	|	pacificist
+bridesmaid	|	liberal
+bridesmaid	|	stay-at-home
+young lady	|	centrist
+young lady	|	pacificist
+young lady	|	liberal
+young lady	|	stay-at-home
+shiksa	|	centrist
+shiksa	|	pacificist
+shiksa	|	liberal
+shiksa	|	stay-at-home
+missy	|	centrist
+missy	|	pacificist
+missy	|	liberal
+missy	|	stay-at-home
+sweetbrier	|	capsicum pepper plant
+Rosa chinensis	|	capsicum pepper plant
+Rosa pendulina	|	capsicum pepper plant
+banksia rose	|	capsicum pepper plant
+Bengal rose	|	capsicum pepper plant
+Rosa banksia	|	capsicum pepper plant
+damask rose	|	capsicum pepper plant
+dog rose	|	capsicum pepper plant
+painting	|	dance
+shove	|	pull
+skull practice	|	work
+skull practice	|	creation
+skull practice	|	diversion
+skull practice	|	disturbance
+skull practice	|	measurement
+skull practice	|	wrongful conduct
+skull practice	|	education
+skull practice	|	occupation
+water cart	|	tramcar
+water cart	|	ice wagon
+meshwork	|	block
+oilcloth	|	block
+trousering	|	block
+suede cloth	|	block
+dimity	|	block
+Velcro	|	block
+knit	|	block
+flannel	|	block
+cittern	|	pianoforte
+decoction mashing	|	thawing
+dessert spoon	|	manger
+dessert spoon	|	parcel
+dessert spoon	|	magnetic bottle
+dessert spoon	|	flowerpot
+dessert spoon	|	capsule
+dessert spoon	|	coal scuttle
+dessert spoon	|	display case
+sugar spoon	|	manger
+sugar spoon	|	parcel
+sugar spoon	|	magnetic bottle
+sugar spoon	|	flowerpot
+sugar spoon	|	capsule
+sugar spoon	|	coal scuttle
+sugar spoon	|	display case
+soupspoon	|	manger
+soupspoon	|	parcel
+soupspoon	|	magnetic bottle
+soupspoon	|	flowerpot
+soupspoon	|	capsule
+soupspoon	|	coal scuttle
+soupspoon	|	display case
+inoculating	|	conduct
+inoculating	|	line of work
+inoculating	|	actus reus
+inoculating	|	cup of tea
+ruggedisation	|	conduct
+ruggedisation	|	line of work
+ruggedisation	|	actus reus
+ruggedisation	|	cup of tea
+overprotection	|	conduct
+overprotection	|	line of work
+overprotection	|	actus reus
+overprotection	|	cup of tea
+designated hitter	|	hurler
+oldster	|	significant other
+oldster	|	Scorpio
+oldster	|	domestic partner
+oldster	|	Scorpion
+oldster	|	possessor
+oldster	|	Virgo
+oldster	|	White person
+oldster	|	namer
+oldster	|	snuffler
+oldster	|	winker
+oldster	|	guesser
+oldster	|	nonpartizan
+oldster	|	untier
+oldster	|	freewheeler
+oldster	|	traveller
+oldster	|	Leo
+oldster	|	bullfighter
+oldster	|	effecter
+oldster	|	native
+oldster	|	mollycoddler
+oldster	|	onanist
+oldster	|	visionary
+oldster	|	unraveller
+oldster	|	swayer
+oldster	|	seeder
+oldster	|	showman
+oldster	|	advisee
+oldster	|	miracle man
+oldster	|	delayer
+oldster	|	nonpartisan
+oldster	|	squint-eye
+oldster	|	anti-American
+oldster	|	relative
+oldster	|	nondrinker
+oldster	|	indigen
+oldster	|	Slav
+oldster	|	blackamoor
+oldster	|	adventurer
+oldster	|	stigmatist
+oldster	|	forerunner
+oldster	|	homophile
+oldster	|	pamperer
+oldster	|	sounding board
+oldster	|	sniffer
+oldster	|	totemist
+oldster	|	deceased
+pledgee	|	significant other
+pledgee	|	Scorpio
+pledgee	|	domestic partner
+pledgee	|	Scorpion
+pledgee	|	possessor
+pledgee	|	Virgo
+pledgee	|	White person
+pledgee	|	namer
+pledgee	|	snuffler
+pledgee	|	winker
+pledgee	|	guesser
+pledgee	|	nonpartizan
+pledgee	|	untier
+pledgee	|	freewheeler
+pledgee	|	traveller
+pledgee	|	Leo
+pledgee	|	bullfighter
+pledgee	|	effecter
+pledgee	|	native
+pledgee	|	mollycoddler
+pledgee	|	onanist
+pledgee	|	visionary
+pledgee	|	unraveller
+pledgee	|	swayer
+pledgee	|	seeder
+pledgee	|	showman
+pledgee	|	advisee
+pledgee	|	miracle man
+pledgee	|	delayer
+pledgee	|	nonpartisan
+pledgee	|	squint-eye
+pledgee	|	anti-American
+pledgee	|	relative
+pledgee	|	nondrinker
+pledgee	|	indigen
+pledgee	|	Slav
+pledgee	|	blackamoor
+pledgee	|	adventurer
+pledgee	|	stigmatist
+pledgee	|	forerunner
+pledgee	|	homophile
+pledgee	|	pamperer
+pledgee	|	sounding board
+pledgee	|	sniffer
+pledgee	|	totemist
+pledgee	|	deceased
+moderate	|	significant other
+moderate	|	Scorpio
+moderate	|	domestic partner
+moderate	|	Scorpion
+moderate	|	possessor
+moderate	|	Virgo
+moderate	|	White person
+moderate	|	namer
+moderate	|	snuffler
+moderate	|	winker
+moderate	|	guesser
+moderate	|	nonpartizan
+moderate	|	untier
+moderate	|	freewheeler
+moderate	|	traveller
+moderate	|	Leo
+moderate	|	bullfighter
+moderate	|	effecter
+moderate	|	native
+moderate	|	mollycoddler
+moderate	|	onanist
+moderate	|	visionary
+moderate	|	unraveller
+moderate	|	swayer
+moderate	|	seeder
+moderate	|	showman
+moderate	|	advisee
+moderate	|	miracle man
+moderate	|	delayer
+moderate	|	nonpartisan
+moderate	|	squint-eye
+moderate	|	anti-American
+moderate	|	relative
+moderate	|	nondrinker
+moderate	|	indigen
+moderate	|	Slav
+moderate	|	blackamoor
+moderate	|	adventurer
+moderate	|	stigmatist
+moderate	|	forerunner
+moderate	|	homophile
+moderate	|	pamperer
+moderate	|	sounding board
+moderate	|	sniffer
+moderate	|	totemist
+moderate	|	deceased
+man of the world	|	significant other
+man of the world	|	Scorpio
+man of the world	|	domestic partner
+man of the world	|	Scorpion
+man of the world	|	possessor
+man of the world	|	Virgo
+man of the world	|	White person
+man of the world	|	namer
+man of the world	|	snuffler
+man of the world	|	winker
+man of the world	|	guesser
+man of the world	|	nonpartizan
+man of the world	|	untier
+man of the world	|	freewheeler
+man of the world	|	traveller
+man of the world	|	Leo
+man of the world	|	bullfighter
+man of the world	|	effecter
+man of the world	|	native
+man of the world	|	mollycoddler
+man of the world	|	onanist
+man of the world	|	visionary
+man of the world	|	unraveller
+man of the world	|	swayer
+man of the world	|	seeder
+man of the world	|	showman
+man of the world	|	advisee
+man of the world	|	miracle man
+man of the world	|	delayer
+man of the world	|	nonpartisan
+man of the world	|	squint-eye
+man of the world	|	anti-American
+man of the world	|	relative
+man of the world	|	nondrinker
+man of the world	|	indigen
+man of the world	|	Slav
+man of the world	|	blackamoor
+man of the world	|	adventurer
+man of the world	|	stigmatist
+man of the world	|	forerunner
+man of the world	|	homophile
+man of the world	|	pamperer
+man of the world	|	sounding board
+man of the world	|	sniffer
+man of the world	|	totemist
+man of the world	|	deceased
+picaninny	|	preteenager
+picaninny	|	adolescent
+fosterling	|	preteenager
+fosterling	|	adolescent
+onion roll	|	flatbread
+onion roll	|	white bread
+onion roll	|	caraway seed bread
+onion roll	|	bread-stick
+onion roll	|	matzah
+strawboard	|	wax paper
+strawboard	|	piece of paper
+chaddar	|	unitard
+chuddar	|	unitard
+middle-aged man	|	oldster
+middle-aged man	|	disarmer
+middle-aged man	|	pledger
+middle-aged man	|	sobersides
+middle-aged man	|	homebody
+womaniser	|	oldster
+womaniser	|	disarmer
+womaniser	|	pledger
+womaniser	|	sobersides
+womaniser	|	homebody
+greybeard	|	oldster
+greybeard	|	disarmer
+greybeard	|	pledger
+greybeard	|	sobersides
+greybeard	|	homebody
+yellow man	|	oldster
+yellow man	|	disarmer
+yellow man	|	pledger
+yellow man	|	sobersides
+yellow man	|	homebody
+signor	|	oldster
+signor	|	disarmer
+signor	|	pledger
+signor	|	sobersides
+signor	|	homebody
+jewel casket	|	workbox
+jewel casket	|	can
+jewel casket	|	cargo container
+casket	|	workbox
+casket	|	can
+casket	|	cargo container
+prairie wagon	|	trike
+festivity	|	marketplace
+festivity	|	hiding
+pastime	|	marketplace
+pastime	|	hiding
+fumes	|	filling
+excreta	|	filling
+peacoat	|	overcoat
+peacoat	|	sheepskin coat
+doublet	|	overcoat
+doublet	|	sheepskin coat
+bistro	|	clubhouse
+bistro	|	chapterhouse
+bistro	|	gambling hell
+bistro	|	greenhouse
+bistro	|	Hall of Fame
+bistro	|	gazebo
+coffee shop	|	clubhouse
+coffee shop	|	chapterhouse
+coffee shop	|	gambling hell
+coffee shop	|	greenhouse
+coffee shop	|	Hall of Fame
+coffee shop	|	gazebo
+brewpub	|	clubhouse
+brewpub	|	chapterhouse
+brewpub	|	gambling hell
+brewpub	|	greenhouse
+brewpub	|	Hall of Fame
+brewpub	|	gazebo
+chili pepper	|	rosebush
+sweet pepper plant	|	rosebush
+Capsicum baccatum	|	rosebush
+cayenne pepper	|	rosebush
+sculling	|	archery
+timework	|	training
+timework	|	cup of tea
+timework	|	deeds
+timework	|	utilisation
+timework	|	diversion
+timework	|	wrongful conduct
+timework	|	playacting
+timework	|	hiding
+housekeeping	|	training
+housekeeping	|	cup of tea
+housekeeping	|	deeds
+housekeeping	|	utilisation
+housekeeping	|	diversion
+housekeeping	|	wrongful conduct
+housekeeping	|	playacting
+housekeeping	|	hiding
+planting	|	measuring
+planting	|	acting
+antiaircraft gun	|	Greek fire
+antiaircraft gun	|	projectile
+embarkation	|	communicating
+embarkation	|	getting
+calean	|	siphon
+ice bag	|	basket
+ice bag	|	handbag
+ice bag	|	storage ring
+ice bag	|	can
+lakeside	|	cliff
+coast	|	cliff
+Turing machine	|	simulator
+Turing machine	|	calculating machine
+Turing machine	|	automated teller
+Turing machine	|	printing machine
+Turing machine	|	machinery
+Turing machine	|	cash dispenser
+pickup	|	auto
+linoleum knife	|	ax
+hit squad	|	outfit
+piquet	|	table game
+piquet	|	gambling game
+piquet	|	curling
+piquet	|	bowling
+rapid climb	|	spread
+barbacan	|	post and lintel
+barbacan	|	entablature
+barbacan	|	shelter
+barbacan	|	partition
+barbacan	|	repair shed
+barbacan	|	obstruction
+barbacan	|	stadium
+barbacan	|	monument
+barbacan	|	slipway
+barbacan	|	lamination
+barbacan	|	landing place
+tower block	|	post and lintel
+tower block	|	entablature
+tower block	|	shelter
+tower block	|	partition
+tower block	|	repair shed
+tower block	|	obstruction
+tower block	|	stadium
+tower block	|	monument
+tower block	|	slipway
+tower block	|	lamination
+tower block	|	landing place
+left stage	|	pride of place
+left stage	|	polls
+left stage	|	pole position
+slaughterhouse	|	ways
+slaughterhouse	|	post and lintel
+volary	|	ways
+volary	|	post and lintel
+residence hall	|	ways
+residence hall	|	post and lintel
+whorehouse	|	ways
+whorehouse	|	post and lintel
+brothel	|	ways
+brothel	|	post and lintel
+bathhouse	|	ways
+bathhouse	|	post and lintel
+office block	|	ways
+office block	|	post and lintel
+house of worship	|	ways
+house of worship	|	post and lintel
+penetralia	|	side
+cake	|	cloth
+chopping block	|	cloth
+square block	|	cloth
+swage block	|	cloth
+ingot	|	cloth
+lorgnette	|	opera glasses

@@ -1,0 +1,6648 @@
+back street	<	street
+tempter	<	person
+articulated lorry	<	truck
+Callistephus chinensis	<	flower
+guitarist	<	instrumentalist
+restaurant	<	edifice
+term	<	word
+Pinus jeffreyi	<	pine
+emptying	<	remotion
+guesser	<	person
+basketball team	<	team
+supply ship	<	ship
+shades	<	spectacles
+ceiling	<	upper surface
+park	<	piece of ground
+Scotch pine	<	pine
+grade	<	gathering
+condiment	<	seasoning
+impedimenta	<	structure
+measuring system	<	instrument
+ladder-back	<	chair
+clover-leaf roll	<	bun
+pepper	<	pepper vine
+crevasse	<	crack
+mental measurement	<	measuring
+white bread	<	bread
+deck	<	platform
+poke bonnet	<	hat
+mycophagy	<	eating
+car pool	<	band
+packing	<	material
+Vangueria madagascariensis	<	tree
+Australian state	<	state
+radiator grille	<	grating
+hiatus	<	break
+Orites excelsa	<	tree
+shuffling	<	walking
+posse comitatus	<	police
+longshot	<	photo
+borsht	<	soup
+stage business	<	acting
+croton oil	<	oil
+band	<	social group
+eating place	<	building
+ideation	<	thinking
+Belgian sheepdog	<	sheepdog
+tall meadow grass	<	grass
+bromegrass	<	grass
+pappoose	<	baby
+bordelaise	<	sauce
+South American poison toad	<	frog
+heathland	<	barren
+millettia	<	tree
+slip	<	flub
+monopsony	<	market
+fighter	<	somebody
+rock drill	<	drill
+extractor	<	instrument
+furnace lining	<	lining
+scrag	<	somebody
+washing-up	<	washing
+human beings	<	grouping
+major-league team	<	team
+foehn	<	wind
+solferino	<	pink
+redheader	<	someone
+intraocular lens	<	lens
+water of hydration	<	water
+dallis grass	<	grass
+spectral colour	<	color
+substance	<	part
+break	<	occurrent
+Fauntleroy	<	boy
+police car	<	automobile
+retirement savings plan	<	program
+are	<	square measure
+slipperwort	<	flower
+smile	<	facial expression
+launch pad	<	platform
+air flow	<	flowing
+billboard	<	signboard
+harness horse	<	horse
+house	<	dwelling house
+direct mail	<	advertisement
+police	<	personnel
+pinocle	<	cards
+sou''easter	<	wind
+English muffin	<	bread
+sobersides	<	adult
+iron blue	<	gray
+put	<	option
+protester	<	somebody
+sandalwood tree	<	tree
+garrison cap	<	cap
+passerby	<	pedestrian
+trisyllable	<	word
+scattering	<	small indefinite amount
+rice paddy	<	field
+Madagascar cat	<	lemur
+flyer	<	advertisement
+bonsai	<	tree
+miracle worker	<	somebody
+main line	<	route
+juggler	<	performer
+east-west direction	<	direction
+reference work	<	book
+shoe shop	<	shop
+pung	<	sled
+Ca	<	metal
+Holarrhena antidysenterica	<	tree
+abandoned infant	<	infant
+petunia	<	flower
+major power	<	country
+money handler	<	somebody
+nozzle	<	spout
+cricket	<	orthopteran
+ejector	<	person
+preschooler	<	child
+shore	<	geological formation
+paper route	<	route
+registrant	<	someone
+fishing	<	outdoor sport
+baked potato	<	potato
+sock	<	hose
+Sagittarius	<	somebody
+cargo area	<	enclosure
+crewet	<	bottle
+hair shirt	<	shirt
+bad weather	<	weather
+negro pepper	<	tree
+hangman''s rope	<	rope
+shower room	<	room
+traveller	<	person
+mover and shaker	<	person
+Lavandula stoechas	<	lavender
+war bride	<	bride
+peace pipe	<	pipe
+cart track	<	road
+pip-squeak	<	nobody
+clumsy person	<	person
+flight of steps	<	staircase
+rubber	<	latex
+bent grass	<	grass
+engineer	<	somebody
+serving dish	<	dish
+worm wheel	<	gear
+totaliser	<	computer
+rivet line	<	line
+S.U.V.	<	car
+ejector	<	someone
+refinery	<	plant
+cherub	<	infant
+draw play	<	running
+opponent	<	contestant
+gramma	<	grass
+hugger	<	person
+nothing	<	relative quantity
+axe	<	edge tool
+watering	<	bodily process
+dowry	<	gift
+yawner	<	person
+state capital	<	city
+monozygous twin	<	twin
+dairy farm	<	farm
+aggregation	<	grouping
+part-singing	<	singing
+sweetbrier	<	rose
+airflow	<	flowing
+womaniser	<	man
+honeybee	<	bee
+teak	<	wood
+baby bed	<	furniture
+cochon de lait	<	pork
+modern	<	someone
+curio	<	object
+half-staff	<	position
+statue	<	sculpture
+oceanic bird	<	seabird
+pigskin	<	leather
+scolion	<	song
+colonnade	<	structure
+Festuca ovina	<	grass
+lisper	<	speaker
+safety device	<	device
+camel	<	artiodactyl
+dress	<	woman''s clothing
+bull	<	Bos taurus
+succeeder	<	someone
+vaudevillian	<	performer
+hoper	<	someone
+open air	<	outside
+divan bed	<	sofa
+closer	<	someone
+thumb	<	finger
+ruler	<	somebody
+equal	<	someone
+packing	<	stuff
+Tc	<	metal
+borsh	<	soup
+rambler	<	pedestrian
+hypochondriac	<	patient
+housework	<	work
+drawing	<	graphics
+lit	<	literary study
+byway	<	road
+civilian dress	<	clothing
+counterterrorist	<	somebody
+atomic number 25	<	metal
+monolingual	<	somebody
+personification	<	someone
+Rhinoceros antiquitatis	<	rhino
+arthritic	<	patient
+classicalism	<	arts
+breast pocket	<	pocket
+fandom	<	following
+dissident	<	person
+sawdust	<	wood
+stifler	<	person
+airplane	<	heavier-than-air craft
+German police dog	<	sheepdog
+drinking fountain	<	fountain
+ribbonwood	<	tree
+trifoliata	<	tree
+whiskey on the rocks	<	drink
+causeway	<	road
+professional tennis	<	tennis
+cafeteria	<	restaurant
+state	<	administrative district
+table salt	<	seasoning
+scutch grass	<	grass
+lefty	<	person
+stage	<	period of time
+standing	<	status
+faithful	<	following
+baranduki	<	squirrel
+kickstand	<	rod
+bluestem	<	grass
+juvenile person	<	someone
+place kick	<	kick
+atomic number 70	<	metal
+chamois	<	leather
+ginger	<	herbaceous plant
+scrim	<	cloth
+appreciator	<	person
+contestant	<	person
+parson''s nose	<	serving
+awakening	<	rousing
+edacity	<	hunger
+wicker basket	<	basket
+gainer	<	somebody
+skin diving	<	swimming
+ephemeral	<	insect
+mama	<	mother
+hill	<	natural elevation
+measurer	<	somebody
+cyclone	<	atmospheric state
+screaming	<	yell
+launching	<	actuation
+swell	<	wave
+double-bitted ax	<	axe
+adventurer	<	person
+receipt	<	getting
+cargo hold	<	enclosure
+Cheiranthus cheiri	<	flower
+skyline	<	outline
+singalong	<	singing
+weather chart	<	map
+minelayer	<	ship
+autodidact	<	someone
+ruggedisation	<	protection
+cembra nut tree	<	pine
+parson''s nose	<	helping
+funnies	<	cartoon
+square block	<	block
+Frisbee	<	toy
+vendition	<	selling
+emancipation	<	freeing
+rose	<	shrub
+yodeller	<	singer
+indri	<	lemur
+wristwatch	<	watch
+bocci ball	<	ball
+sole	<	bottom
+para I	<	mother
+stereoscopic photograph	<	photograph
+matchbox	<	box
+zucchini	<	vegetable marrow
+electron shell	<	grouping
+effecter	<	someone
+systematism	<	practice
+bellwort	<	flower
+manufactory	<	plant
+inhabitant	<	somebody
+mural	<	painting
+saver	<	person
+watermelon	<	melon vine
+heavy	<	actor
+hut	<	shelter
+pong	<	fetor
+caesium	<	metal
+multiple fruit	<	fruit
+accident	<	misadventure
+Wac	<	woman
+topsail	<	sail
+broadaxe	<	axe
+parchment	<	paper
+bakeshop	<	store
+dormitory room	<	bedroom
+scientist	<	person
+aalii	<	tree
+moolah	<	money
+ice rink	<	rink
+second growth	<	forest
+charcoal gray	<	gray
+thin person	<	someone
+blue baby	<	baby
+oilcan	<	can
+Capreolus capreolus	<	deer
+ice bag	<	bag
+bird pepper	<	capsicum
+straight and narrow	<	path
+street child	<	child
+rhino	<	perissodactyl mammal
+anechoic chamber	<	room
+liver chestnut	<	horse
+Lego set	<	toy
+gun	<	weapon
+tam	<	cap
+match play	<	golf
+plutocrat	<	have
+chukka boot	<	shoe
+purse	<	container
+cadmium	<	metal
+paperknife	<	knife
+dairy cow	<	cows
+nettle tree	<	tree
+Arundo richardii	<	grass
+power	<	quality
+whiskey bottle	<	bottle
+Odocoileus Virginianus	<	deer
+ambler	<	pedestrian
+jet-propelled plane	<	airplane
+obechi	<	tree
+paraphernalia	<	equipment
+spawn	<	egg
+bocci	<	bowling
+lemon	<	citrous fruit
+ashbin	<	bin
+whole name	<	word
+swamp	<	wetland
+handstand	<	gymnastic exercise
+swinging door	<	door
+gravimetry	<	measuring
+quadruple	<	set
+sneezer	<	someone
+etagere	<	furniture
+operatic star	<	singer
+lichgate	<	gate
+squint-eye	<	someone
+paving machine	<	machine
+supporting fire	<	firing
+jamjar	<	jar
+Jersey pine	<	pine
+punting	<	kick
+cub	<	tyro
+breadstick	<	bread
+Daubentonia madagascariensis	<	lemur
+nonparticipant	<	somebody
+accessory	<	clothing
+wicket door	<	gate
+sherd	<	piece
+potter bee	<	bee
+tailed frog	<	toad
+yellow jacaranda	<	tree
+foreground	<	panorama
+smoking room	<	room
+sleepyhead	<	someone
+Ru	<	metal
+kitchen	<	room
+boreas	<	wind
+bug	<	insect
+sneezer	<	somebody
+female	<	creature
+hoi polloi	<	grouping
+Stokesia laevis	<	flower
+skank	<	waste
+sun hat	<	hat
+greeter	<	someone
+tungsten	<	metal
+pall-mall	<	game
+autodidact	<	person
+betting shop	<	store
+seeker	<	person
+teapot	<	pot
+trucking rig	<	truck
+hearing examiner	<	official
+conservatory	<	school
+out-of-doors	<	outside
+combat	<	fight
+kaffiyeh	<	headdress
+poster board	<	cardboard
+prowl	<	walking
+backer	<	sponsor
+golden boy	<	man
+hard water	<	water
+peacoat	<	jacket
+second-rater	<	person
+creation	<	activity
+skin and bones	<	someone
+lick	<	sediment
+single combat	<	fighting
+effector	<	somebody
+donation	<	gift
+radiophone	<	telephone
+rippling	<	wave
+tree toad	<	toad
+linemen	<	line
+costume	<	attire
+defeated	<	people
+converter	<	device
+baritone	<	singer
+kiaat	<	tree
+Eutamius sibiricus	<	squirrel
+laying	<	giving birth
+bonfire	<	fire
+Italian region	<	state
+water bottle	<	bottle
+prairie soil	<	dirt
+life support	<	equipment
+vehicular traffic	<	traffic
+scat	<	singing
+liquid	<	fluid
+puce	<	brown
+romper	<	somebody
+cooky jar	<	jar
+whiskey neat	<	drink
+swage block	<	block
+work surface	<	surface
+osculating circle	<	circle
+bobby	<	policeman
+golf bag	<	bag
+keyboardist	<	musician
+shower cap	<	cap
+atomic number 49	<	metal
+brace and bit	<	drill
+bey	<	man
+Gongorist	<	practitioner
+rider	<	traveller
+conduct	<	activity
+giveaway	<	gift
+lager beer	<	beer
+sculpturer	<	artist
+weight gainer	<	somebody
+cassareep	<	seasoning
+atomic number 40	<	metal
+Stetson	<	hat
+headboard	<	panel
+orator	<	speaker
+haymow	<	lot
+sawbones	<	doctor
+phallic phase	<	stage
+employee savings plan	<	program
+elected official	<	official
+eyes	<	opinion
+paid vacation	<	holiday
+Old English sheepdog	<	sheepdog
+construction	<	creating from raw materials
+wife	<	woman
+Monterey pine	<	pine
+advertorial	<	advertisement
+lemon extract	<	seasoning
+rough drawing	<	sketch
+runcinate leaf	<	leaf
+gluten bread	<	bread
+activity	<	human activity
+warrior	<	someone
+mesomorph	<	person
+statistical table	<	table
+ski slope	<	incline
+football	<	contact sport
+freight train	<	train
+foxhunt	<	hunting
+quitter	<	person
+birch bark	<	canoe
+home away from home	<	home
+rain shower	<	rain
+hazel	<	tree
+atomic number 83	<	metal
+moo-cow	<	cattle
+Model T	<	automobile
+gazania	<	flower
+desert	<	piece of land
+blue	<	spectral color
+Bombax ceiba	<	tree
+twitterer	<	bird
+display window	<	window
+touring car	<	car
+melody	<	music
+socio-economic class	<	people
+muskrat fur	<	fur
+scalded milk	<	milk
+swad	<	cluster
+suede	<	leather
+barunduki	<	squirrel
+upholstery material	<	cloth
+twin	<	sibling
+rester	<	someone
+haul	<	pulling
+granulated sugar	<	sugar
+enjoyer	<	someone
+gallery	<	audience
+seif dune	<	dune
+sparring	<	arguing
+note	<	written account
+hanging	<	decoration
+mens store	<	shop
+blanket	<	bedding
+bush jacket	<	jacket
+towelling	<	cloth
+ampoule	<	bottle
+broadloom	<	carpet
+dry cleaners	<	store
+brome	<	grass
+weasel	<	somebody
+piano	<	percussive instrument
+nudge	<	pushing
+margosa	<	tree
+third-rater	<	somebody
+Elephas maximus	<	elephant
+balker	<	somebody
+breakaxe	<	tree
+anise tree	<	tree
+cattle guard	<	bridge
+Chinese scholartree	<	tree
+Macropus giganteus	<	kangaroo
+acrylic paint	<	paint
+shop	<	mercantile establishment
+body hair	<	hair
+cowgirl	<	cowboy
+utilization	<	activity
+towhead	<	blonde
+Conestoga wagon	<	wagon
+house fly	<	fly
+Myroxylon balsamum pereirae	<	tree
+black bear	<	bear
+excuser	<	someone
+coin	<	specie
+potter''s wheel	<	wheel
+rosary	<	beads
+survivalist	<	somebody
+lady	<	woman
+intern	<	doctor
+grass widow	<	woman
+road hog	<	driver
+balusters	<	barrier
+slip	<	blooper
+stage	<	period
+Leucaena leucocephala	<	tree
+meat hooks	<	hand
+sickbag	<	bag
+routemarch	<	marching
+nursing school	<	school
+cauldron	<	pot
+sweet Fanny Adams	<	nothing
+peppermint oil	<	seasoning
+godchild	<	infant
+Christmas bush	<	tree
+Capricorn	<	person
+mean distance	<	distance
+fluorocarbon plastic	<	plastic
+group	<	abstract entity
+Greenland caribou	<	deer
+microphone boom	<	pole
+super heavyweight	<	boxer
+relishing	<	eating
+cylindrical lining	<	lining
+graduate school	<	school
+cineraria	<	flower
+priest	<	Holy Order
+motorcycle	<	automotive vehicle
+artistic style	<	way
+football team	<	team
+romanticist	<	person
+breeze	<	wind
+percipient	<	someone
+civilian clothing	<	clothing
+four o''clock	<	flower
+slogan	<	saying
+down	<	feather
+siphon	<	tube
+scheduled fire	<	firing
+oxtail	<	tail
+tech	<	school
+nonsmoker	<	person
+sunroof	<	roof
+S.U.V.	<	automobile
+material body	<	body
+riding horse	<	horse
+chambray	<	cloth
+white popinac	<	tree
+spandex	<	cloth
+sewer water	<	waste
+scratching	<	noise
+edible	<	food
+metrification	<	writing
+fancy	<	misconception
+nightclothes	<	clothing
+proconsul	<	official
+reference book	<	book
+male person	<	person
+police	<	law enforcement agency
+holding device	<	device
+phatic speech	<	conversation
+dressing room	<	room
+varnish	<	coating
+compact car	<	automobile
+plod	<	walking
+piolet	<	axe
+object lens	<	lens
+dead person	<	somebody
+Caucasian	<	someone
+chain store	<	shop
+walloping	<	licking
+summer stock	<	staging
+expressed almond oil	<	oil
+ball-breaker	<	woman
+Erysimum cheiri	<	flower
+barbican	<	tower
+striking	<	occurrent
+Diceros simus	<	rhino
+screw pine	<	tree
+rosehip	<	fruit
+headdress	<	wearable
+comb-out	<	combing
+distance	<	spatial arrangement
+hack driver	<	driver
+dune	<	ridge
+greybeard	<	man
+pistol	<	firearm
+kurta	<	shirt
+Crocodylus porosus	<	crocodile
+breadbox	<	container
+expectorator	<	person
+landing	<	platform
+neck ruff	<	collar
+barmbrack	<	bread
+beaker	<	jar
+ritual dancing	<	dancing
+European Law Enforcement Organisation	<	police
+loan office	<	shop
+groyne	<	barrier
+planet gear	<	gear
+calla lily	<	flower
+bedchamber	<	room
+serrate leaf	<	leaf
+Quaker gun	<	gun
+roof	<	protective covering
+round	<	ammo
+uninitiate	<	people
+coexistence	<	being
+verbena	<	flower
+monandry	<	marriage
+spa	<	playground
+gliricidia	<	tree
+athletics	<	recreation
+balance wheel	<	wheel
+topsoil	<	dirt
+alms box	<	box
+splash	<	noise
+public relations person	<	person
+fishing	<	field sport
+bars	<	exerciser
+hearing officer	<	official
+personage	<	person
+Mao jacket	<	jacket
+Dayton axe	<	axe
+zero-sum game	<	game
+clown	<	tomfool
+marine creature	<	animal
+swallowtail	<	jacket
+kohl	<	makeup
+legacy	<	gift
+biter	<	somebody
+Negroid	<	person
+painted daisy	<	flower
+yellow horned poppy	<	flower
+terrain	<	piece of land
+Santalum album	<	tree
+graphic artist	<	artist
+floating	<	swimming
+Diceros bicornis	<	rhino
+patent leather	<	leather
+pink	<	chromatic color
+sneezer	<	person
+Cairina moschata	<	duck
+straight	<	somebody
+telephoto	<	photo
+knapsack	<	bag
+mashed potato	<	potato
+salade	<	helmet
+sophisticate	<	adult
+power shovel	<	machine
+prolonge	<	rope
+double-breasted suit	<	suit
+double door	<	door
+monopoly	<	market
+pride of place	<	position
+tie rod	<	rod
+baldhead	<	person
+picaninny	<	kid
+saltcellar	<	container
+black ice	<	ice
+tattle	<	revealing
+percipient	<	person
+Bombina bombina	<	toad
+wangling	<	dodge
+tower of strength	<	sponsor
+above	<	section
+ring	<	sound
+wearing	<	geologic process
+Libra	<	someone
+quicky	<	fixing
+linguistic string	<	language
+toboggan cap	<	cap
+crown glass	<	glass
+French telephone	<	telephone
+cephalometry	<	measuring
+middle	<	area
+nurser	<	someone
+skiagraph	<	photograph
+circle	<	oval
+tundra soil	<	dirt
+professional person	<	adult
+voraciousness	<	hunger
+marketplace	<	activity
+minivan	<	car
+hardtop	<	automobile
+dress shop	<	store
+test equipment	<	equipment
+obstacle	<	hinderance
+athletic game	<	game
+collector	<	someone
+msasa	<	tree
+tupelo	<	wood
+sweater girl	<	girl
+meal	<	aliment
+nonmember	<	someone
+mugo pine	<	pine
+engine cooling system	<	equipment
+greenroom	<	room
+circlet	<	circle
+ginger	<	herb
+introvert	<	somebody
+gunshot	<	shooting
+Rangifer tarandus	<	deer
+west side	<	side
+identical twin	<	twin
+struggler	<	somebody
+national capital	<	city
+flypaper	<	paper
+Capsicum annuum grossum	<	capsicum
+quintipara	<	mother
+trainer	<	leader
+yard	<	linear unit
+twirler	<	performer
+bandy leg	<	leg
+army officer	<	officer
+hit	<	feat
+seasoning	<	fixings
+totemist	<	somebody
+ketchup bottle	<	bottle
+combat boot	<	boot
+low-fat milk	<	milk
+coriander seed	<	seasoning
+snapshot	<	photograph
+appreciator	<	somebody
+collection	<	grouping
+watch	<	timepiece
+sacque	<	jacket
+cowgirl	<	puncher
+Attilio	<	beard
+shoe leather	<	leather
+good person	<	someone
+gun	<	weapon system
+stove	<	kitchen appliance
+trichopteran	<	insect
+rush-grass	<	grass
+water fountain	<	fountain
+field lens	<	lens
+ground glass	<	glass
+musical composition	<	music
+brioche	<	bun
+make-work	<	work
+carriage	<	railway car
+carving	<	sculpture
+peek	<	looking
+wedding picture	<	photograph
+Aythya ferina	<	duck
+oak	<	wood
+sun parlor	<	room
+confetti	<	paper
+beard	<	facial hair
+inking pad	<	block
+parachuter	<	jumper
+rhodium	<	metal
+swallow-tailed coat	<	jacket
+niobium	<	metal
+widowman	<	man
+motorboat	<	boat
+casque	<	helmet
+moonshine	<	light
+mollycoddler	<	somebody
+tome	<	book
+matte	<	mixture
+second joint	<	helping
+morgue	<	building
+filter	<	device
+lorgnette	<	glasses
+song	<	musical composition
+crepe paper	<	paper
+wall painting	<	painting
+shadowgraph	<	photo
+crank call	<	call
+pelter	<	rain
+railing	<	barrier
+bluecoat	<	person
+computer store	<	store
+complex	<	whole
+capillary tube	<	tube
+Anas rubripes	<	duck
+vestibule	<	room
+lap	<	thigh
+slayer	<	somebody
+cleats	<	shoe
+juvenile court	<	court
+lisle	<	cloth
+raw sienna	<	brown
+French rye	<	grass
+head shop	<	store
+sandwich board	<	signboard
+omelet pan	<	pan
+chimney breast	<	wall
+Caesalpinia ferrea	<	tree
+atomic number 59	<	metal
+tree of knowledge	<	tree
+apothecary''s shop	<	shop
+bereaved person	<	somebody
+millionairess	<	have
+Rosa canina	<	rose
+daisy	<	flower
+teleselling	<	selling
+sedan	<	car
+bootlegging	<	selling
+alter ego	<	friend
+wiggler	<	somebody
+fruitwood	<	wood
+eucalyptus	<	wood
+ale	<	beer
+microdot	<	photograph
+primary color	<	color
+Espagnole	<	sauce
+carrot juice	<	juice
+common man	<	person
+connecting rod	<	rod
+making	<	production
+toweling	<	cloth
+walk-in	<	someone
+vocal music	<	music
+staplegun	<	machine
+point-and-shoot camera	<	camera
+lemongrass oil	<	oil
+master	<	artist
+tomahawk	<	weapon
+safety match	<	match
+violist	<	musician
+llama	<	artiodactyl
+storm door	<	door
+Lithocarpus densiflorus	<	tree
+used-car	<	car
+quick bread	<	bread
+puppy	<	domestic dog
+horsehide	<	leather
+handicapped	<	people
+Potemkin	<	officer
+individualist	<	somebody
+rosewood tree	<	tree
+quill pen	<	pen
+dessert spoon	<	spoon
+Jeffrey pine	<	pine
+pawnshop	<	shop
+monoplane	<	plane
+notary	<	official
+skyline	<	lineation
+calculus	<	rock
+dairy cattle	<	cows
+violoncellist	<	musician
+greenish blue	<	blue
+dissenter	<	person
+focal length	<	distance
+shale oil	<	oil
+reflex camera	<	camera
+Pithecellobium dulce	<	tree
+no-hitter	<	baseball
+tachina fly	<	fly
+Cheshire cheese	<	cheese
+funny	<	joke
+chronological age	<	age
+helping	<	small indefinite amount
+spadework	<	work
+excogitation	<	thinking
+loveseat	<	sofa
+musclebuilding	<	exercise
+throng	<	gathering
+spraying	<	dispersal
+warning bell	<	bell
+bechamel sauce	<	sauce
+cocksfoot	<	grass
+complexion	<	color
+Pinus cembra	<	pine
+enchantress	<	woman
+missy	<	woman
+onion salt	<	seasoning
+third-rater	<	person
+knotgrass	<	grass
+oldster	<	adult
+contraceptive device	<	device
+Apis mellifera	<	bee
+extrovert	<	somebody
+dithyramb	<	speech
+radiograph	<	photograph
+emotional person	<	someone
+chosen people	<	people
+Easter daisy	<	flower
+dhak	<	tree
+grama grass	<	grass
+creative activity	<	activity
+introvert	<	person
+sound ranging	<	measuring
+pardoner	<	person
+stand oil	<	oil
+sewerage	<	waste
+distich	<	two
+spadefoot	<	frog
+bakery	<	store
+chili powder	<	seasoning
+etui	<	purse
+wilderness	<	disfavor
+antiaircraft gun	<	gun
+firing	<	onrush
+ocean	<	body of water
+strongman	<	performer
+base hit	<	hit
+spoon	<	eating utensil
+automobile	<	motor vehicle
+flower store	<	shop
+sitar player	<	musician
+antifreeze	<	liquid
+uneven parallel bars	<	bars
+card game	<	game
+red-header	<	someone
+sniper rifle	<	rifle
+grinding wheel	<	wheel
+grownup	<	someone
+garlic	<	alliaceous plant
+acorn	<	fruit
+brachycephalic	<	adult
+dark blue	<	blue
+protoactinium	<	metal
+three	<	digit
+holdall	<	bag
+amusement arcade	<	arcade
+dejeuner	<	meal
+pocket	<	pouch
+degrader	<	person
+chiaroscuro	<	picture
+life form	<	body
+pride of Bolivia	<	tree
+racehorse	<	horse
+deluge	<	lot
+companionway	<	staircase
+shammy leather	<	leather
+grace cup	<	cup
+slider	<	person
+doob	<	grass
+dinner pail	<	bucket
+hugger	<	somebody
+redheader	<	somebody
+ballot box	<	box
+deaf person	<	somebody
+transom	<	window
+heterosexual person	<	somebody
+ephemerid	<	insect
+ditty	<	song
+juvenile	<	somebody
+homotherm	<	animal
+falls	<	perigonium
+affluent	<	have
+hospital train	<	train
+cut-and-thrust	<	fighting
+hardpan	<	dirt
+water jump	<	pool
+surcoat	<	coat
+Anas platyrhynchos	<	duck
+Y	<	metal
+roof garden	<	garden
+barrage fire	<	firing
+timbrel	<	drum
+explorer	<	someone
+bus driver	<	driver
+strawberry jam	<	jam
+cow	<	cattle
+downpour	<	rain
+mangler	<	someone
+lemon	<	citrus fruit
+mail train	<	train
+dinette	<	room
+schmoose	<	conversation
+atomic number 67	<	metal
+sillabub	<	drink
+pitched battle	<	fight
+child prodigy	<	child
+convalescence	<	healing
+imperial	<	beard
+prayerbook	<	book
+old times	<	past
+tissue paper	<	paper
+yellow poplar	<	wood
+bureaucrat	<	official
+slain	<	dead
+cabman	<	driver
+sniveler	<	someone
+bereaved person	<	someone
+pepper-and-salt	<	cloth
+Alytes cisternasi	<	toad
+touch	<	striking
+nautch girl	<	dancer
+chooser	<	somebody
+focal distance	<	distance
+tennis racket	<	racquet
+ice-skating rink	<	rink
+wriggler	<	someone
+hot-rod	<	automobile
+Dovyalis hebecarpa	<	tree
+Vinylite	<	plastic
+due	<	right
+Aquarius	<	someone
+feeding	<	uptake
+yakety-yak	<	talking
+parted leaf	<	leaf
+finger paint	<	paint
+galoot	<	man
+loaf	<	bread
+entertainment	<	recreation
+painting	<	graphic art
+Acheta domestica	<	cricket
+Gemini	<	someone
+live load	<	loading
+scolding	<	rebuke
+yellow man	<	man
+scabious	<	flower
+packinghouse	<	building
+Santa Ana	<	wind
+esurience	<	hunger
+Muenster	<	cheese
+record-keeper	<	official
+fishing line	<	cord
+fluorescent	<	lighting fixture
+chamber	<	enclosure
+proprietress	<	owner
+delayer	<	person
+lapin	<	fur
+prayer book	<	book
+atomic number 39	<	metal
+surfboat	<	boat
+research	<	investigating
+tramper	<	pedestrian
+age bracket	<	people
+rucksack	<	bag
+cockspur	<	grass
+call-in	<	call
+leptodactylid frog	<	frog
+salt-rising bread	<	bread
+car door	<	door
+custom	<	practice
+sodium-vapor lamp	<	lamp
+house	<	dwelling
+low	<	air mass
+overload	<	loading
+immunization	<	protection
+army base	<	base
+barren ground caribou	<	reindeer
+traveler	<	somebody
+electric blanket	<	blanket
+woolly rhinoceros	<	rhino
+simpleton	<	someone
+clove	<	flower bud
+yard	<	linear measure
+chaise longue	<	chair
+searcher	<	person
+chemist''s shop	<	store
+trampoline	<	gymnastic apparatus
+bagpiper	<	musician
+waste	<	material
+philanderer	<	man
+automated teller	<	machine
+common man	<	someone
+boot	<	footgear
+Caesalpinia bonducella	<	tree
+skip rope	<	rope
+hack-driver	<	driver
+mantilla	<	scarf
+moving in	<	getting
+smashing	<	breaking
+time exposure	<	photograph
+Mason jar	<	jar
+poleaxe	<	axe
+European house cricket	<	cricket
+decoction mashing	<	boiling
+tunnel	<	passageway
+jumbo jet	<	jet
+toilet training	<	training
+free spirit	<	somebody
+communicator	<	someone
+accessory fruit	<	fruit
+speed cop	<	policeman
+Indian pony	<	pony
+stylist	<	artist
+neoclassicism	<	arts
+Liederkranz	<	cheese
+pussycat	<	person
+golden hamster	<	hamster
+Cheiranthus asperus	<	flower
+tzetze fly	<	fly
+twin	<	sib
+platinum blond	<	blond
+game fish	<	fish
+access	<	right
+binoculars	<	optical instrument
+mumbler	<	speaker
+military uniform	<	uniform
+bandstand	<	platform
+American football game	<	football
+applicant	<	someone
+censor	<	person
+prothalamium	<	song
+chlamys	<	covering
+congress gaiter	<	shoe
+newness	<	age
+English lavender	<	lavender
+lady of pleasure	<	woman
+bowls	<	bowling
+doeskin	<	leather
+target language	<	language
+seaside	<	seashore
+soapberry	<	tree
+meno mosso	<	pacing
+rare-earth element	<	group
+ouster	<	someone
+anti	<	someone
+icetray	<	tray
+bagel	<	bun
+farm	<	workplace
+staggerer	<	pedestrian
+monolingual	<	someone
+guesser	<	somebody
+millinery	<	store
+bullet hole	<	hole
+earned run	<	run
+stair-rod	<	rod
+thrill	<	excitement
+rowel	<	wheel
+degustation	<	eating
+alms tray	<	tray
+zoning board	<	board
+cold rubber	<	rubber
+swerving	<	turning
+flour bin	<	bin
+chokecherry	<	fruit
+catchword	<	saying
+mailboat	<	boat
+ride	<	journey
+drinking	<	intake
+degustation	<	feeding
+rotating shaft	<	rod
+baize	<	cloth
+balsa wood	<	wood
+French leave	<	going
+chapterhouse	<	building
+racing	<	athletics
+fife	<	flute
+Virginia pine	<	pine
+skillet	<	pan
+taffeta	<	cloth
+timekeeping	<	activity
+center	<	area
+smock	<	coverall
+snuffbox	<	box
+IW	<	war
+cowgirl	<	cowpuncher
+ship''s boat	<	boat
+schoolroom	<	room
+combatant	<	someone
+calabash pipe	<	pipe
+common man	<	somebody
+applier	<	person
+Asian crocodile	<	crocodile
+Rosa moschata	<	rose
+miss	<	woman
+native language	<	language
+socializer	<	someone
+web site	<	computer
+aqua	<	blue
+womankind	<	people
+pea jacket	<	jacket
+gatherer	<	someone
+effectualness	<	power
+inkpad	<	block
+doctor	<	medical practitioner
+lanthanoid	<	group
+part name	<	word
+veau	<	meat
+heater	<	device
+storm window	<	window
+biretta	<	cap
+cap	<	headgear
+coatrack	<	rack
+hit	<	exploit
+draft beer	<	beer
+straggle	<	grouping
+cavalry sword	<	sword
+electric	<	auto
+housing	<	structure
+rag doll	<	doll
+silene	<	flower
+polytetrafluoroethylene	<	plastic
+theatre	<	building
+velveteen	<	cloth
+prickly ash	<	tree
+xenolith	<	rock
+campaign hat	<	hat
+red	<	spectral color
+wastebin	<	bin
+purplish pink	<	pink
+lash	<	hair
+taupe	<	brown
+Clusia flava	<	tree
+mug	<	containerful
+snail butter	<	sauce
+cabinet	<	piece of furniture
+telephone extension	<	telephone
+bandsman	<	musician
+mineral oil	<	oil
+cayenne	<	capsicum
+apparatchik	<	official
+unearned run	<	run
+coralwood	<	tree
+sensualist	<	someone
+circle	<	ellipse
+sensualist	<	somebody
+like	<	sort
+drawknife	<	knife
+Lysiloma bahamensis	<	tree
+Peter Pan	<	man
+patronne	<	sponsor
+sunlight	<	light
+duplex	<	house
+telephone interview	<	interview
+day	<	unit of time
+resurvey	<	study
+sheepskin coat	<	coat
+rumrunner	<	runner
+maw	<	mouth
+M-theory	<	model
+sandwort	<	flower
+yellowish brown	<	brown
+dropkick	<	kick
+plate rack	<	rack
+sun gear	<	gear
+abjurer	<	person
+soapberry tree	<	tree
+equestrian	<	rider
+soup du jour	<	soup
+hat shop	<	shop
+have	<	person
+scat singing	<	singing
+Cordia gerascanthus	<	tree
+hyssop oil	<	oil
+callisthenics	<	practice
+interior	<	region
+workwear	<	apparel
+Saponaria vaccaria	<	flower
+haberdashery	<	shop
+raster font	<	font
+quandang	<	tree
+Amerindian	<	person
+prestigiousness	<	standing
+creek	<	stream
+leftover	<	rest
+entourage	<	gathering
+casement window	<	window
+cheerleader	<	supporter
+music	<	auditory communication
+wild blue yonder	<	sky
+rink	<	building
+purple	<	spectral colour
+proscenium wall	<	wall
+explorer	<	somebody
+colored	<	Black person
+swimmer	<	athlete
+eristic	<	person
+history	<	past
+jack-o''-lantern	<	light
+laugher	<	someone
+quintuple	<	set
+ray of light	<	light
+young buck	<	teenager
+most valuable player	<	player
+pastry cook	<	chef
+revival meeting	<	rally
+atomic number 21	<	metal
+calm air	<	wind
+pong	<	malodour
+jet black	<	black
+pong	<	malodor
+woodwind family	<	class
+ammonia	<	liquid
+eating	<	consumption
+life raft	<	raft
+swain	<	man
+sandalwood	<	wood
+snowcap	<	covering
+totterer	<	pedestrian
+julienne	<	vegetable
+lemon oil	<	seasoning
+block of metal	<	block
+cup	<	crockery
+atomic number 66	<	metal
+Venetian red	<	brown
+one-hitter	<	baseball
+unfortunate	<	someone
+Centaurea moschata	<	flower
+slip	<	botch
+blogger	<	somebody
+woodlet	<	garden
+surrogate mother	<	mother
+testate	<	someone
+touch typing	<	typing
+flipper	<	shoe
+lot	<	large indefinite quantity
+cowboy hat	<	hat
+soccer	<	football
+squirrel	<	gnawer
+shmooze	<	talking
+W	<	metal
+squirrel cage	<	cage
+arts	<	discipline
+slop pail	<	bucket
+loanword	<	word
+latency stage	<	stage
+fictional animal	<	animal
+noncommissioned officer	<	officer
+frying	<	cooking
+spyglass	<	refracting telescope
+mahlstick	<	stick
+cutting edge	<	view
+lightning rod	<	person
+strengthener	<	device
+Capsicum annuum conoides	<	capsicum
+ghost town	<	town
+frightening	<	bullying
+spinney	<	brush
+white onion sauce	<	sauce
+stopcock	<	faucet
+lodgepole pine	<	pine
+legume	<	climber
+microwave	<	electromagnetic radiation
+creeping soft grass	<	grass
+aborigine	<	someone
+cardboard	<	wadding
+African	<	someone
+trash	<	waste matter
+cob	<	edible nut
+spouse equivalent	<	person
+jerked meat	<	meat
+home from home	<	home
+shank''s mare	<	leg
+constructivist	<	artist
+dog	<	canid
+Gymnocladus dioica	<	tree
+springing cow	<	cow
+horn fly	<	fly
+boxing	<	contact sport
+killer	<	somebody
+beaver	<	fur
+hater	<	person
+dandy	<	man
+liquor store	<	shop
+twopence	<	coin
+Conocarpus erectus	<	tree
+kingwood tree	<	tree
+abjurer	<	someone
+ablution	<	washing
+atomic number 71	<	metal
+debris	<	trash
+bony fish	<	fish
+blowgun	<	tube
+buddy	<	friend
+coronach	<	song
+serge	<	cloth
+excreta	<	waste
+slicing	<	golf stroke
+small person	<	person
+climbing	<	rising
+quantitative analysis	<	measuring
+woman''s clothing	<	clothing
+frier	<	chicken
+blotter	<	paper
+mud	<	dirt
+antiaircraft	<	gun
+toucher	<	someone
+ripple	<	wave
+Eu	<	metal
+front room	<	room
+beau	<	man
+horseless carriage	<	car
+dude	<	man
+barbed wire	<	wire
+stirrup cup	<	drink
+garbage can	<	bin
+usherette	<	guide
+Nyctaginia capitata	<	flower
+tailwind	<	wind
+bathymetry	<	measuring
+forty-five	<	pistol
+blocker	<	footballer
+Spanish elm	<	tree
+dyslectic	<	person
+duo	<	two
+Rangifer arcticus	<	reindeer
+biter	<	someone
+anemometry	<	measuring
+photomicrograph	<	photo
+podium	<	platform
+joyride	<	ride
+potbelly stove	<	stove
+ducat	<	coin
+black	<	achromatic colour
+hind limb	<	limb
+sapote	<	tree
+expanse	<	range
+song	<	opus
+built-in bed	<	bed
+mauve	<	purple
+sounding board	<	someone
+provincial capital	<	city
+bitthead	<	end
+clothing	<	consumer goods
+platinum blond	<	blonde
+womanizer	<	man
+afghan	<	blanket
+inclemency	<	weather
+Idesia polycarpa	<	tree
+crag	<	cliff
+beachwear	<	clothing
+Alces alces	<	deer
+downhill	<	declivity
+window seat	<	bench
+Morlett''s crocodile	<	crocodile
+millpond	<	pond
+homosexual	<	someone
+equal	<	somebody
+snake charmer	<	performer
+trente-et-quarante	<	cards
+butter	<	dairy product
+herd''s grass	<	grass
+cycle rickshaw	<	tricycle
+African	<	somebody
+sheepwalk	<	farm
+genital phase	<	stage
+blue baby	<	infant
+lagune	<	lake
+light touch	<	touching
+withholder	<	someone
+chad	<	paper
+Sunna	<	path
+insured person	<	someone
+eye	<	sensory receptor
+traveler	<	someone
+pasteboard	<	cardboard
+Ursus arctos	<	bear
+momma	<	mother
+violin family	<	class
+aper	<	person
+nonpasserine bird	<	bird
+butte	<	hill
+war vessel	<	ship
+gum boot	<	boot
+concert	<	performance
+assizes	<	court
+method acting	<	acting
+dominatrix	<	woman
+wheel tree	<	tree
+peroxide blonde	<	blonde
+liberty cap	<	cap
+parkway	<	road
+double-spacing	<	typing
+summit meeting	<	meeting
+head cold	<	cold
+summerhouse	<	building
+albizzia	<	tree
+person	<	organism
+achene	<	fruit
+wheatgrass	<	grass
+termer	<	someone
+land	<	realty
+bride	<	honeymooner
+gambling den	<	building
+mugho pine	<	pine
+pose	<	affectedness
+shoofly	<	policeman
+climb	<	incline
+effluent	<	waste
+termer	<	somebody
+outcaste	<	person
+tipu tree	<	tree
+acoustic	<	curative
+bimbo	<	girl
+parallel-veined leaf	<	leaf
+Perodicticus potto	<	lemur
+old	<	yesteryear
+totemist	<	someone
+heroics	<	acting
+composite plant	<	flower
+linden	<	wood
+pocketknife	<	knife
+sonny	<	boy
+histocompatibility complex	<	class
+main-topsail	<	sail
+firearm	<	gun
+cloth	<	artifact
+neuropteran	<	insect
+nondrinker	<	someone
+weigher	<	official
+atomic number 97	<	metal
+chondrichthian	<	fish
+mestizo	<	person
+sport utility vehicle	<	car
+Clatonia lanceolata	<	flower
+practitioner	<	professional
+string	<	cord
+observatory	<	building
+test tube	<	tube
+loose cannon	<	somebody
+South American poison toad	<	toad
+free will	<	power
+isometric exercise	<	exercising
+terbium	<	metal
+freshet	<	flowing
+training ship	<	ship
+gunfight	<	fighting
+wainscoting	<	wall
+end-all	<	goal
+Rosa laevigata	<	rose
+punnet	<	basket
+Mentzelia laevicaulis	<	flower
+dishwashing	<	washing
+Liopelma hamiltoni	<	frog
+continuation	<	activity
+broadsword	<	sword
+bath water	<	water
+yak	<	talking
+White person	<	person
+monsoon	<	wind
+armchair	<	chair
+plunge	<	swim
+parachute jumper	<	jumper
+farmplace	<	farm
+bearnaise	<	sauce
+cyclorama	<	picture
+extrication	<	freeing
+sweetening	<	seasoning
+word	<	language unit
+graffiti	<	decoration
+Scorpion	<	somebody
+deer	<	ruminant
+snout	<	nose
+local call	<	call
+calico	<	cloth
+flash bulb	<	lamp
+pelecaniform seabird	<	seabird
+propositus	<	someone
+jail cell	<	room
+registration fire	<	firing
+gable roof	<	roof
+lion cub	<	lion
+sidewalk	<	walkway
+speechmaker	<	speaker
+wiesenboden	<	dirt
+plasterwork	<	surface
+sourdough bread	<	bread
+clarinettist	<	musician
+salver	<	tray
+greens	<	vegetable
+daybed	<	sofa
+food product	<	food
+Rosa spithamaea	<	rose
+Bermuda shorts	<	shorts
+beeline	<	route
+afternoon tea	<	meal
+lemon-wood tree	<	tree
+introvert	<	someone
+bedroom furniture	<	furniture
+job interview	<	interview
+crenate leaf	<	leaf
+whinstone	<	rock
+drizzle	<	rain
+accidental injury	<	accident
+seeder	<	person
+milk can	<	can
+plume grass	<	grass
+inferior court	<	court
+circumference	<	size
+conversationalist	<	speaker
+cage	<	enclosure
+ivory tree	<	tree
+lakeside	<	shore
+Dayton ax	<	axe
+seaplane	<	plane
+pelf	<	money
+teakwood	<	wood
+eastern chimpanzee	<	chimp
+oxford gray	<	gray
+round trip	<	trip
+duffel coat	<	coat
+shaker	<	person
+bulrush millet	<	cereal
+sheet of paper	<	paper
+haberdashery store	<	store
+conceptus	<	animal
+sail	<	piece of material
+ink	<	liquid
+boutique	<	store
+junk shop	<	store
+stapler	<	machine
+tidal stream	<	stream
+fire-swallower	<	performer
+sickbed	<	bed
+teetertotter	<	toy
+Hawaiian guitar	<	guitar
+soul food	<	food
+Belgian hare	<	rabbit
+meadow fescue	<	grass
+asphyxiator	<	device
+junk e-mail	<	email
+no-go area	<	area
+single-breasted suit	<	suit
+elements	<	weather
+linksman	<	player
+demander	<	someone
+jazz	<	talking
+cashmere	<	cloth
+military reserve	<	military
+velvet grass	<	grass
+student union	<	building
+metallic	<	fabric
+inoculating	<	protection
+bikers	<	youth subculture
+soupspoon	<	spoon
+advocate	<	someone
+uropygium	<	tail
+swimming cap	<	cap
+drug user	<	someone
+flyover	<	bridge
+Brie	<	cheese
+powder blue	<	blue
+lantern	<	lamp
+opal glass	<	glass
+magician	<	performing artist
+Psittacus erithacus	<	parrot
+substrate	<	substance
+energizing	<	activity
+Rosa eglanteria	<	rose
+game equipment	<	equipment
+commelina	<	flower
+mountainside	<	slope
+Aix sponsa	<	duck
+barytone	<	singer
+grad school	<	school
+hooks	<	mitt
+sneezing	<	inborn reflex
+forest	<	botany
+second string	<	team
+adoptee	<	person
+hindlimb	<	limb
+signatory	<	person
+cheese	<	solid food
+minestrone	<	soup
+louvered window	<	window
+meat hooks	<	mitt
+teeterboard	<	toy
+chapiter	<	top
+gossiping	<	conversation
+isotonic exercise	<	exercising
+lasagne	<	pasta
+hit squad	<	team
+blue grass	<	grass
+sound truck	<	truck
+wealthy person	<	someone
+depicting	<	representational process
+thysanopter	<	insect
+vocalist	<	musician
+Parmesan	<	cheese
+American football	<	football
+commissary	<	shop
+abandoned ship	<	ship
+francium	<	metal
+culinary art	<	cooking
+birretta	<	cap
+atomic number 29	<	metal
+squad car	<	automobile
+clothes tree	<	pole
+chief of staff	<	officer
+sunflower	<	flower
+locking	<	protection
+audience	<	assemblage
+transept	<	structure
+dumper	<	truck
+lavender	<	bush
+rebato	<	collar
+racquetball	<	ball
+histrion	<	performer
+free association	<	thinking
+spike mike	<	microphone
+Andaman marble	<	tree
+vacation spot	<	area
+blanket	<	bed clothing
+lav	<	room
+gunpoint	<	muzzle
+Paspalum notatum	<	grass
+spectrogram	<	photo
+trolley coach	<	bus
+equitation	<	sport
+detector	<	device
+football stadium	<	stadium
+snare drum	<	drum
+bakehouse	<	store
+planet wheel	<	gear
+steakhouse	<	restaurant
+Kirkia wilmsii	<	tree
+fair	<	show
+toe dance	<	dancing
+cereal	<	grass
+source language	<	language
+leg exercise	<	exercising
+eyeshadow	<	makeup
+congress boot	<	shoe
+pinwheel	<	subshrub
+barcarole	<	song
+hummer	<	singer
+hypotensive	<	patient
+virgin forest	<	woods
+mother	<	parent
+suite	<	piece of music
+ruby wood	<	wood
+drip	<	flowing
+carrier bag	<	bag
+tube	<	conduit
+appellate court	<	court
+rock outcrop	<	rock
+handicapped person	<	person
+ringside	<	seating
+teashop	<	restaurant
+dieter	<	person
+truck driver	<	driver
+bunny rabbit	<	rabbit
+human head	<	head
+dance master	<	dancer
+tipu	<	tree
+bedframe	<	furniture
+fertilization age	<	age
+town	<	municipality
+shall-flower	<	ginger
+Cervus elaphus canadensis	<	deer
+doer	<	person
+ethnos	<	grouping
+rabbit	<	leporid mammal
+Kakemono	<	hanging
+surface soil	<	dirt
+plodder	<	pedestrian
+hunger strike	<	fasting
+hydrant	<	faucet
+Chrysanthemum coccineum	<	flower
+compound leaf	<	leaf
+metallic	<	textile
+fivepence	<	coin
+envelope	<	container
+loge	<	balcony
+Sinology	<	arts
+watch glass	<	dish
+wampum	<	money
+pachuco	<	teenager
+pirogue	<	canoe
+sweet corn	<	corn
+toe dancing	<	dancing
+Delphinium ajacis	<	flower
+trip	<	journeying
+glucinium	<	metal
+strikeout	<	out
+village	<	community
+knuckles	<	weapon
+barrage	<	language
+namer	<	person
+blonde	<	mortal
+dismantling	<	activity
+tanner	<	coin
+gravestone	<	monument
+baby''s dummy	<	device
+bin	<	container
+coffeepot	<	pot
+candle flame	<	light
+schizanthus	<	flower
+guanaco	<	llama
+posterboard	<	cardboard
+aide	<	officer
+atomic number 62	<	metal
+lensman	<	artist
+guesthouse	<	house
+otter	<	fur
+footplate	<	platform
+leaving	<	human activity
+break dancing	<	dancing
+bechamel	<	sauce
+spear	<	weapon
+airliner	<	plane
+Melia Azadirachta	<	tree
+yashmak	<	veil
+yellowwood	<	wood
+zip gun	<	pistol
+conacaste	<	tree
+line of flight	<	route
+observance	<	looking
+strait and narrow	<	path
+red ginger	<	ginger
+edible banana	<	banana
+argle-bargle	<	arguing
+wainscotting	<	wall
+attempt	<	activity
+Rhinoceros unicornis	<	rhino
+nap	<	period of time
+disassembly	<	activity
+mite box	<	box
+stunt flying	<	flying
+swimming trunks	<	swimsuit
+pianist	<	musician
+schoolhouse	<	building
+papa	<	father
+compound eye	<	eye
+safflower oil	<	oil
+caudal appendage	<	tail
+rathole	<	hole
+paperwork	<	work
+kneeler	<	someone
+horse racing	<	racing
+gunny sack	<	bag
+scooter	<	powerboat
+neglecter	<	person
+truck	<	automotive vehicle
+kneeler	<	somebody
+maimed	<	people
+Moschus moschiferus	<	deer
+whipping	<	whacking
+Robert Indiana	<	artist
+louse	<	insect
+trousering	<	cloth
+printing press	<	machine
+necrophagy	<	feeding
+home computer	<	computer
+arms	<	instrumentation
+hologram	<	photo
+bell deck	<	floor
+second-rater	<	someone
+contriver	<	somebody
+measurer	<	person
+variety meat	<	meat
+seeded player	<	player
+occultist	<	somebody
+Piscidia piscipula	<	tree
+populace	<	people
+prairie gourd	<	fruit
+hawk nose	<	nose
+numerousness	<	number
+recording machine	<	equipment
+cathouse	<	building
+cowlick	<	hair
+shrubbery	<	area
+good old days	<	past
+vegetable	<	produce
+spathe flower	<	flower
+lifestyle	<	fashion
+north-south direction	<	direction
+tummy crunch	<	exercising
+mascara	<	makeup
+cross	<	structure
+stammerer	<	speaker
+obtainment	<	getting
+second-rater	<	somebody
+handling	<	manual labor
+ripcord	<	cord
+calabash tree	<	tree
+gas gun	<	gun
+air current	<	weather
+thirster	<	somebody
+spray	<	pesticide
+arcade	<	passageway
+dormer window	<	window
+crossing	<	travel
+calla	<	flower
+mustang	<	pony
+magnetic bottle	<	container
+conjugal family	<	family
+captor	<	person
+combatant	<	person
+two	<	digit
+fly gallery	<	platform
+blue daisy	<	flower
+small ship	<	ship
+holonym	<	word
+book matches	<	match
+titfer	<	hat
+hickory	<	wood
+pongee	<	cloth
+Alstonia scholaris	<	tree
+nammad	<	carpet
+hunter''s sauce	<	sauce
+byplay	<	acting
+appeals board	<	board
+measuring	<	activity
+badminton racket	<	racquet
+roadster	<	automobile
+coat	<	outer garment
+colubrid snake	<	snake
+heavy metal	<	metal
+chimp	<	great ape
+suturing	<	sewing
+census taker	<	official
+noncompliant	<	person
+fire-bellied toad	<	frog
+structural steel	<	steel
+anti	<	person
+urinator	<	someone
+platyrrhine	<	monkey
+nargileh	<	pipe
+beagling	<	hunting
+Pterocarpus santalinus	<	tree
+bus route	<	route
+no-goal	<	goal
+inamorato	<	man
+cheerleader	<	admirer
+sheepdog	<	working dog
+birdseed grass	<	grass
+screwing	<	sex act
+aviary	<	building
+duel	<	fighting
+Mutawa''een	<	police
+ferryboat	<	boat
+sowbread	<	flower
+party girl	<	girl
+Tl	<	metal
+pledger	<	adult
+mooring tower	<	tower
+trash bin	<	bin
+computer user	<	someone
+motorcycle cop	<	policeman
+grove	<	woods
+dog rose	<	rose
+casket	<	box
+human action	<	event
+bit	<	small indefinite amount
+desk phone	<	telephone
+shambling	<	walking
+package store	<	store
+remnant	<	rest
+cottage cheese	<	cheese
+drawshave	<	knife
+finishing school	<	school
+spring beauty	<	flower
+bunter	<	batter
+shanks'' mare	<	leg
+air traffic	<	traffic
+side chair	<	chair
+clematis	<	climber
+croquet ball	<	ball
+Sarcophaga carnaria	<	fly
+violin	<	bowed stringed instrument
+flashbulb	<	lamp
+sparring	<	contestation
+exercise set	<	exercise
+segregate	<	person
+Potemkin village	<	fake
+skier	<	athlete
+dart player	<	player
+turtle	<	T-shirt
+chinchona	<	tree
+compulsive	<	someone
+good guy	<	someone
+corbel step	<	stair
+Armenian Church	<	church
+Africander	<	cattle
+Wiffle	<	ball
+filming	<	photography
+sex object	<	somebody
+following	<	hoi polloi
+showman	<	someone
+tough	<	fighter
+cartridge font	<	font
+dough	<	concoction
+buckthorn berry	<	fruit
+no-hit game	<	baseball
+flatmate	<	friend
+caramelized sugar	<	sugar
+osmium	<	metal
+Alsobia dianthiflora	<	flower
+police investigation	<	investigating
+Arrhenatherum elatius	<	grass
+square	<	rectangle
+beauty parlor	<	shop
+bookstall	<	shop
+antonym	<	word
+safe house	<	house
+adhesive friction	<	rubbing
+drinking straw	<	tube
+shotgun	<	firearm
+house physician	<	doctor
+clothes	<	habiliment
+kitchen garden	<	garden
+paraquet	<	parrot
+Hessian boot	<	boot
+eristic	<	someone
+road map	<	program
+colored	<	blackamoor
+concerted music	<	music
+namer	<	someone
+sale	<	selling
+marchand de vin	<	sauce
+gerardia	<	flower
+holometabola	<	insect
+cloth cap	<	cap
+B-girl	<	woman
+wall	<	partition
+free spirit	<	someone
+sleepyhead	<	somebody
+pillar of strength	<	sponsor
+protester	<	person
+African crocodile	<	crocodile
+skin and bones	<	person
+slogger	<	pedestrian
+red sanders	<	tree
+polypropene	<	plastic
+Dalbergia cearensis	<	tree
+licenser	<	official
+yellow berry	<	fruit
+timothy	<	grass
+gay	<	person
+take-up	<	device
+struggler	<	someone
+beacon light	<	tower
+residuum	<	part
+tract house	<	house
+calculus	<	stone
+drumstick	<	serving
+bullock	<	bull
+vestiture	<	clothing
+fatigue crack	<	crack
+caftan	<	dress
+orchard	<	garden
+sodium silicate	<	glass
+thirster	<	person
+crowd	<	gathering
+episcopacy	<	people
+desertic soil	<	dirt
+Dixie cup	<	cup
+saying	<	oral communication
+Bailey bridge	<	bridge
+faddist	<	person
+spouse equivalent	<	somebody
+optical instrument	<	instrument
+navy blue	<	blue
+auto racing	<	racing
+leg exercise	<	exercise
+house paint	<	paint
+shellfire	<	shooting
+Native American	<	somebody
+ancients	<	people
+teal	<	green
+food fish	<	fish
+calendula	<	flower
+silicone resin	<	plastic
+Romantic Movement	<	arts
+vivarium	<	enclosure
+witnesser	<	speaker
+basketball	<	court game
+multi-billionaire	<	have
+postal service	<	communicating
+Lysiloma latisiliqua	<	tree
+penetralia	<	inside
+blotting paper	<	paper
+limousine	<	car
+native	<	someone
+hedgehog	<	gnawer
+beetle	<	insect
+missionary work	<	work
+raincoat	<	coat
+dentate leaf	<	leaf
+bread-stick	<	bread
+surrenderer	<	person
+shattering	<	breaking
+capillary	<	tube
+police chief	<	policeman
+correspondence school	<	school
+golden retriever	<	retriever
+muntjac	<	deer
+beefcake	<	photo
+parka	<	jacket
+chorus girl	<	dancer
+skybox	<	stadium
+bicycle wheel	<	wheel
+roulette ball	<	ball
+jalousie	<	window
+personation	<	acting
+atomic number 76	<	metal
+cretonne	<	cloth
+puissance	<	power
+guaiac	<	wood
+rest	<	component part
+kept woman	<	woman
+sniffler	<	somebody
+gatekeeper	<	somebody
+communication channel	<	communicating
+pavior	<	machine
+Euarctos americanus	<	bear
+red silk-cotton tree	<	tree
+deli	<	store
+deceased	<	person
+accordance of rights	<	giving
+hip boot	<	boot
+left	<	position
+board	<	commission
+penuchle	<	cards
+socializer	<	somebody
+testate	<	person
+defecator	<	person
+chinaberry tree	<	tree
+bad guy	<	somebody
+admittance	<	right
+sledding	<	sport
+somebody	<	organism
+beechwood	<	wood
+bull	<	kine
+stretching	<	expansion
+herm	<	statue
+package	<	aggregation
+underbelly	<	bottom
+shelter	<	structure
+prairie schooner	<	wagon
+barber chair	<	chair
+steps	<	staircase
+smasher	<	somebody
+stenography	<	handwriting
+pot	<	cooking utensil
+opposite	<	word
+social insect	<	insect
+lemon	<	citrus
+tank	<	armoured vehicle
+mustachio	<	moustache
+burr drill	<	drill
+cheddar cheese	<	cheese
+pyroligneous acid	<	liquid
+vegetable	<	green groceries
+Sagittarius	<	someone
+deceased person	<	someone
+boxwood	<	wood
+tollbar	<	gate
+generation	<	people
+brushing	<	dental care
+bioattack	<	war
+tightrope	<	rope
+white mangrove	<	tree
+subgroup	<	grouping
+hairstyle	<	hair
+Cervus nipon	<	deer
+volary	<	building
+policewoman	<	police officer
+close-quarter fighting	<	fighting
+podsol soil	<	dirt
+semi-abstraction	<	painting
+neighbour	<	person
+bongo	<	drum
+pentimento	<	painting
+Aythya americana	<	duck
+ice-cream soda	<	drink
+program	<	idea
+manicure	<	tending
+effort	<	activity
+official	<	skilled workman
+bawd	<	woman
+steam bath	<	room
+sensor	<	device
+blond	<	mortal
+business lunch	<	lunch
+stealth	<	hiding
+Pinus radiata	<	pine
+spreading	<	change of location
+dromedary	<	camel
+baldy	<	someone
+escapism	<	recreation
+pasture	<	grassland
+beach waggon	<	automobile
+equal	<	person
+intimate	<	friend
+popularism	<	music
+pug-dog	<	dog
+cabotage	<	right
+pamperer	<	someone
+rhythm and blues musician	<	musician
+backhander	<	blow
+coatroom	<	room
+sugar spoon	<	spoon
+Moehringia mucosa	<	flower
+creel	<	basket
+vocable	<	word
+fluorescent lamp	<	lamp
+houri	<	woman
+clock golf	<	golf
+chebab	<	teenager
+amigo	<	friend
+horn poppy	<	flower
+blue green	<	green
+Little Lord Fauntleroy	<	boy
+review copy	<	book
+artificial lake	<	lake
+growler	<	speaker
+balmoral	<	shoe
+legs	<	toughness
+skibob	<	vehicle
+abstract thought	<	thinking
+privy	<	room
+interviewer	<	asker
+face powder	<	makeup
+nosebag	<	bag
+Turkey red	<	red
+winker	<	somebody
+celebrator	<	somebody
+plecopteran	<	insect
+excitement	<	joy
+Aladdin''s lamp	<	lamp
+raising	<	rising
+outfit	<	social unit
+clip-on	<	device
+dry milk	<	milk
+till	<	dirt
+Pterocarpus indicus	<	tree
+sentimentalist	<	somebody
+bean tree	<	tree
+knife	<	edge tool
+trip line	<	rope
+dutch auction	<	selling
+testate	<	somebody
+eye opener	<	drink
+french-fried potatoes	<	potato
+blue fig	<	fruit
+dustbin	<	bin
+maimer	<	person
+end point	<	end
+roving	<	travelling
+Fresnel lens	<	lens
+quantum leap	<	jump
+Native American	<	someone
+jaunting car	<	cart
+creditor	<	somebody
+doubloon	<	coin
+gat	<	pistol
+sloucher	<	somebody
+riser	<	someone
+woods	<	botany
+military	<	personnel
+dimity	<	cloth
+smoulder	<	fire
+dry cleaners	<	shop
+excretory product	<	waste
+sound barrier	<	drag
+scabiosa	<	flower
+jehad	<	war
+call fire	<	firing
+inhabitant	<	someone
+person of color	<	somebody
+Sinornis	<	bird
+indument	<	covering
+gran casa	<	drum
+conservativist	<	adult
+top	<	region
+portico	<	porch
+hugger	<	someone
+lucre	<	money
+lady''s laces	<	grass
+artificial flower	<	art
+litoral	<	seashore
+stud	<	man
+achimenes	<	flower
+safety bike	<	bicycle
+line of fire	<	route
+Sicilian pizza	<	pizza
+Asiatic flying squirrel	<	squirrel
+oral stage	<	stage
+ninepin ball	<	ball
+dapple-gray	<	gray
+cart	<	wagon
+thespian	<	performer
+storage area	<	enclosure
+bentwood	<	wood
+nonresident	<	person
+canal boat	<	boat
+lookout station	<	structure
+demi-glaze	<	sauce
+feathertop	<	grass
+tongue	<	organ
+ectomorph	<	someone
+hyperfocal distance	<	distance
+observer	<	someone
+nickel	<	metal
+enjoyer	<	somebody
+meal	<	nutriment
+atomic number 38	<	metal
+hangman''s halter	<	rope
+pasta sauce	<	sauce
+longboat	<	boat
+sound	<	sound property
+knower	<	person
+cotton gin	<	machine
+motorbike	<	motorcycle
+chromatography column	<	tube
+pea soup	<	soup
+garden	<	plot of land
+evil eye	<	looking
+gazebo	<	building
+bedrock	<	stone
+rock hind	<	hind
+novelisation	<	writing
+peeling	<	organic phenomenon
+yellow	<	spectral colour
+skipping rope	<	rope
+oat	<	cereal
+Mackinaw blanket	<	blanket
+mailbox	<	box
+yap	<	mouth
+jalopy	<	car
+baboo	<	man
+Lovoa klaineana	<	tree
+sandpile	<	toy
+worm snake	<	snake
+caramel brown	<	brown
+Protestant Church	<	church
+newborn baby	<	infant
+state supreme court	<	court
+mineral jelly	<	mixture
+neon tube	<	lamp
+laboratory coat	<	coat
+plane tree	<	tree
+neck exercise	<	exercising
+lassie	<	girl
+acacia	<	tree
+Phalaris aquatica	<	grass
+endomorph	<	someone
+Japanese black pine	<	pine
+burl	<	wood
+insufficiency	<	failing
+signore	<	man
+sumac	<	wood
+rogue elephant	<	elephant
+exercise device	<	device
+Wilton	<	carpet
+sniffler	<	someone
+Leucaena glauca	<	tree
+ranid	<	toad
+decoction process	<	boiling
+cardiopulmonary exercise	<	exercise
+viper	<	snake
+Musa acuminata	<	banana
+golf player	<	player
+park	<	parcel of land
+polonaise	<	dress
+puking	<	ejection
+gunplay	<	fighting
+fraternal twin	<	twin
+superpower	<	country
+wash-hand stand	<	furniture
+mainland	<	ground
+borshch	<	soup
+rear lamp	<	lamp
+subcompact	<	automobile
+chokehold	<	power
+loveseat	<	couch
+sex object	<	someone
+outdoors	<	exterior
+river boat	<	boat
+atomic number 80	<	metal
+captor	<	somebody
+Leo	<	somebody
+surfing	<	water sport
+purification	<	cleansing
+chicot	<	tree
+bijou	<	jewelry
+supping	<	feeding
+cascabel	<	bell
+Velcro	<	cloth
+appointment book	<	book
+air cover	<	protection
+pappa	<	father
+cardboard	<	packing
+roundelay	<	song
+setoff	<	structure
+kaiser roll	<	bun
+small fry	<	nobody
+game of chance	<	game
+saree	<	dress
+rich person	<	someone
+tiger	<	person
+antifouling paint	<	paint
+trial court	<	court
+indigene	<	somebody
+togs	<	clothing
+cataphyll	<	leaf
+Melia azederach	<	tree
+piano	<	stringed instrument
+Bactrian camel	<	camel
+hooter	<	nose
+saloon keeper	<	owner
+orangewood	<	wood
+cast of characters	<	gathering
+wiggler	<	person
+mantel	<	shelf
+quandong	<	tree
+gumwood	<	wood
+soot black	<	black
+lateral	<	passing
+bling bling	<	jewelry
+cluster	<	agglomeration
+bridesmaid	<	woman
+simal	<	tree
+white ant	<	insect
+bullring	<	stadium
+school ship	<	ship
+earwig	<	insect
+crucible steel	<	steel
+Scots pine	<	pine
+retirement account	<	program
+atomic number 3	<	metal
+inner tube	<	tube
+lecture room	<	classroom
+Lansium domesticum	<	tree
+qibla	<	direction
+ephemeropteran	<	insect
+brushwood	<	wood
+clearway	<	road
+lanthanon	<	group
+toucher	<	somebody
+dwarf banana	<	banana
+sand painting	<	painting
+cub	<	tiro
+back exercise	<	exercise
+dizygotic twin	<	twin
+racing	<	sport
+runner	<	crook
+divulgement	<	revealing
+controversialist	<	person
+bequest	<	gift
+legislative branch	<	branch
+anaerobic exercise	<	exercise
+wallflower	<	flower
+phasmid insect	<	insect
+workbook	<	book
+store	<	outlet
+carpenter bee	<	bee
+lariat	<	rope
+corrective	<	device
+dipteron	<	insect
+parroket	<	parrot
+cautious	<	people
+cellist	<	musician
+Aix galericulata	<	duck
+stroller	<	pedestrian
+heroics	<	performing
+F.I.S.C.	<	court
+arguing	<	dispute
+prawn	<	seafood
+handbasket	<	container
+fife rail	<	railing
+soapwort	<	flower
+corn	<	cereal grass
+bird louse	<	insect
+contingent	<	gathering
+cricket	<	orthopterous insect
+battler	<	someone
+cheeseboard	<	tray
+panzer	<	tank
+nacelle	<	enclosure
+balcony	<	structure
+actus reus	<	activity
+fleer	<	somebody
+Welsh Black	<	cows
+professional basketball	<	basketball
+classroom	<	room
+fire-bellied toad	<	toad
+khaki	<	cloth
+Pre-Raphaelite	<	artist
+carafe	<	bottle
+cross-dresser	<	somebody
+cricket	<	orthopteron
+computer user	<	somebody
+diminutive	<	word
+applicant	<	person
+veterinary school	<	school
+sounding board	<	somebody
+skit	<	acting
+outerwear	<	clothing
+aminoplast	<	plastic
+floorshow	<	show
+clothing store	<	store
+stud farm	<	farm
+consomme	<	soup
+Tm	<	metal
+brandish	<	waving
+paint	<	colouring material
+shielding	<	protection
+whiteout	<	snow
+Bahia grass	<	grass
+mozzarella	<	cheese
+ramrod	<	rod
+browsing	<	reading
+designated driver	<	driver
+Osmanthus americanus	<	tree
+Aertex	<	cloth
+Fe	<	metal
+engineer	<	someone
+umbrellawort	<	flower
+police boat	<	boat
+root climber	<	climber
+rough	<	land site
+double glazing	<	window
+soaker	<	rain
+weight gainer	<	person
+predatory animal	<	animal
+photographer	<	artist
+cartoon	<	humor
+pinkie	<	finger
+anastigmat	<	lens
+win	<	triumph
+beauty parlour	<	store
+ouster	<	person
+cocktail sauce	<	sauce
+Polaroid Land camera	<	camera
+baby buster	<	person
+sermon	<	speech
+hair style	<	hair
+mojo	<	magic
+pastime	<	recreation
+secondary	<	formation
+beholder	<	person
+applicator	<	device
+coterie	<	band
+kayak	<	canoe
+splat	<	splash
+manta	<	blanket
+puking	<	unconditioned reflex
+pack	<	large indefinite quantity
+wedding picture	<	photo
+common axe	<	axe
+roof	<	protective cover
+fatal accident	<	accident
+hospital room	<	room
+counterterrorist	<	person
+excelsior	<	packing
+dancing school	<	school
+shakedown	<	fitting
+chutzpanik	<	someone
+public speaking	<	speech
+Slav	<	person
+jinrikisha	<	cart
+Ibero-mesornis	<	bird
+patina	<	coating
+young	|	homoiotherm
+tiger	|	expert
+centrist	|	elder
+disentangler	|	married
+jumper	|	drug user
+traffic	|	set
+mail service	|	discussion
+fiduciary	|	married
+bedground	|	corner
+II	|	five
+coal scuttle	|	spoon
+talking	|	table talk
+cattail millet	|	corn
+man of the world	|	man
+swimsuit	|	cat suit
+barrel	|	capillary tubing
+Virgo	|	blond
+drawer	|	Dumpster
+saltcellar	|	purse
+applied scientist	|	blonde
+basket	|	wastebasket
+gatherer	|	blonde
+spoon	|	flowerpot
+basket	|	cargo container
+gambling	|	bathing
+tower	|	deathtrap
+blonde	|	acquirer
+guinea	|	bezzant
+gun	|	stun gun
+married	|	affiant
+one	|	ternion
+carpet	|	mat
+khaki	|	towelling
+darkroom	|	kitchen
+assemblage	|	band
+nap	|	night
+starlight	|	sunshine
+purse	|	watering can
+pianist	|	trumpeter
+acting	|	leadership
+diastema	|	hole
+ribbon	|	small beer
+sled	|	Dodgem
+sunset	|	crepuscule
+adult	|	computer user
+sleeping room	|	kitchen
+social gathering	|	throng
+washing	|	polishing
+musclebuilder	|	jumper
+activity	|	going away
+veil	|	scarf
+sedan	|	electric automobile
+mother hen	|	jumper
+racer	|	speeder
+jumper	|	miracle man
+tiger	|	chooser
+rye grass	|	cereal
+market	|	usage
+powderer	|	tiger
+adult	|	muscle builder
+blonde	|	weight gainer
+Conestoga wagon	|	cart
+activating	|	concealing
+funeral pyre	|	stack
+unraveler	|	friend
+bag	|	Dumpster
+kick	|	biff
+bobby	|	policewoman
+boiling	|	melting
+veil	|	bathing suit
+creative activity	|	practice
+bootjack	|	keyboard
+shotgun	|	rifle
+linksman	|	footballer
+cargo container	|	empty
+creek	|	rivulet
+storage room	|	classroom
+neckpiece	|	uniform
+cross	|	post and lintel
+khaki	|	percale
+recreation	|	concealing
+empty	|	dice cup
+male	|	critter
+uniform	|	garment
+bag	|	cannister
+guy	|	signore
+tiger	|	small person
+computer user	|	jumper
+contraceptive device	|	keyboard
+supporting structure	|	stadium
+reliquary	|	cup
+dead	|	business people
+protective garment	|	uniform
+dock	|	cargo deck
+swimming	|	surfing
+animal	|	someone
+five	|	trio
+blower	|	machine
+workforce	|	military
+warfare	|	fight
+cereal	|	zoysia
+celebrant	|	tiger
+log	|	yellow poplar
+adult	|	squinter
+hat	|	turban
+machine	|	dart thrower
+spouse equivalent	|	have
+fountain grass	|	cereal
+gaslight	|	sunshine
+two	|	fivesome
+prophylactic device	|	keyboard
+cereal	|	St. Augustine grass
+passeriform bird	|	parrot
+militarist	|	elder
+misogamist	|	married
+meeting	|	mass meeting
+bullfighter	|	have
+adult	|	common man
+tiger	|	right hander
+lodging	|	stadium
+nonpartisan	|	friend
+belligerent	|	adult
+jumper	|	demander
+entablature	|	balcony
+golden ager	|	man
+metallic	|	watered-silk
+opposer	|	jumper
+blond	|	user
+surface	|	fabric
+field	|	short
+critter	|	young
+railing	|	jetty
+landing	|	dais
+quintuplet	|	three
+rocket	|	sledge
+cop	|	police detective
+friend	|	right hander
+dead	|	developmentally challenged
+bank	|	climb
+tower	|	honeycomb
+public relations person	|	blonde
+copycat	|	jumper
+contemporaries	|	dead
+tall oat grass	|	cereal
+goad	|	fan
+climbing	|	elevation
+ward	|	have
+friend	|	sex object
+rap group	|	crowd
+suction cup	|	fan
+married	|	testator
+teenager	|	preteen
+shipway	|	bridge
+beret	|	toboggan cap
+ostrich	|	tiger
+assist	|	hiding
+singer	|	recorder player
+jacket	|	fur coat
+toy	|	block
+bedroom	|	privy
+married	|	cross-dresser
+important person	|	elder
+unfortunate person	|	jumper
+stay-at-home	|	elder
+slave	|	friend
+adult	|	pisser
+observatory	|	rink
+cannister	|	can
+spoon	|	cup
+haunt	|	middle
+canyonside	|	climb
+musician	|	conjurer
+handicapped person	|	tiger
+B-girl	|	girl
+cast	|	throng
+none	|	gloaming
+dentate leaf	|	blade
+cereal	|	gardener''s garters
+white meat	|	drink
+performing	|	grooming
+machine	|	breathing machine
+blonde	|	abstinent
+nonsmoker	|	married
+ledge	|	dune
+have	|	homo
+measuring device	|	weapon
+work	|	utilization
+striptease artist	|	musician
+trestlework	|	bridge
+racer	|	cabby
+dead room	|	rink
+male	|	predatory animal
+cop	|	police captain
+matzah	|	bun
+cop	|	shoofly
+blond	|	pardoner
+apparel	|	sleepwear
+empty	|	powder flask
+convocation	|	meeting
+jumper	|	Water Bearer
+wonder child	|	toddler
+meat	|	cheese
+marketplace	|	practice
+blond	|	bad person
+leg	|	hind limb
+succeeder	|	friend
+alligator	|	calfskin
+investigating	|	care
+talk	|	tete-a-tete
+tailor-made	|	headdress
+cardboard	|	graph paper
+market	|	timekeeping
+woman	|	golden ager
+throng	|	retinue
+percipient	|	blonde
+captor	|	jumper
+chef	|	seasoner
+homebody	|	elder
+singer	|	accordionist
+soccer	|	rugby football
+cereal	|	plume grass
+undersoil	|	mud
+dominatrix	|	girl
+white room	|	classroom
+munition	|	equipment
+arrogator	|	friend
+cage	|	cargo deck
+washing	|	welfare work
+have	|	surrenderer
+mother figure	|	lady
+instrument	|	crusher
+shining	|	substituting
+leadership	|	hiding
+lightning rod	|	blond
+khaki	|	stammel
+drawer	|	vitrine
+wading	|	shamble
+creative activity	|	hiding
+gatherer	|	jumper
+adolescent	|	child
+log	|	spruce
+blogger	|	blonde
+structure	|	fabric
+spoon	|	waste-paper basket
+heap	|	content
+plunge	|	floating
+adult	|	registrant
+gambol	|	fun
+jumper	|	noncompliant
+instrument	|	converter
+bawdyhouse	|	house
+knotgrass	|	cereal
+box	|	receptacle
+baldy	|	blond
+blue	|	purple
+car	|	go-kart
+arms	|	device
+scattergun	|	pistol
+convertor	|	fan
+antic	|	fun
+playground	|	shrubbery
+have	|	second-rater
+sensory activity	|	concealing
+purse	|	watering pot
+empty	|	workbox
+combatant	|	adult
+shipway	|	fountain
+parcel	|	bin
+foretop	|	podium
+preparation	|	training
+friend	|	ouster
+trousering	|	metallic
+velvet	|	khaki
+adult	|	mangler
+abomination	|	blonde
+drop-seed	|	cereal
+dampener	|	keyboard
+moleskin	|	metallic
+hardwood	|	birch
+fountain	|	obstruction
+prefab	|	bridge
+kayak	|	birchbark canoe
+yew	|	bamboo
+marketplace	|	acting
+electric	|	coupe
+wealthy person	|	jumper
+hardpan	|	mud
+cup	|	fuel pod
+misogamist	|	friend
+clothes	|	togs
+stigmatic	|	jumper
+antagonist	|	tiger
+conceptus	|	young
+poor	|	cautious
+personage	|	jumper
+railing	|	balusters
+friend	|	forerunner
+cake	|	swage block
+poor	|	coevals
+watering	|	crying
+porch	|	set-back
+recreation	|	disassembly
+shining	|	service
+two	|	trio
+entertainer	|	blond
+slaughterhouse	|	rink
+woman	|	brachycephalic
+instrument	|	straightener
+quitter	|	married
+Phleum pratense	|	cereal
+teak	|	bamboo
+parallel bars	|	trampoline
+goggles	|	dark glasses
+handicapped	|	mentally retarded
+bedroom	|	sacristy
+straight	|	jumper
+building	|	stadium
+multiengine airplane	|	jet
+national	|	blonde
+Pennisetum ruppelii	|	cereal
+Roman building	|	house
+segregate	|	have
+investigating	|	nightwork
+log	|	teak
+achiever	|	blonde
+cycling	|	skiing
+quitter	|	blonde
+packinghouse	|	rink
+open	|	bed-ground
+work	|	try
+pony	|	pinto
+rainstorm	|	soaker
+birdfeeder	|	keyboard
+cast	|	concourse
+performing	|	leadership
+bag	|	spoon
+acting	|	continuance
+pongee	|	khaki
+bedroom	|	lobby
+chad	|	card
+sixsome	|	crowd
+have	|	fugitive
+recreation	|	market
+stream	|	sea
+ma''am	|	girl
+scarf	|	unitard
+married	|	advocate
+adult	|	personage
+monument	|	transept
+squad room	|	kitchen
+paper	|	waste matter
+alder	|	bamboo
+khaki	|	monk''s cloth
+education	|	performing
+guy	|	womanizer
+blonde	|	decedent
+jumper	|	weight gainer
+optimist	|	friend
+civilian clothing	|	uniform
+photographer	|	statue maker
+male	|	hexapod
+prefab	|	building
+adult	|	disentangler
+facing	|	furnace lining
+flight	|	backfield
+snuffler	|	jumper
+pony	|	stablemate
+applier	|	blonde
+combatant	|	blonde
+have	|	nonpartizan
+audience	|	rave-up
+bordello	|	rink
+clothes	|	civilian clothing
+bicycle	|	monocycle
+recreation	|	solo
+rare earth	|	people
+female	|	homeotherm
+game of chance	|	cards
+antagonist	|	have
+cocoswood	|	bamboo
+look-alike	|	jumper
+porch	|	defensive structure
+friend	|	insured person
+bed ground	|	corner
+audience	|	cast
+have	|	hoper
+knuckle duster	|	sword
+pet	|	larva
+instrument	|	stylus
+kitchen	|	anechoic chamber
+polyglot	|	friend
+electric	|	phaeton
+sports stadium	|	balcony
+vaulting	|	bridge
+lefty	|	adult
+samite	|	metallic
+bullfighter	|	friend
+box	|	magnetic bottle
+instrument	|	contraption
+monolingual	|	blonde
+lipstick	|	eyeliner
+unskilled person	|	blonde
+monument	|	deathtrap
+prowl car	|	jeep
+conversation	|	saying
+bedroom	|	storeroom
+pongee	|	metallic
+work	|	didactics
+blond	|	social dancer
+rally	|	entourage
+skating	|	team sport
+grade	|	meeting
+beating	|	battering
+manger	|	can
+setoff	|	tower
+pack	|	loads
+ocean	|	shallow
+adult	|	immune
+in	|	yard
+expectorator	|	blonde
+dismantling	|	procedure
+khaki	|	vulcanized fiber
+toucher	|	blond
+coil	|	building
+river	|	streamlet
+nonpartizan	|	jumper
+potato	|	tomato
+menage	|	outfit
+public relations person	|	adult
+instrument	|	hydrofoil
+power takeoff	|	machine
+termer	|	adult
+drawer	|	workbox
+eurhythmy	|	bathing
+cross	|	sports stadium
+garbage	|	trash
+talking	|	second-hand speech
+sun lounge	|	kitchen
+necrophagia	|	grazing
+accompanist	|	singer
+break	|	instance
+utilization	|	concealing
+shirt	|	swimming costume
+hamster	|	mouse
+hugger	|	jumper
+corn	|	rice grass
+guy	|	unmarried man
+have	|	chutzpanik
+ostrich	|	friend
+doll	|	sliding board
+lyme grass	|	cereal
+female	|	zooplankton
+cargo container	|	dish
+gear	|	bicycle wheel
+smiler	|	married
+sneeze	|	spots
+doll	|	slingshot
+skit	|	personation
+judo	|	skiing
+adult	|	unraveler
+rock climbing	|	racing
+individualist	|	married
+guitar	|	forte-piano
+moquette	|	metallic
+hurdle	|	fencing
+rowing	|	aquatics
+nonevent	|	make-up
+Amerindian	|	have
+bag	|	pipe bowl
+learner	|	have
+have	|	righthander
+shooting stick	|	keyboard
+tiger	|	blonde
+Phoebe	|	one
+alligator	|	chammy leather
+pince-nez	|	sunglasses
+tower	|	balcony
+verdure	|	blade
+disarmer	|	elder
+hat	|	jewelled headdress
+deviser	|	blond
+saltcellar	|	can
+work	|	hiding
+cup	|	dish
+unraveller	|	blonde
+recreation	|	continuation
+handicapped person	|	have
+puppy	|	Mexican hairless
+guitarist	|	cellist
+friend	|	groaner
+freewheeler	|	have
+quite a little	|	lots
+universe	|	stone
+blond	|	common person
+restaurant	|	morgue
+setoff	|	bridge
+landing place	|	signboard
+white tail	|	reindeer
+blonde	|	chameleon
+game	|	doings
+half-mast	|	left
+cereal	|	fescue
+classroom	|	reading room
+box	|	dish
+adult	|	unfortunate
+wrapping paper	|	card
+cup of tea	|	dismantling
+signal tower	|	house
+bedroom	|	test room
+hardwood	|	gumwood
+log	|	boxwood
+skit	|	pantomime
+dining room	|	kitchen
+open	|	haunt
+extrovert	|	friend
+tiger	|	faddist
+surface	|	cloth
+drilling	|	digging
+married	|	nonparticipant
+khaki	|	sheeting
+instrument	|	throwing stick
+married	|	dyslectic
+cop	|	gendarme
+worship	|	acting
+electric	|	subcompact
+market	|	process
+adaptor	|	machine
+paperwork	|	heavy lifting
+electric blanket	|	afghan
+unraveler	|	blonde
+hardwood	|	cabinet wood
+assistance	|	practice
+set-back	|	masonry
+revenant	|	tiger
+brown	|	green
+corer	|	fan
+married	|	baldy
+boulder	|	bedrock
+sled	|	road roller
+grazing	|	dining
+have	|	communicator
+doll	|	catapult
+supporting structure	|	cross
+marsh	|	swamp
+toddler	|	waif
+blond	|	gainer
+instrument	|	adaptor
+fugitive	|	jumper
+continuance	|	measuring
+harlot	|	lady
+II	|	one
+traveller	|	tiger
+telecom hotel	|	rink
+dead	|	folk
+adult	|	dweller
+money box	|	cup
+creation	|	concealing
+steps	|	moving staircase
+adult	|	pardoner
+boxing	|	football game
+contact sport	|	riding
+yellow berry	|	olive
+instrument	|	ventilator
+hardwood	|	lemonwood
+Esq	|	guy
+extravert	|	blond
+one	|	Little Joe
+kickstand	|	pole
+swimwear	|	jumpsuit
+singer	|	gambist
+dancing	|	bathing
+suspect	|	blonde
+optical device	|	keyboard
+jumper	|	sentimentalist
+game	|	behavior
+rolling wave	|	surf
+blonde	|	unperson
+adult	|	deceased person
+jumper	|	pansexual
+saxist	|	singer
+explorer	|	friend
+have	|	exponent
+oil nut	|	olive
+log	|	tulipwood
+motorcycle cop	|	cop
+worldling	|	blond
+crossing	|	on the road
+deeds	|	measuring
+fan	|	throwing stick
+sensory activity	|	practice
+blonde	|	departed
+handicapped	|	public
+restaurant	|	aviary
+tiger	|	fleer
+policewoman	|	traffic cop
+declivity	|	hillside
+repair shed	|	signboard
+married	|	communicator
+raising	|	upthrow
+quester	|	friend
+lanthanon	|	people
+tiger	|	pansexual
+untier	|	adult
+turnout	|	crowd
+flirt	|	girl
+pipe	|	hosepipe
+milk cow	|	bull
+adult	|	good guy
+apprehender	|	have
+bachelorette	|	lady
+compeer	|	married
+one	|	three
+have	|	slobberer
+friend	|	six-footer
+cereal	|	Bermuda grass
+puppy	|	carriage dog
+log	|	brazilwood
+talk	|	schmoose
+fist	|	maulers
+doll	|	playground slide
+tiger	|	color-blind person
+rowing	|	athletic game
+have	|	literate person
+log	|	dyewood
+playground	|	high country
+objector	|	blond
+protection	|	practice
+coal scuttle	|	box
+adult	|	visually impaired person
+have	|	primitive person
+quint	|	one
+poor	|	free people
+rally	|	bevy
+housing	|	building
+nude person	|	blond
+slab	|	cake
+femme fatale	|	lady
+corgi	|	puppy
+cast	|	rave-up
+assist	|	training
+equal	|	adult
+edifice	|	masonry
+disturbance	|	game
+hardwood	|	poplar
+married	|	substance abuser
+metallic	|	piece of material
+dead	|	doomed
+saxophonist	|	pianist
+log	|	guaiac
+thigh	|	arm
+blonde	|	pardoner
+married	|	deceased person
+fire walker	|	dancer
+small	|	fanny
+log	|	kingwood
+cast of characters	|	crowd
+objector	|	tiger
+modern	|	tiger
+dancer	|	conjurer
+adult	|	substance abuser
+preparation	|	practice
+dancing	|	eurythmics
+crossing	|	journey
+married	|	chameleon
+married	|	social dancer
+bag	|	wastepaper basket
+engineer	|	blond
+adult	|	masturbator
+stirk	|	bull
+sycamore	|	log
+khaki	|	trousering
+adult	|	agnostic
+blind	|	dead
+professional person	|	man
+sunshine	|	glowing
+registrant	|	tiger
+handicapped	|	generation
+worship	|	measuring
+s	|	twenty-four hour period
+equal	|	have
+homosexual	|	friend
+tiger	|	ejector
+blond	|	contestant
+storey	|	bridge
+lady	|	coquette
+locating	|	game
+embayment	|	shallow
+fist	|	right hand
+use	|	measuring
+fountain	|	hangar
+memory device	|	instrument
+repair shed	|	bridge
+ways	|	fountain
+mesomorph	|	tiger
+free zone	|	corner
+drawer	|	dish
+belligerent	|	have
+departure	|	communicating
+purse	|	dispenser
+smasher	|	have
+dissident	|	married
+porch	|	balcony
+bank	|	acclivity
+assist	|	performing
+machine	|	throwing board
+market	|	attempt
+jumper	|	user
+drinking glass	|	spoon
+public relations person	|	jumper
+autocue	|	keyboard
+head covering	|	vest
+setoff	|	building
+box	|	circular file
+hardwood	|	sumac
+bas bleu	|	lady
+tiger	|	visually impaired person
+grain field	|	lawn
+preparation	|	measuring
+inamorata	|	lady
+spandrel	|	screen
+usage	|	game
+saltcellar	|	basket
+sniveler	|	have
+handicapped	|	businesspeople
+denizen	|	blond
+pony	|	post-horse
+helping	|	scattering
+tiger	|	weight gainer
+musclebuilder	|	have
+electric	|	subcompact car
+bag	|	cup
+five	|	trinity
+racing	|	aquatics
+tearing	|	healing
+effort	|	performing
+bedroom	|	entrance hall
+groover	|	fan
+female	|	young
+nonworker	|	adult
+lady	|	missy
+lock chamber	|	cage
+roadway	|	clearway
+revenant	|	blonde
+diversion	|	training
+individualist	|	blond
+shining	|	task
+blond	|	sneezer
+clothes	|	attire
+blond	|	good person
+adult	|	White person
+pianist	|	vibist
+Canton flannel	|	khaki
+weapons platform	|	masonry
+khaki	|	lisle
+bedroom	|	television room
+landing place	|	masonry
+pink	|	blue
+seeder	|	jumper
+married	|	toucher
+drawer	|	cannister
+pollutant	|	trash
+fence	|	starting gate
+muscle-builder	|	married
+work	|	positioning
+five	|	ternary
+fan	|	breathalyser
+riser	|	married
+readying	|	concealing
+cup	|	can
+traveler	|	friend
+shining	|	project
+guy	|	boyfriend
+cup of tea	|	practice
+performing	|	mensuration
+protection	|	performing
+lutenist	|	guitarist
+photographer	|	graphic artist
+keyboardist	|	pianist
+loungewear	|	apparel
+khaki	|	velveteen
+knockdown	|	kick
+dancing	|	eurythmy
+side	|	inside
+aper	|	blond
+instrument	|	appliance
+jumper	|	agnostic
+wrongful conduct	|	training
+dairy cattle	|	cow
+dice box	|	spoon
+pack	|	slews
+thunder	|	racket
+package	|	class
+tiger	|	monolingual
+boa	|	kerchief
+basket	|	watering pot
+adult	|	gambler
+impedimenta	|	building
+wind tunnel	|	masonry
+outbuilding	|	rink
+blond	|	perspirer
+pebble	|	boulder
+liveliness	|	recreation
+sun parlor	|	classroom
+glasshouse	|	rink
+female	|	creepy-crawly
+longshot	|	still
+telephone conversation	|	talking
+television room	|	classroom
+clothes	|	woman''s clothing
+Black person	|	have
+front room	|	kitchen
+scarf	|	swimwear
+brass knuckles	|	sword
+activity	|	leaving
+bachelor girl	|	girl
+quick bread	|	bun
+person of colour	|	blonde
+two	|	trinity
+sunset	|	gloam
+sweater	|	vest
+interrupter	|	keyboard
+dupe	|	blond
+electronic device	|	machine
+supplying	|	acting
+hiding	|	mensuration
+adult	|	abstinent
+aggregator	|	jumper
+jungle gym	|	fountain
+khaki	|	muslin
+crus	|	leg
+bedroom	|	courtroom
+blogger	|	jumper
+market	|	continuation
+fan	|	breathalyzer
+photographer	|	expressionist
+khaki	|	seersucker
+knuckles	|	gun
+classroom	|	vapour bath
+racer	|	kerb crawler
+poor people	|	dead
+parcel	|	dish
+reflector	|	fan
+ice-hockey player	|	footballer
+married	|	grinner
+accessory fruit	|	olive
+married	|	Virgo
+female	|	biped
+market	|	try
+scrapper	|	married
+card	|	crepe
+middle of the roader	|	elder
+automobile	|	bike
+market	|	conduct
+sunshine	|	streamer
+gun	|	spear
+jumper	|	sex symbol
+bar	|	kitchen
+spousal equivalent	|	friend
+adult	|	needer
+false bottom	|	balcony
+cop	|	state trooper
+technologist	|	tiger
+funambulism	|	skating
+recreation	|	dismantlement
+computer user	|	friend
+scrubbing	|	spring-cleaning
+hiker	|	peripatetic
+pipe	|	gun barrel
+building complex	|	tower
+performing	|	line of work
+wind tunnel	|	tower
+eurythmics	|	sport
+bin	|	wastebasket
+recreation	|	search
+restaurant	|	feedlot
+khaki	|	linsey-woolsey
+time capsule	|	can
+pall-mall	|	bowling
+green	|	blue
+trogon	|	parrot
+red lauan	|	hardwood
+warrior	|	blond
+protection	|	sensory activity
+utilisation	|	hiding
+scrapper	|	blonde
+left	|	post
+blond	|	intellectual
+cardboard	|	linen paper
+blond	|	indigene
+billiard player	|	footballer
+explorer	|	blonde
+boiling	|	thaw
+two	|	tercet
+conservativist	|	elder
+metallic	|	mackintosh
+emulator	|	blonde
+propositus	|	friend
+brownness	|	green
+dish	|	watering pot
+disturbance	|	concealing
+shining	|	unfinished business
+slipway	|	bridge
+lady	|	young woman
+kept woman	|	lady
+married	|	attempter
+friend	|	possessor
+married	|	innocent
+Phoebe	|	three
+circular	|	newspaper ad
+magnetic bottle	|	can
+gambling house	|	house
+haircloth	|	metallic
+lamination	|	bridge
+tidewater stream	|	river
+khaki	|	chambray
+khaki	|	camel''s hair
+tramcar	|	cart
+paperwork	|	busywork
+bedroom	|	dressing room
+performing	|	space walk
+carload	|	throng
+bedroom	|	kitchen
+bread	|	spud
+performing	|	continuance
+policewoman	|	state trooper
+autocue	|	fan
+exterior	|	top
+mover and shaker	|	jumper
+bundle	|	set
+singer	|	pianist
+tiger	|	anti
+didactics	|	hiding
+sniffler	|	friend
+jumper	|	kneeler
+little	|	serving
+box	|	drinking glass
+ejaculator	|	guy
+diversion	|	concealing
+drawer	|	spoon
+verbalism	|	discussion
+gear	|	potter''s wheel
+have	|	dead soul
+cocoswood	|	log
+rowing	|	blood sport
+skiing	|	aquatics
+jumper	|	planner
+adult	|	mesomorph
+sword	|	flamethrower
+socializer	|	friend
+social gathering	|	crowd
+have	|	vanisher
+blond	|	doer
+protester	|	married
+advocate	|	friend
+equitation	|	racing
+nursemaid	|	girl
+socializer	|	tiger
+sedan	|	hot-rod
+bedroom	|	reading room
+large number	|	lot
+black flag	|	colors
+durbar	|	kitchen
+recreation	|	hiding
+bullfighter	|	tiger
+fun	|	eurythmics
+instrument	|	remote control
+convertor	|	machine
+free zone	|	playground
+instrument	|	exercise device
+speed cop	|	policewoman
+audience	|	contingent
+autodidact	|	blond
+mover and shaker	|	blond
+tiger	|	redhead
+saltcellar	|	drawer
+mover and shaker	|	married
+female	|	purebred
+one	|	ternary
+cup	|	workbox
+toy	|	textile
+celebrant	|	blonde
+tater	|	eggplant
+necklace	|	precious stone
+adult	|	bad guy
+eurhythmics	|	sport
+Negroid	|	friend
+bag	|	flowerpot
+bag	|	scuttle
+rocket	|	sled
+lady	|	dominatrix
+trestlework	|	balcony
+tiger	|	copycat
+Scorpion	|	have
+tights	|	sock
+push	|	pulling
+blond	|	sex symbol
+propositus	|	jumper
+friend	|	Jew
+boxing	|	football
+black locust	|	hardwood
+waste basket	|	purse
+adult	|	Jat
+porch	|	catchment
+gambling	|	sport
+crack	|	Ranvier''s nodes
+flannelette	|	metallic
+adult	|	literate person
+saloon	|	kitchen
+skier	|	swimmer
+fishing rod	|	pole
+domestic partner	|	have
+training	|	usage
+poor	|	retreated
+cereal	|	sheep fescue
+pledger	|	man
+bamboo	|	true tulipwood
+physical structure	|	rock
+married	|	spurner
+carload	|	meeting
+airliner	|	jet
+guitarist	|	rhythm and blues musician
+guitarist	|	pianist
+racer	|	cabman
+sand	|	podsol
+singer	|	clarinettist
+Savoyard	|	musician
+have	|	cross-dresser
+adult	|	mutilator
+mother hen	|	blond
+Scorpion	|	married
+airdock	|	signboard
+Velcro	|	metallic
+musician	|	conjuror
+guitarist	|	trombonist
+podium	|	microscope stage
+singer	|	piper
+cardboard	|	wood shavings
+hiker	|	passerby
+squirmer	|	blonde
+tap house	|	house
+fallow deer	|	reindeer
+mountainside	|	ski slope
+organist	|	pianist
+subcompact	|	jeep
+handicapped	|	tradespeople
+post and lintel	|	masonry
+scraps	|	trash
+snow blower	|	computer
+effort	|	dismantling
+fair	|	demonstration
+leotard	|	sweater
+pet	|	sea creature
+effecter	|	blonde
+married	|	nonpartisan
+playground	|	scene
+knower	|	blond
+roadway	|	speedway
+telemarketing	|	peddling
+blowpipe	|	silencer
+showman	|	blonde
+male	|	pet
+have	|	measurer
+parcel	|	cup
+purse	|	can
+market	|	effort
+defensive structure	|	stadium
+grazing	|	relishing
+coin bank	|	can
+fence	|	seawall
+widower	|	guy
+skating	|	equitation
+empty	|	money box
+training	|	practice
+recreation	|	job
+drawer	|	wastebasket
+cereal	|	Holcus lanatus
+adult	|	nonpartizan
+card-house	|	building
+fencing	|	fender
+shelter	|	masonry
+racer	|	taximan
+skateboarding	|	speed skating
+five	|	trine
+pair	|	manicure set
+pack	|	scads
+toe toe	|	cereal
+sand	|	silt
+bassoonist	|	pianist
+five	|	1
+practice	|	measuring
+meeting	|	sevensome
+pianist	|	clarinetist
+maid of honor	|	girl
+corer	|	instrument
+prairie schooner	|	cart
+guy	|	fashion plate
+launching pad	|	podium
+activating	|	training
+enrollee	|	blonde
+jumper	|	gatekeeper
+vestibule	|	kitchen
+race car	|	jeep
+mustache	|	beard
+roadway	|	cart track
+dismantling	|	solo
+romper	|	blonde
+cart	|	milkwagon
+liveliness	|	market
+eurhythmics	|	bathing
+coal scuttle	|	purse
+strapper	|	guy
+stringer	|	footballer
+jumper	|	deaf person
+khaki	|	flannelette
+have	|	sensualist
+rich person	|	married
+blonde	|	redheader
+training	|	utilization
+readying	|	training
+apparel	|	handwear
+backpack	|	nosebag
+striptease	|	magician
+woman	|	moderate
+racer	|	chauffeur
+effector	|	friend
+use	|	concealing
+rich person	|	blonde
+greeter	|	friend
+cardboard	|	computer paper
+dead	|	peanut gallery
+cardboard	|	newsprint
+sick berth	|	classroom
+pair	|	threescore
+monument	|	impedimenta
+pisser	|	friend
+supporting structure	|	balcony
+have	|	seeker
+parson''s nose	|	drink
+manger	|	purse
+have	|	nonresident
+touching	|	impact
+restaurant	|	dormitory
+web	|	ground
+kitchen	|	dinette
+sleepyhead	|	blonde
+protection	|	diversion
+cement mixer	|	computer
+no-go area	|	open
+blonde	|	communicator
+optimist	|	tiger
+bomber	|	jet
+poor	|	unemployed people
+smotherer	|	blond
+sharkskin	|	khaki
+hardwood	|	yellowwood
+two	|	4
+moustache	|	face fungus
+have	|	habitant
+restaurant	|	bawdyhouse
+fire walker	|	magician
+butchery	|	house
+grooming	|	game
+instrument	|	tongs
+residual soil	|	sand
+fan	|	baby''s dummy
+tiger	|	namesake
+veil	|	suit of clothes
+machine	|	appliance
+weakling	|	tiger
+classroom	|	jail cell
+practice	|	mensuration
+keyboard	|	agglomerator
+packet	|	class
+container	|	munition
+cake	|	ingot
+adult	|	demander
+battler	|	blonde
+wind tunnel	|	fountain
+checkroom	|	kitchen
+gymnastics	|	skiing
+have	|	baldy
+guitarist	|	violist
+bathing costume	|	leotard
+transept	|	fountain
+jumper	|	literate person
+sunset	|	dusk
+setoff	|	cross
+card	|	piece of paper
+contraceptive	|	instrument
+metallic	|	camel''s hair
+basket weave	|	khaki
+machine	|	breathalyzer
+game	|	concealing
+mesomorph	|	blond
+have	|	excuser
+handicapped	|	uninitiate
+pianist	|	flute player
+outside	|	interior
+work	|	search
+partition	|	stadium
+tennis	|	basketball game
+pack	|	mint
+electronic device	|	fan
+drip pan	|	skillet
+barrel	|	stent
+bereaved person	|	friend
+socializer	|	jumper
+bad guy	|	blond
+jumper	|	habitant
+manilla	|	card
+empty	|	breadbox
+pot	|	cooking pan
+quint	|	three
+signboard	|	masonry
+girl	|	lulu
+drizzle	|	soaker
+baseball glove	|	mound
+blond	|	essayer
+empty	|	envelope
+engine room	|	kitchen
+guinea	|	fivepence
+collection	|	people
+open	|	shrubbery
+locating	|	training
+waiting area	|	kitchen
+smotherer	|	blonde
+flowing	|	spreading
+forelimb	|	leg
+saluter	|	blonde
+beef	|	cow
+cereal	|	rush grass
+wastepaper basket	|	dish
+nonreligious person	|	blond
+cup	|	time capsule
+applicant	|	friend
+khaki	|	waterproof
+jumper	|	native
+hind end	|	belly
+parcel	|	can
+pentimento	|	nude
+jumper	|	six-footer
+hardwood	|	teak
+bread-bin	|	can
+small	|	tush
+glove leather	|	alligator
+sundown	|	dusk
+nonresident	|	jumper
+building complex	|	stadium
+married	|	homophile
+paperwork	|	tending
+throng	|	wine tasting
+military operation	|	acting
+Odocoileus Virginianus	|	reindeer
+clubroom	|	classroom
+propositus	|	blond
+slab	|	chock
+married	|	adoptee
+adult	|	primitive person
+scissors	|	ax
+corn	|	ricegrass
+paperwork	|	shining
+Scorpion	|	friend
+raising	|	rapid growth
+straight man	|	musician
+military operation	|	dismantling
+tavern	|	house
+blonde	|	excuser
+copse	|	forest
+woman	|	warmonger
+innocent	|	friend
+Canton flannel	|	metallic
+splash	|	scratching
+marching	|	noctambulism
+copse	|	woods
+hardwood	|	matchwood
+have	|	posturer
+bluecoat	|	blonde
+celebrant	|	adult
+weapon	|	analyzer
+small	|	buttocks
+allayer	|	blonde
+cardcastle	|	masonry
+log	|	larch
+effort	|	training
+playground	|	disaster area
+ski slope	|	hillside
+debutante	|	lady
+friend	|	neighbor
+washboard	|	fan
+process	|	training
+married	|	abstinent
+can	|	watering pot
+lady	|	prickteaser
+disclosure	|	speech
+liveliness	|	training
+poor	|	mentally retarded
+skateboard	|	tricycle
+podium	|	fly gallery
+saxophonist	|	singer
+hat	|	kaffiyeh
+recreation	|	measurement
+kitchen	|	dance palace
+bedroom	|	testing room
+married	|	yearner
+tiger	|	nonpartizan
+Elizabethan	|	friend
+container	|	device
+jumper	|	fastener
+performing	|	hiding
+five	|	tercet
+khaki	|	wash-and-wear
+instrument	|	vaporizer
+applier	|	jumper
+classroom	|	library
+handicapped	|	dead
+unfortunate	|	tiger
+motorcycle cop	|	policewoman
+blond	|	redheader
+Gemini	|	friend
+Negro	|	have
+cast	|	muster
+pince-nez	|	shades
+keyboard	|	Kinetoscope
+cereal	|	Festuca ovina
+baton twirler	|	magician
+swim	|	surfriding
+deeds	|	game
+ventilator	|	fan
+ginmill	|	classroom
+adversary	|	friend
+fancy woman	|	lady
+uniform	|	togs
+grazing	|	savouring
+socio-economic class	|	dead
+termer	|	tiger
+touching	|	interlocking
+adult	|	beholder
+log	|	linden
+adult	|	applier
+drawer	|	envelope
+machine	|	remote control
+direction	|	supply line
+the great unwashed	|	people
+river	|	rivulet
+ward	|	jumper
+rail	|	fence
+noisemaker	|	keyboard
+galoot	|	guy
+hardwood	|	boxwood
+playground	|	center
+restaurant	|	skating rink
+socializer	|	blond
+professional dancer	|	magician
+pet	|	sea animal
+set-back	|	signboard
+important person	|	man
+outside	|	top
+masses	|	people
+thirster	|	blond
+boa	|	patka
+lunch	|	brunch
+dish	|	fuel pod
+woman	|	militarist
+vanisher	|	blond
+grating	|	starting gate
+supplying	|	training
+group action	|	make-up
+coal scuttle	|	dish
+racing	|	field sport
+restaurant	|	chapterhouse
+disputant	|	friend
+restaurant	|	gambling den
+have	|	ladino
+cardhouse	|	stadium
+box	|	wheeled vehicle
+dam	|	grating
+have	|	middlebrow
+plain clothes	|	headdress
+bedroom	|	solarium
+passenger vehicle	|	train
+tiger	|	eristic
+khaki	|	mousseline de sole
+cardboard	|	writing paper
+adult	|	blonde
+singer	|	trombone player
+ethnos	|	people
+friend	|	decedent
+kicking	|	posing
+acting	|	conduct
+friend	|	grunter
+ascent	|	hillside
+blond	|	dead person
+married	|	Capricorn
+launchpad	|	podium
+female	|	giant
+taffeta	|	metallic
+watering	|	weeping
+kicking	|	kneeling
+cargo container	|	drawer
+resale	|	peddling
+hardwood	|	heartwood
+friend	|	Capricorn
+cracking	|	racket
+investigating	|	busywork
+tiger	|	common man
+poor	|	unemployed
+secondhand car	|	jeep
+poon	|	log
+brierwood	|	hardwood
+doll	|	popgun
+protection	|	activating
+jumper	|	immune
+hiker	|	trudger
+aim	|	end-all
+female	|	range animal
+married	|	large person
+copycat	|	blond
+blond	|	forerunner
+effort	|	measuring
+defecator	|	friend
+entablature	|	stadium
+tiger	|	pardoner
+dice box	|	dish
+safety device	|	fan
+pamperer	|	jumper
+singing	|	playing
+pipe	|	capillary
+middlebrow	|	blonde
+ginmill	|	kitchen
+adult	|	dead soul
+femme fatale	|	girl
+cliff	|	beach
+heat exchanger	|	keyboard
+happening	|	make-up
+camo	|	metallic
+doormat	|	jumper
+adult	|	Native American
+envelope	|	bin
+direction	|	traffic pattern
+strengthener	|	fan
+bag	|	can
+spurner	|	friend
+skating	|	horseback riding
+have	|	lover
+house	|	health facility
+Elaphurus davidianus	|	reindeer
+roofing paper	|	card
+car	|	motorcycle
+recreation	|	practice
+franking machine	|	computer
+personage	|	blond
+jumper	|	nonparticipant
+married	|	literate person
+wall hanging	|	graffiti
+visually impaired person	|	blond
+bloom	|	folding
+jumper	|	masturbator
+appreciator	|	blond
+emotional person	|	jumper
+cardcastle	|	building
+sport utility vehicle	|	sedan
+frying	|	culinary art
+rock climbing	|	skiing
+visually impaired person	|	friend
+banner	|	colors
+classroom	|	anechoic chamber
+scuttle	|	drawer
+dissenter	|	friend
+wealthy person	|	blonde
+money handler	|	have
+learner	|	jumper
+simple leaf	|	blade
+fig leaf	|	blade
+pet	|	domesticated animal
+stage	|	night
+ice-wagon	|	cart
+mascara	|	eyeshadow
+sitting	|	shutting
+compeer	|	blonde
+cathouse	|	rink
+marshland	|	swamp
+uniform	|	threads
+monument	|	defensive structure
+fruitwood	|	bamboo
+help	|	measuring
+monument	|	housing
+Dumpster	|	purse
+sedan	|	police car
+acting	|	process
+landing	|	podium
+tiger	|	slobberer
+domestic partner	|	friend
+upgrade	|	hillside
+friend	|	sloucher
+scrag	|	blonde
+necklace	|	cufflink
+adult	|	worldling
+vaporizer	|	keyboard
+sabicu wood	|	bamboo
+jumper	|	allayer
+cage	|	storage area
+adult	|	eristic
+psalmody	|	karaoke
+dismantling	|	readying
+boomer	|	have
+restaurant	|	Hall of Fame
+building	|	bridge
+kitchen	|	testing room
+handicapped person	|	friend
+stapler	|	computer
+sun porch	|	kitchen
+swan''s down	|	khaki
+work	|	grooming
+toddler	|	pickaninny
+tiger	|	vanisher
+calibration	|	concealing
+set-back	|	building
+sedan	|	limo
+performing	|	continuation
+vaulting	|	stadium
+body suit	|	sweater
+tower	|	defensive structure
+professional dancer	|	musician
+have	|	third-rater
+performing	|	usage
+tank farm	|	corner
+jumper	|	baby buster
+Hall of Fame	|	rink
+ready-to-wear	|	headdress
+married	|	testate
+drawer	|	capsule
+training	|	utilisation
+magician	|	vaudevillian
+packing	|	paper
+tiger	|	loved one
+jet	|	attack aircraft
+welcomer	|	married
+linen paper	|	card
+warrior	|	friend
+blond	|	drug user
+recreation	|	sensory activity
+friend	|	outdoorsman
+blond	|	decedent
+muscle builder	|	tiger
+have	|	Libra
+disturbance	|	hiding
+macrocosm	|	rock
+bread	|	potato
+dog pound	|	dock
+dismantlement	|	performing
+hockey	|	football
+adult	|	contestant
+drilling	|	film editing
+married	|	loved one
+explorer	|	married
+postal service	|	discussion
+adult	|	weakling
+dismantling	|	continuation
+adult	|	bullfighter
+parallel-veined leaf	|	blade
+adult	|	spurner
+adult	|	freewheeler
+baldhead	|	blonde
+photographer	|	sculptor
+cheetah	|	Panthera leo
+source of illumination	|	keyboard
+two	|	quintuplet
+keyboard	|	throwing stick
+drawer	|	bread-bin
+dissenter	|	have
+wrongful conduct	|	market
+attempt	|	game
+occultist	|	blond
+lefty	|	blond
+machine	|	remote
+paper	|	waste product
+tiger	|	ethnic
+matchwood	|	bamboo
+restaurant	|	planetarium
+dissenter	|	jumper
+substance	|	language unit
+guinea pig	|	married
+thin person	|	blonde
+convertor	|	keyboard
+harmoniser	|	pianist
+artiste	|	magician
+station waggon	|	jeep
+downslope	|	hillside
+body hair	|	eyebrow
+fountain	|	edifice
+sevensome	|	throng
+freewheeler	|	blonde
+box	|	pipe bowl
+sacristy	|	kitchen
+delayer	|	jumper
+wriggler	|	friend
+cup	|	vitrine
+riser	|	have
+banging	|	scratching
+adult	|	rester
+middlebrow	|	jumper
+assist	|	measuring
+paperwork	|	social service
+talk	|	gossipmongering
+honeycomb	|	building
+arse	|	belly
+bedstead	|	cabinet
+keepsake	|	ground
+basket	|	flowerpot
+cardcastle	|	balcony
+cup	|	wastepaper basket
+paper feed	|	instrument
+alligator	|	suede leather
+swimmer	|	footballer
+restaurant	|	bathing machine
+rising	|	flow
+instrument	|	applicator
+adult	|	autodidact
+adult	|	neutral
+parkland	|	short
+empty	|	wheeled vehicle
+handicapped	|	maimed
+amazon	|	girl
+disassembly	|	measuring
+wrongful conduct	|	game
+saver	|	blonde
+guy	|	Monsieur
+corn	|	oat
+tool bag	|	backpack
+keyboard	|	remote control
+lady	|	widow woman
+bombazine	|	metallic
+animate being	|	somebody
+bluegrass	|	cereal
+dismantling	|	disturbance
+straightener	|	keyboard
+entertainment	|	dancing
+jungle gym	|	tower
+celebrator	|	tiger
+ribbon	|	makeweight
+showman	|	blond
+racing	|	skiing
+lookout station	|	stadium
+slipway	|	balcony
+ectomorph	|	blonde
+restaurant	|	place of worship
+married	|	laugher
+woollen	|	metallic
+eating place	|	rink
+drawer	|	time capsule
+kitchen	|	furnace room
+line of work	|	measuring
+rifle	|	side arm
+linguistic unit	|	rest
+blond	|	grunter
+blond	|	common man
+small	|	ass
+contemplative	|	blonde
+magnetic bottle	|	bin
+wand	|	pole
+dismantling	|	utilisation
+direction	|	bus route
+raiment	|	uniform
+blonde	|	social dancer
+bin	|	workbasket
+tiger	|	seeker
+married	|	possessor
+pack	|	stacks
+have	|	laugher
+adult	|	wanter
+instrument	|	take-up
+remonstrance	|	discussion
+Scorpio	|	have
+dice cup	|	dish
+bag	|	dispenser
+apartment house	|	house
+spouse equivalent	|	jumper
+objector	|	blonde
+space walk	|	game
+jumper	|	Jew
+public relations person	|	friend
+cardboard	|	drawing paper
+slab	|	metal bar
+holding device	|	keyboard
+disputant	|	blonde
+tiger	|	unperson
+tracing paper	|	card
+poor	|	generation
+have	|	drug user
+assistance	|	market
+restaurant	|	dorm
+birth control device	|	fan
+handicapped	|	peanut gallery
+screen	|	gameboard
+mud	|	sedimentary clay
+garage	|	doghouse
+lady	|	broad
+building complex	|	balcony
+have	|	contriver
+washing	|	service
+spoon	|	workbox
+quitter	|	have
+entertainer	|	blonde
+bamboo	|	balsa
+juice	|	eggs
+process	|	practice
+support	|	game
+kick	|	backhander
+smasher	|	tiger
+proponent	|	friend
+sacristy	|	classroom
+spoon	|	storage ring
+bag	|	manger
+cereal	|	cocksfoot
+arial mosaic	|	still
+gay	|	friend
+have	|	cloud seeder
+market	|	leadership
+protection	|	recreation
+succeeder	|	blonde
+untier	|	tiger
+have	|	suspect
+none	|	twilight
+protection	|	dismantling
+jumper	|	indigen
+adjudicator	|	friend
+wading	|	shuffling
+sledge	|	skibob
+have	|	nonperson
+herd''s grass	|	cereal
+blonde	|	gainer
+washboard	|	machine
+needer	|	jumper
+lefty	|	tiger
+gambling den	|	house
+porch	|	prefab
+tiger	|	bad person
+ostrich	|	blonde
+bus driver	|	racer
+sneezing	|	emesis
+celebrator	|	blond
+jacket	|	newmarket
+coil	|	masonry
+have	|	primitive
+anteroom	|	kitchen
+woman	|	liberal
+have	|	weasel
+omophagia	|	grazing
+married	|	bereaved person
+skating	|	water sport
+sniveler	|	tiger
+adult	|	sentimentalist
+tiger	|	sex symbol
+hardwood	|	duramen
+weapon	|	extractor
+married	|	squint-eye
+raw wood	|	bamboo
+manger	|	cup
+equipoise	|	balcony
+location	|	ground
+slipway	|	building
+tank farm	|	middle
+stocking	|	tights
+jumper	|	unwelcome person
+fist	|	hooks
+bordello	|	house
+spitter	|	blond
+have	|	endomorph
+jumper	|	outdoorsman
+set-back	|	cross
+sentimentalist	|	friend
+log	|	lignum vitae
+contraceptive	|	keyboard
+Welsh corgi	|	puppy
+friend	|	social dancer
+guy	|	ex
+have	|	walk-in
+belligerent	|	blond
+hardtop	|	jeep
+stigmatist	|	friend
+protection	|	supporting
+repeater	|	have
+jumper	|	Aquarius
+hop-picker	|	computer
+dancer	|	instrumentalist
+audience	|	cast of characters
+skyscraper	|	house
+tiger	|	aper
+protection	|	try
+cardboard	|	construction paper
+performing	|	utilisation
+foramen	|	hole
+crossing	|	vagabondage
+lady	|	minx
+jumper	|	disputant
+public works	|	balcony
+electric	|	race car
+bag	|	waste basket
+nonpartizan	|	blonde
+blond	|	outcaste
+bedroom	|	sickbay
+friend	|	nonmember
+boa	|	fichu
+binoculars	|	glasses
+married	|	dieter
+hardwood	|	spruce
+belligerent	|	friend
+obstruction	|	bridge
+conduct	|	measuring
+carinate	|	parrot
+digging	|	cutting
+vestiture	|	uniform
+cereal	|	munj
+ladino	|	friend
+dupe	|	friend
+social gathering	|	cast
+omelette pan	|	skillet
+have	|	grunter
+blond	|	biter
+protection	|	committal to writing
+lorgnette	|	goggles
+adult	|	selector
+dancer	|	peeler
+homo	|	tiger
+headdress	|	sleepwear
+freewheeler	|	married
+tiger	|	needer
+pyre	|	stack
+wild cherry	|	olive
+saluter	|	tiger
+mail-order buying	|	shopping
+coal scuttle	|	drawer
+adult	|	tempter
+cardboard	|	tissue paper
+direction	|	beat
+tiger	|	literate person
+unraveller	|	blond
+mud	|	podsol soil
+blonde	|	swayer
+storey	|	signboard
+market	|	preparation
+creek	|	tidal river
+hangar	|	stadium
+machine	|	drop forge
+protection	|	liveliness
+temperateness	|	wind
+protection	|	creation
+erose leaf	|	blade
+bascule	|	tower
+roadway	|	highway
+belting	|	metallic
+cassette	|	bin
+succeeder	|	have
+pony	|	stable companion
+pipe	|	speaking tube
+roadway	|	causeway
+thoroughbred	|	woman
+nonresident	|	friend
+adult	|	antagonist
+market	|	hiding
+monument	|	edifice
+stick	|	rod
+porch	|	post and lintel
+chef	|	fry cook
+yielder	|	jumper
+fan	|	teething ring
+adult	|	toreador
+married	|	gatekeeper
+spoon	|	pipe bowl
+gun	|	stun baton
+table game	|	bowling
+adult	|	aper
+open	|	resort area
+person of color	|	blonde
+adult	|	adversary
+interrupter	|	machine
+apprehender	|	tiger
+recreation	|	usage
+headdress	|	vestiture
+nullipara	|	girl
+tiger	|	balker
+adult	|	slider
+cast	|	crowd
+married	|	dead person
+lamination	|	balcony
+s	|	day
+karaoke	|	crooning
+musclebuilder	|	blond
+recreation	|	supporting
+litmus paper	|	card
+tailor-made	|	uniform
+deeds	|	training
+climbing	|	rapid growth
+compact car	|	jeep
+unfortunate person	|	married
+trash	|	toxic waste
+sand	|	loam
+balker	|	blond
+polls	|	left
+shelter	|	balcony
+khaki	|	terry cloth
+tiger	|	first-rater
+baulker	|	blond
+compeer	|	jumper
+lady of pleasure	|	girl
+sevensome	|	cast
+segregate	|	blonde
+fade	|	putting
+soccer player	|	footballer
+can	|	display case
+mechanical press	|	computer
+sand	|	podsolic soil
+direction	|	beeline
+hardwood	|	lignum vitae
+frond	|	blade
+mahogany	|	log
+individualist	|	adult
+totemist	|	married
+billiard hall	|	kitchen
+reflector	|	keyboard
+activating	|	market
+male person	|	tiger
+young	|	marine creature
+married	|	Leo
+entire leaf	|	blade
+boulder	|	calculus
+doormat	|	have
+apparel	|	raiment
+work	|	acting
+sobersides	|	elder
+monument	|	trestlework
+fade	|	driving
+social event	|	make-up
+female	|	critter
+cucumber	|	watermelon
+apparel	|	civilian dress
+have	|	good guy
+bedroom	|	front room
+boy	|	adult male
+protection	|	deeds
+married	|	small person
+faddist	|	blond
+have	|	common person
+performing	|	measurement
+unraveller	|	married
+class	|	content
+encounter	|	beating
+married	|	native
+pet	|	range animal
+friend	|	red-header
+banging	|	scrape
+beret	|	birretta
+gymnastics	|	skating
+pina cloth	|	metallic
+cup of tea	|	protection
+jumper	|	essayer
+pushing	|	pull
+khaki	|	haircloth
+have	|	gambler
+friend	|	sensualist
+mother hen	|	adult
+stripling	|	kid
+throng	|	crowd
+gentleman	|	guy
+house	|	house of God
+jumper	|	guesser
+airdock	|	cross
+bedroom	|	bathroom
+activator	|	mixture
+explorer	|	tiger
+middle	|	anchorage ground
+adult	|	percher
+basket	|	reliquary
+talk	|	schmooze
+bedroom	|	sickroom
+tiger	|	contriver
+workbasket	|	purse
+saucepan	|	skillet
+catchment	|	stadium
+friend	|	Water Bearer
+contriver	|	friend
+applied scientist	|	married
+sport car	|	jeep
+rosebush	|	capsicum
+large person	|	friend
+omelet pan	|	wok
+racer	|	taxidriver
+hiker	|	limper
+preteen	|	nipper
+shining	|	care
+shoe	|	slipper
+waste-paper basket	|	purse
+jumper	|	deceased person
+ward	|	tiger
+box	|	can
+men	|	armed services
+electric	|	gas guzzler
+shortcut	|	roadway
+log	|	maple
+guy	|	castrate
+chintz	|	metallic
+work surface	|	screen
+have	|	ouster
+friend	|	cripple
+workbag	|	purse
+blonde	|	abjurer
+adult	|	killer
+dropseed	|	cereal
+tiger	|	transvestite
+abattoir	|	rink
+machine	|	teething ring
+dieter	|	friend
+parted leaf	|	blade
+have	|	copycat
+luminescence	|	sunshine
+assistance	|	acting
+Old Glory	|	colors
+barrel	|	blow tube
+cotton flannel	|	khaki
+singer	|	trumpeter
+torpedo tube	|	silencer
+playacting	|	concealing
+hurdle	|	fender
+gambler	|	jumper
+introvert	|	tiger
+education	|	acting
+have	|	bad guy
+readying	|	hiding
+work	|	dismantlement
+hiker	|	parader
+center	|	corner
+swimsuit	|	jump suit
+empty	|	handbag
+lady	|	widow
+four	|	three
+poor	|	business people
+wadding	|	waste
+obstruction	|	signboard
+man''s clothing	|	headdress
+homo	|	jumper
+blonde	|	masturbator
+automobile	|	truck
+shredder	|	machine
+ex-wife	|	girl
+restaurant	|	signal tower
+corner	|	disaster area
+yawner	|	tiger
+porch	|	signboard
+quira	|	log
+habitant	|	blond
+bag	|	display case
+ostrich	|	blond
+spoon	|	cannister
+married	|	searcher
+dissident	|	adult
+literate	|	blonde
+effort	|	hiding
+interlock	|	machine
+high country	|	corner
+blonde	|	religious person
+restaurant	|	health facility
+jumper	|	cripple
+baby boomer	|	friend
+cup	|	dispenser
+splash	|	scrape
+sycamore	|	hardwood
+have	|	warrior
+bar	|	classroom
+weasel	|	blond
+fin	|	one
+Gemini	|	blond
+adult	|	cloud seeder
+friend	|	miracle worker
+married	|	disputant
+s	|	mean solar day
+adventurer	|	friend
+have	|	namer
+guitarist	|	trumpeter
+motortruck	|	go-kart
+hiker	|	stomper
+unusual person	|	friend
+white bread	|	bun
+khaki	|	serge
+washing	|	housework
+White person	|	blonde
+cereal	|	Phalaris arundinacea
+jet	|	hangar queen
+bedroom	|	council chamber
+tiger	|	contemplative
+false bottom	|	signboard
+shoebox	|	signboard
+babu	|	guy
+cassette	|	purse
+divorcee	|	girl
+locating	|	dismantling
+waggon	|	unicycle
+pentad	|	four
+squirrel	|	hedgehog
+raincoat	|	jacket
+rail	|	starting stall
+rising	|	flowing
+married	|	debtor
+lookout station	|	building
+Elizabethan	|	have
+manor hall	|	kitchen
+bridge	|	masonry
+residence hall	|	rink
+adult	|	delayer
+malcontent	|	tiger
+simpleton	|	friend
+field sport	|	skiing
+poor	|	contemporaries
+adult	|	simpleton
+rink	|	office building
+metallic	|	knit
+paviour	|	computer
+tricolor	|	colors
+lot	|	heaps
+swim	|	surfing
+khaki	|	samite
+sneezing	|	disgorgement
+tiger	|	outcaste
+have	|	guesser
+khaki	|	foulard
+female	|	pureblood
+brierwood	|	log
+beach	|	incline
+milker	|	bull
+wagon	|	tricycle
+adult	|	intellectual
+clip-on	|	keyboard
+instrument	|	sensor
+smiler	|	friend
+machine	|	billiard marker
+log	|	balsa wood
+roadster	|	electric
+washboard	|	keyboard
+silencer	|	catheter
+friend	|	forgiver
+musician	|	geek
+saltcellar	|	spoon
+test tube	|	silencer
+community	|	meeting
+woman	|	conservativist
+look-alike	|	tiger
+fountain	|	observation tower
+II	|	four
+phase	|	night
+wellpoint	|	pipe
+applied scientist	|	blond
+have	|	extrovert
+cake	|	briquet
+circular	|	newspaper advertisement
+unfastener	|	blond
+doll	|	spinning top
+pork	|	boeuf
+coal scuttle	|	can
+porch	|	observation tower
+nonresident	|	blond
+adult	|	yielder
+ribbon	|	remains
+significant other	|	married
+khaki	|	gingham
+drinking glass	|	can
+training	|	game
+skating	|	skiing
+apparel	|	threads
+quester	|	blond
+singer	|	jazz musician
+Savoyard	|	magician
+plush	|	metallic
+blonde	|	ejector
+resort area	|	middle
+woman	|	old person
+screen	|	Mobius strip
+bag	|	time capsule
+adult	|	dead person
+washing	|	care
+watching	|	coup d''oeil
+moustache	|	beard
+toilet	|	kitchen
+dismantling	|	acting
+Sagittarius	|	friend
+garlic bread	|	bun
+pair	|	chess set
+striptease artist	|	magician
+tiger	|	nonmember
+apprehender	|	adult
+fountain	|	prefab
+bedroom	|	locker room
+friend	|	righthander
+blonde	|	agnostic
+fancy woman	|	girl
+fountain	|	airdock
+swimming cap	|	beret
+have	|	grinner
+picture gallery	|	kitchen
+trash	|	sewage
+have	|	noncompliant
+kneeling	|	reaching
+have	|	baby buster
+commemorative	|	ribbon
+lawn tennis	|	basketball
+blonde	|	forgiver
+filling	|	wadding
+log	|	lancewood
+hardwood	|	driftwood
+adult	|	differentiator
+blonde	|	cross-dresser
+four	|	threesome
+blonde	|	substance abuser
+fleer	|	blonde
+saucepan	|	wok
+tiger	|	deceased
+mud	|	desert soil
+dismantling	|	utilization
+rose	|	capsicum pepper plant
+skating	|	outdoor sport
+ear	|	optic
+sapwood	|	hardwood
+pony	|	bangtail
+repair shed	|	building
+dismantling	|	education
+fair weather	|	wind
+cereal	|	creeping soft grass
+playground	|	stamping ground
+ratchet wheel	|	gear
+technologist	|	blonde
+pack	|	oodles
+modern	|	blond
+open	|	scene
+socializer	|	have
+blond	|	cross-dresser
+child''s game	|	bowling
+handicapped	|	chosen people
+flying bird	|	parrot
+tiger	|	quester
+blonde	|	Jew
+restaurant	|	gambling hell
+suit	|	sweater
+eyeliner	|	eyeshadow
+stun gun	|	sword
+direction	|	line of flight
+photographer	|	modernist
+singer	|	harmoniser
+spousal equivalent	|	blond
+married	|	debaser
+wastebasket	|	dish
+adult	|	rich person
+lunch	|	teatime
+electric	|	sport car
+lachrymation	|	healing
+guy	|	philanderer
+scrag	|	jumper
+drawer	|	box
+capturer	|	jumper
+swimmer	|	skater
+burning	|	breaking
+teenager	|	child
+stigmatist	|	blond
+actus reus	|	recreation
+lavation	|	shining
+lunch	|	nosh-up
+laboratory coat	|	jacket
+rest house	|	rink
+bullfighter	|	jumper
+married	|	extravert
+money dealer	|	have
+papyrus	|	card
+spousal equivalent	|	married
+sports stadium	|	masonry
+heat exchanger	|	machine
+sedan	|	station waggon
+work	|	military operation
+jumper	|	indigene
+gear	|	daisy print wheel
+concrete mixer	|	computer
+railing	|	handrail
+basket	|	circular file
+have	|	neutral
+ignition interlock	|	fan
+equal	|	married
+recreation room	|	kitchen
+policewoman	|	shoofly
+ribbon	|	trivia
+fan	|	pair of tongs
+bedroom	|	classroom
+blonde	|	hoper
+audience	|	social affair
+cocuswood	|	log
+adult	|	red-header
+skateboard	|	waggon
+bathroom	|	kitchen
+jumper	|	winker
+snapshot	|	still
+cardhouse	|	masonry
+handicapped	|	age group
+accoutrement	|	apparel
+adult	|	romanticist
+splash	|	cracking
+married	|	bluecoat
+blond	|	mutilator
+sand	|	desertic soil
+tiger	|	habitant
+spoon	|	breadbox
+machine	|	signaling device
+hospital room	|	kitchen
+jumpsuit	|	unitard
+log	|	zebrawood
+tailor-made	|	clothes
+tiger	|	supernumerary
+friend	|	deceased
+rap group	|	rally
+blogger	|	friend
+log	|	Turkish boxwood
+meeting	|	social affair
+testator	|	blond
+launch	|	scooter
+downslope	|	mountainside
+oboist	|	pianist
+liberal	|	man
+capillary	|	silencer
+married	|	romper
+sand	|	bog soil
+satinet	|	metallic
+cardboard	|	flypaper
+polyglot	|	blonde
+adult	|	jumper
+crossing	|	on tour
+bassist	|	pianist
+married	|	aborigine
+work	|	market
+primitive	|	jumper
+singer	|	cornetist
+lookout station	|	bridge
+storey	|	tower
+slipway	|	stadium
+convocation	|	cast
+tiger	|	Aquarius
+deathtrap	|	masonry
+acoustic device	|	fan
+cereal	|	Cenchrus tribuloides
+protection	|	occupation
+market	|	search
+dairy cattle	|	bull
+household	|	team
+monolingual	|	jumper
+complexifier	|	blond
+handicapped	|	developmentally challenged
+bascule	|	cross
+performing	|	solo
+skating	|	track and field
+bedroom	|	billiard saloon
+porch	|	lookout station
+racer	|	truck driver
+slew	|	lots
+nurser	|	blond
+assimilator	|	blond
+warmer	|	fan
+rester	|	married
+bag	|	workbasket
+cardhouse	|	porch
+grownup	|	married
+pince-nez	|	goggles
+black locust	|	bamboo
+undertaking	|	investigating
+staging area	|	corner
+black	|	grayness
+training	|	concealing
+weasel	|	friend
+adult	|	skin and bones
+vocalizing	|	playing
+visionary	|	jumper
+key	|	machine
+playacting	|	measuring
+jumping jack	|	doll
+minivan	|	jeep
+creek	|	runnel
+guy	|	Tarzan
+effector	|	married
+male	|	pleurodont
+memory device	|	keyboard
+adult	|	dyslectic
+agglomerator	|	fan
+fan	|	drop hammer
+blonde	|	survivalist
+pater	|	dad
+railing	|	fence
+sunset	|	gloaming
+topcoat	|	jacket
+bedroom	|	dinette
+convert	|	blonde
+jumper	|	bad person
+cereal	|	velvet grass
+namesake	|	friend
+basket	|	drinking glass
+spruce	|	bamboo
+classroom	|	reception room
+have	|	searcher
+performing	|	supporting
+slipway	|	masonry
+colonnade	|	stadium
+wind	|	elements
+yellowness	|	purple
+married	|	sneezer
+automobile	|	motorcycle
+married	|	monolingual
+rally	|	rave-up
+railing	|	starting stall
+storage device	|	keyboard
+dead	|	rich
+celebrater	|	jumper
+riveting machine	|	computer
+lamplight	|	sunshine
+fan	|	breathing apparatus
+sweater	|	waistcoat
+pet	|	fertilized egg
+vaulting	|	tower
+khaki	|	cashmere
+pork	|	red meat
+individualist	|	jumper
+have	|	mollycoddler
+case	|	impinging
+monument	|	vaulting
+SUV	|	jeep
+tiger	|	mangler
+jumper	|	exponent
+engineer	|	jumper
+solo	|	hiding
+bamboo	|	gumwood
+guitarist	|	jazz musician
+doorknocker	|	fan
+silencer	|	cannula
+married	|	percipient
+guitarist	|	clarinetist
+hiker	|	saunterer
+colors	|	battle flag
+bin	|	watering pot
+singer	|	violinist
+liveliness	|	hiding
+classroom	|	dance hall
+surf	|	ripple
+battery charger	|	fan
+blonde	|	transvestite
+succeeder	|	married
+adult	|	outcaste
+tiger	|	emulator
+adult	|	forgiver
+jumper	|	neighbor
+bent-grass	|	cereal
+covered wagon	|	cart
+sport	|	pastime
+doll	|	Frisbee
+classroom	|	shipping room
+barrel	|	cannula
+straight	|	blonde
+guaiac wood	|	hardwood
+smasher	|	friend
+empty	|	cassette
+roundhead	|	friend
+brunet	|	have
+cherry	|	bamboo
+repair shed	|	tower
+dance	|	graphic art
+pad	|	card
+millet	|	corn
+lavender	|	rosebush
+adult	|	carrottop
+pianist	|	vibraphonist
+friend	|	miracle man
+pony	|	steeplechaser
+brunet	|	adult
+farm machine	|	computer
+yellow	|	green
+log	|	eucalyptus
+asthmatic	|	friend
+bathing machine	|	rink
+blond	|	hater
+pipe	|	capillary tube
+personification	|	blond
+cardboard	|	crepe paper
+superstructure	|	cross
+old	|	time out of mind
+hickory	|	bamboo
+have	|	hugger
+adult	|	groaner
+shitter	|	blonde
+metallic	|	sacking
+compeer	|	adult
+keyboard	|	dart thrower
+Wac	|	girl
+activating	|	performing
+expectorator	|	friend
+bifocals	|	goggles
+night bird	|	parrot
+skit	|	dumb show
+succeeder	|	jumper
+occurrent	|	make-up
+lifting device	|	instrument
+dampener	|	machine
+have	|	extravert
+clothes	|	civilian dress
+restaurant	|	bordello
+disentangler	|	tiger
+counterterrorist	|	blond
+seeker	|	jumper
+married	|	African
+terpsichorean	|	musician
+married	|	survivalist
+climbing	|	upthrust
+coppice	|	woods
+read	|	book
+brachycephalic	|	man
+blond	|	measurer
+nonresident	|	tiger
+seating area	|	parking
+patrician	|	elder
+quitter	|	tiger
+basket	|	bread-bin
+frying	|	broiling
+hardpan	|	sand
+morgue	|	rink
+married	|	stifler
+have	|	blond
+dance	|	diptych
+bedroom	|	presence chamber
+contact sport	|	skiing
+observation tower	|	cross
+instrument of punishment	|	weapon
+rail	|	revetment
+tiger	|	insured
+manger	|	dish
+crossing	|	commutation
+presbytery	|	rink
+batik	|	metallic
+friend	|	closer
+sickbay	|	classroom
+man''s clothing	|	uniform
+Little Phoebe	|	one
+skin and bones	|	blond
+blonde	|	hater
+soccer	|	American football game
+affiant	|	blond
+adult	|	sex symbol
+shredder	|	fan
+Black person	|	blonde
+men	|	military machine
+kicking	|	kneel
+cosmos	|	stone
+truck	|	bike
+recreation	|	marketplace
+contraceptive	|	fan
+recreation	|	measuring
+S.U.V.	|	jeep
+card-house	|	signboard
+alligator	|	sheepskin
+kept woman	|	girl
+male	|	domesticated animal
+telemarketing	|	vending
+packinghouse	|	house
+basket	|	parcel
+fair	|	floor show
+brunette	|	blonde
+tiger	|	differentiator
+landing	|	pier
+tray	=	trays
+military	=	military machine
+mantlepiece	=	mantel
+cloudburst	=	soaker
+Bos taurus	=	cattle
+category	=	class
+measuring	=	measurement
+splash	=	splashes
+body	=	organic structure
+cumulation	=	pile
+sham	=	fake
+warfare	=	war
+wearing	=	erosion
+tennis	=	lawn tennis
+woman	=	adult female
+given	=	presumption
+teasing	=	tantalization
+cowhand	=	cowboy
+slime	=	goo
+squirt	=	small fry
+leaning	=	propensity
+globe	=	earth
+hose	=	hosiery
+toddler	=	yearling
+earth	=	Earth
+nooky	=	screwing
+slip	=	faux pas
+five	=	quintuplet
+knock	=	knocking
+crushed rock	=	gravel
+mode	=	way
+Earth	=	earth
+cowboy	=	cowboys
+circular	=	broadside
+rolling	=	pealing
+peeling	=	desquamation
+optic	=	eye
+paint	=	painted
+cowboy	=	cowpoke
+marsh	=	marshland
+liberation	=	freeing
+father	=	begetter
+daughter	=	daughters
+furniture	=	piece of furniture
+hut	=	field hut
+table	=	tabular array
+meal	=	repast
+singer	=	vocalist
+Canis familiaris	=	dog
+squirt	=	pip-squeak
+hugging	=	fondling
+jump	=	jumps
+shattering	=	smashing
+breadstuff	=	bread
+quatern	=	four
+emptying	=	voidance
+thicket	=	brush
+vending	=	vendition
+pepper	=	Madagascar pepper
+glove	=	gloves
+mass meeting	=	rally
+communicating	=	communication
+soda	=	washing soda
+dad	=	dada
+game	=	gamer
+half-pint	=	shrimp
+exercise	=	exercises
+butter	=	buttering
+stinker	=	skunk
+dancer	=	terpsichorean
+snowboarder	=	snowboarders
+ankle	=	articulatio talocruralis
+scarf	=	scarves
+devising	=	making
+dorsum	=	back
+wearing apparel	=	clothes
+dying	=	demise
+perusal	=	studying
+sundown	=	sunset
+vocalizing	=	singing
+lavation	=	washing
+nil	=	nothing
+pork	=	porc
+corner	=	corners
+puppy	=	puppies
+seasoning	=	flavourer
+seating	=	seats
+surfriding	=	surfing
+wall	=	walls
+child	=	tiddler
+supercilium	=	eyebrow
+bivouacking	=	camping
+picture	=	ikon
+solecism	=	slip
+seating	=	seating room
+idleness	=	idling
+toad frog	=	frog
+jet	=	jet-propelled plane
+nipper	=	child
+flip	=	somersaulting
+one	=	ace
+bunch	=	clustering
+string of beads	=	beads
+stand	=	pedestal
+jet-propelled plane	=	jet
+fabric	=	cloth
+nookie	=	screwing
+girl	=	girls
+manus	=	mitt
+knee	=	knee joint
+trumpet	=	cornet
+speaker	=	talker
+adjustment	=	fitting
+dry	=	drying
+truck	=	motortruck
+nightfall	=	dusk
+atomic number 47	=	silver
+menage	=	family
+creature	=	animal
+drum	=	tympan
+boot	=	boots
+dad	=	pa
+household	=	family
+lots	=	lashings
+artist	=	creative person
+neighborhood	=	vicinity
+retention	=	holding
+rollerblader	=	rollerbladers
+idling	=	idleness
+true cat	=	cat
+sleeping accommodation	=	bedroom
+leash	=	tether
+loads	=	lots
+tether	=	leash
+netminder	=	goalkeeper
+flapping	=	fluttering
+email	=	electronic mail
+model	=	theoretical account
+three	=	triplet
+hiding	=	concealing
+cereal	=	cereal grass
+family	=	menage
+parquet	=	parquet floor
+abdomen	=	belly
+soaker	=	pelter
+round	=	one shot
+nipper	=	kid
+body politic	=	country
+physical exercise	=	exercise
+s	=	sec
+glasses	=	specs
+common pepper	=	pepper
+headdress	=	headgear
+glove	=	baseball mitt
+gimmick	=	catch
+snowball	=	Abronia elliptica
+have	=	rich person
+fitting	=	accommodation
+city	=	urban center
+shooting	=	shot
+aught	=	nothing
+lot	=	mint
+dad	=	papa
+running play	=	running
+mug	=	mugful
+pistol	=	shooting iron
+blade	=	blades
+cast	=	cast of characters
+intention	=	aim
+inkiness	=	black
+banana	=	banana tree
+sunglasses	=	shades
+face	=	faces
+cattle	=	Bos taurus
+ambit	=	range
+fashion	=	manner
+rest	=	residuum
+pistol	=	handgun
+electric	=	electric automobile
+poking	=	jab
+like	=	likes
+screwing	=	nookie
+behind	=	ass
+mound	=	pitcher''s mound
+passel	=	lot
+football game	=	football
+cyclist	=	bicyclist
+wino	=	drunk
+leotards	=	tights
+weeping	=	crying
+unfastening	=	untying
+scrape	=	scratching
+fancy	=	phantasy
+floor	=	floored
+nighttime	=	night
+bear	=	bears
+ball	=	balls
+infinite	=	space
+perspective	=	view
+oil	=	oiled
+leap	=	leaping
+kid	=	nipper
+outdoors	=	out-of-doors
+lot	=	great deal
+look	=	looks
+graffiti	=	graffito
+lots	=	rafts
+muck	=	goo
+bars	=	parallel bars
+so-and-so	=	skunk
+zucchini	=	courgette
+humanities	=	arts
+Bos taurus	=	cows
+bread	=	staff of life
+workout	=	exercise
+wet	=	moisture
+opera glasses	=	binoculars
+somersaulting	=	flip
+lion	=	Panthera leo
+plash	=	splash
+sprinkling	=	scattering
+look	=	looked
+fondling	=	petting
+packsack	=	backpack
+jumpsuit	=	jump suit
+flower	=	flowers
+articulatio talocruralis	=	ankle
+smooching	=	kissing
+bucket	=	pail
+pop	=	dad
+basketball	=	basketball game
+emesis	=	puking
+ground	=	dry land
+watering	=	lachrymation
+papa	=	dad
+float	=	floats
+day	=	24-hour interval
+police officer	=	policeman
+child	=	youngster
+quartet	=	four
+theatrical production	=	staging
+hymeneals	=	wedding
+petting	=	snuggling
+show	=	shown
+sunburn	=	tan
+five	=	pentad
+nail	=	nailing
+dad	=	pappa
+five	=	Phoebe
+homeless person	=	homeless
+oxen	=	cattle
+staff of life	=	bread
+head covering	=	veil
+mike	=	microphone
+ankle	=	mortise joint
+article of clothing	=	clothing
+soiling	=	dirtying
+flavoring	=	seasoning
+seasoning	=	flavoring
+past	=	past times
+shunning	=	avoidance
+costume	=	costumed
+frying	=	sauteing
+front	=	forepart
+auto	=	car
+frightening	=	terrorisation
+sleigh	=	sled
+lots	=	tons
+aim	=	intent
+performer	=	performing artist
+collecting	=	assembling
+tape recording	=	taping
+radio	=	radiocommunication
+sauteing	=	frying
+tie	=	tied
+slipper	=	carpet slipper
+eyelid	=	palpebra
+fast one	=	trick
+ennui	=	boredom
+five	=	quint
+swim	=	swimming
+torrent	=	soaker
+traveling	=	travelling
+locution	=	saying
+suit	=	suited
+potato	=	tater
+exercising	=	physical exertion
+dog	=	Canis familiaris
+swimmer	=	swimmers
+eyelid	=	lid
+country	=	body politic
+goalie	=	goalkeeper
+ham	=	gammon
+fluorescent fixture	=	fluorescent
+public eye	=	spotlight
+wrestling	=	wrestle
+adult	=	adults
+thunder	=	roaring
+reindeer	=	Rangifer tarandus
+clenched fist	=	fist
+seafaring	=	sailing
+goo	=	gunk
+electronic computer	=	computer
+leaf blade	=	blade
+font	=	fount
+helping	=	serving
+plate	=	home plate
+charabanc	=	bus
+forepart	=	front
+sunset	=	sundown
+world	=	cosmos
+back	=	dorsum
+mother	=	mothers
+snow	=	snowfall
+have	=	having
+running game	=	running
+dismantling	=	disassembly
+summer	=	summertime
+sneezing	=	sternutation
+petting	=	hugging
+bunch	=	cluster
+clothing	=	article of clothing
+forest	=	woods
+store	=	storing
+blond	=	blonds
+electric	=	electric car
+telephone set	=	telephone
+tree trunk	=	trunk
+chicken	=	poulet
+close	=	finis
+speeding	=	hurrying
+lensman	=	photographer
+melting	=	melt
+piano player	=	pianist
+toad	=	toad frog
+target	=	targeting
+bay	=	embayment
+ooze	=	goo
+catch	=	gimmick
+tearing	=	lacrimation
+Piper nigrum	=	pepper
+blue	=	blueness
+flip	=	flipping
+vehicle	=	vehicles
+vegetable	=	vegetables
+bicyclist	=	cyclist
+arts	=	liberal arts
+talking	=	talk
+bottle	=	bottles
+genu	=	knee
+chased	=	pursued
+cleanser	=	cleaner
+spyglass	=	field glass
+area	=	areas
+vacation spot	=	playground
+teeing ground	=	tee
+apparel	=	clothes
+state of nature	=	wild
+leotard	=	unitard
+cub	=	rookie
+phone call	=	call
+panda	=	giant panda
+bike	=	motorcycle
+quaternion	=	four
+three	=	3
+seat	=	seated
+stitching	=	sewing
+drunk	=	sot
+football player	=	footballer
+excavation	=	digging
+purpleness	=	purple
+violin	=	fiddle
+girl	=	young woman
+field glass	=	spyglass
+street	=	streets
+ride	=	rides
+knife	=	knives
+coppice	=	brush
+suffering	=	excruciation
+being	=	existence
+shotgun	=	scattergun
+log	=	logs
+individual	=	somebody
+unit of ammunition	=	round
+rucksack	=	backpack
+eating away	=	wearing
+arms	=	weapons system
+circular	=	handbill
+advertisement	=	advertising
+dancer	=	professional dancer
+expression	=	look
+sunglasses	=	dark glasses
+proctor	=	monitor
+cyberspace	=	net
+soaker	=	cloudburst
+dune	=	sand dune
+resort area	=	playground
+eroding	=	wearing
+smile	=	grin
+skunk	=	dirty dog
+grazing land	=	pasture
+dusk	=	crepuscule
+nothing	=	naught
+exercising	=	physical exercise
+urban center	=	city
+gun barrel	=	barrel
+knee bend	=	squatting
+rubber	=	gum elastic
+flip	=	somersault
+costume	=	costumes
+nude	=	nude painting
+climb	=	ascent
+whisk	=	whisked
+watermelon	=	watermelon vine
+batter	=	slugger
+motorbike	=	minibike
+theoretical account	=	model
+radiocommunication	=	radio
+disguise	=	camouflage
+playacting	=	performing
+jotting	=	jot
+raising	=	elevation
+necktie	=	tie
+article of furniture	=	furniture
+weaponry	=	arms
+vicinity	=	neighbourhood
+talker	=	speaker
+crawling	=	creeping
+tribunal	=	court
+cluster	=	bunch
+clustering	=	cluster
+milk	=	milking
+twilight	=	dusk
+hunger	=	hungriness
+package	=	packet
+army tank	=	tank
+topic	=	subject
+bandana	=	bandanna
+waking up	=	awakening
+war	=	warfare
+revelation	=	revealing
+small town	=	village
+instrument	=	instruments
+natural state	=	wild
+blond	=	blonde
+lot	=	spate
+maize	=	corn
+kitten	=	kittens
+twenty-four hours	=	day
+tater	=	potato
+last	=	close
+behind	=	buns
+grot	=	grotto
+food	=	nutrient
+gray	=	grayness
+sheepdog	=	sheep dog
+blackness	=	black
+lingua	=	tongue
+can	=	cans
+the like	=	like
+province	=	state
+crocheting	=	crochet
+saucer	=	disk
+workforce	=	men
+scratching	=	scrape
+fence	=	fences
+clump	=	cluster
+copse	=	brush
+electric current	=	current
+spectacles	=	glasses
+play	=	plays
+membranophone	=	drum
+snake	=	snakes
+darkness	=	dark
+gathering	=	assemblage
+serpent	=	snake
+lens	=	lense
+crop-dusting	=	spraying
+potato	=	spud
+advertisement	=	advertizing
+hugging	=	caressing
+three	=	trio
+whisk	=	whisking
+veggie	=	vegetable
+human knee	=	knee
+pack	=	packed
+belly	=	abdomen
+dusk	=	gloaming
+packing material	=	packing
+squatting	=	knee bend
+village	=	small town
+close	=	closed
+tetrad	=	four
+revealing	=	disclosure
+person	=	individual
+fake	=	sham
+teenager	=	teen
+cleaner	=	cleansing agent
+shadowiness	=	shade
+carpeting	=	carpet
+tumbling	=	acrobatics
+ecru	=	beige
+pine	=	pine tree
+light	=	lights
+deuce-ace	=	three
+cleansing	=	cleaning
+arguing	=	contestation
+creative person	=	artist
+smile	=	smiling
+liner	=	line drive
+reindeer	=	caribou
+following	=	followers
+nothing	=	zip
+blonde	=	blond
+palpebra	=	eyelid
+dusk	=	evenfall
+cast of characters	=	cast
+plywood	=	plyboard
+tank	=	tanking
+baseball glove	=	glove
+clothing	=	wearable
+haversack	=	backpack
+leaving	=	going
+tongue	=	glossa
+transverse flute	=	flute
+dusk	=	gloam
+slews	=	lots
+military	=	armed forces
+bicycler	=	bicyclist
+wearing	=	wearing away
+grotto	=	grot
+square	=	foursquare
+rugby	=	rugger
+broadside	=	circular
+gloam	=	dusk
+cowman	=	cowboy
+dais	=	podium
+sneezing	=	sneeze
+match	=	friction match
+daddy	=	dad
+email	=	e-mail
+baby	=	infant
+pedestrian	=	pedestrians
+peewee	=	shrimp
+car	=	automobile
+lunch	=	tiffin
+being	=	beingness
+amphitheatre	=	amphitheater
+grinning	=	smile
+sunlight	=	sunshine
+skunk	=	bum
+field hockey	=	hockey
+talk	=	talking
+lunch	=	dejeuner
+theme	=	subject
+running	=	running play
+stadium	=	sports stadium
+practice	=	practicing
+crack	=	scissure
+musician	=	instrumentalist
+cows	=	Bos taurus
+bunch	=	clump
+lots	=	scads
+retardation	=	slowing
+open fireplace	=	fireplace
+gum elastic	=	rubber
+group	=	grouping
+goose egg	=	nothing
+nothing	=	nix
+Little Joe	=	four
+four	=	quatern
+skunk	=	stinkpot
+fountain	=	fountains
+gobs	=	lots
+squeeze	=	squeezing
+fitting	=	adjustment
+rugger	=	rugby
+desquamation	=	peeling
+piece of tail	=	screwing
+handbill	=	circular
+shorts	=	short pants
+run	=	tally
+pattern	=	patterned
+cleaner	=	cleanser
+sofa	=	couch
+delivery	=	bringing
+basketball	=	hoops
+mouth	=	mouths
+load	=	loading
+official	=	functionary
+peddling	=	vending
+linguistic communication	=	language
+toad	=	batrachian
+frog	=	anuran
+squat	=	squatting
+second	=	s
+erase	=	erasing
+soda	=	soda ash
+bike	=	bikes
+pugilism	=	boxing
+view	=	perspective
+motortruck	=	truck
+scissors	=	pair of scissors
+flip	=	summerset
+boxing	=	pugilism
+court	=	judicature
+funny remark	=	funny
+speaker	=	verbaliser
+motorcycle	=	bike
+knocking	=	knock
+drag	=	retarding force
+motorbike	=	motorbikes
+soda ash	=	soda
+polishing	=	shining
+remainder	=	rest
+swimwear	=	swimsuit
+piano	=	forte-piano
+tabular array	=	table
+inside	=	interior
+feather boa	=	boa
+repast	=	meal
+homeless	=	homeless person
+horseback riding	=	riding
+tedium	=	boredom
+fucking	=	screwing
+guy	=	hombre
+cigarette	=	cigaret
+pepper	=	white pepper
+animate being	=	animal
+manpower	=	men
+thinking	=	thought process
+sledgehammer	=	maul
+kid	=	tiddler
+dad	=	pop
+marketing	=	selling
+H2O	=	water
+shtup	=	screwing
+kayak	=	kayaking
+dark glasses	=	shades
+breakers	=	surf
+marriage	=	matrimony
+motorbus	=	bus
+full	=	full phase of the moon
+visible radiation	=	light
+tree	=	trees
+racer	=	automobile driver
+seashore	=	seacoast
+play	=	dramatic play
+hitter	=	batter
+lick	=	licked
+three	=	trine
+newspaper	=	newspapers
+measurement	=	measuring
+toddler	=	bambino
+parquet floor	=	parquet
+harp	=	harping
+bus	=	charabanc
+three	=	terzetto
+goo	=	ooze
+tachygraphy	=	stenography
+park	=	parked
+vacation	=	holiday
+friend	=	friends
+arms	=	implements of war
+rubber	=	natural rubber
+rima oris	=	mouth
+cover girl	=	lovely
+pepper	=	black pepper
+pianist	=	piano player
+refined sugar	=	sugar
+potato	=	Irish potato
+tush	=	behind
+rockers	=	bikers
+spraying	=	crop-dusting
+bringing	=	delivery
+plane	=	airplane
+boxer	=	pugilist
+grand	=	thou
+India rubber	=	rubber
+earth	=	globe
+handicapped	=	disabled
+Madagascar pepper	=	pepper
+curb	=	kerb
+morning	=	morning time
+manner	=	way
+rear end	=	behind
+bicycler	=	cyclist
+bathing costume	=	swimsuit
+multitude	=	pack
+digging	=	excavation
+departure	=	going
+female parent	=	mother
+computing machine	=	computer
+kissing	=	fondling
+kine	=	cattle
+pulling	=	pull
+puking	=	disgorgement
+shrimp	=	peewee
+stopping point	=	close
+passenger vehicle	=	bus
+cucumber	=	Cucumis sativus
+font	=	typeface
+plant	=	plants
+flow	=	flowing
+mean solar day	=	day
+wedding	=	hymeneals
+provide	=	provides
+crochet	=	crocheting
+advertizing	=	advertisement
+dog	=	domestic dog
+piece	=	pieces
+shouting	=	cheering
+communication	=	communicating
+cattle	=	oxen
+mantel	=	chimneypiece
+space	=	infinite
+holiday	=	vacation
+ringing	=	tintinnabulation
+toad frog	=	toad
+apparel	=	wearing apparel
+existence	=	being
+mountain	=	mountains
+jabbing	=	poking
+embayment	=	bay
+natural covering	=	covering
+sheet	=	sheets
+bus	=	autobus
+waste	=	waste material
+base of operations	=	base
+defeat	=	licking
+2	=	two
+spread	=	spreading
+podium	=	pulpit
+way	=	fashion
+sewing	=	stitching
+screaming	=	shriek
+batter	=	batsman
+closing	=	shutting
+dirtying	=	soiling
+pepper	=	peppering
+beer	=	beers
+squeezing	=	squeeze
+outside	=	exterior
+advertising	=	advertisement
+frog	=	toad frog
+oxen	=	cows
+thrusting	=	poking
+fist	=	clenched fist
+skunk	=	puke
+man	=	adult male
+1	=	one
+flooring	=	floor
+fashioning	=	making
+component part	=	part
+laying	=	egg laying
+gun muzzle	=	muzzle
+racer	=	race driver
+sailing	=	seafaring
+yesteryear	=	past
+undersurface	=	bottom
+running	=	running game
+knapsack	=	backpack
+zippo	=	nothing
+brown	=	brownness
+suit of clothes	=	suit
+mustache	=	moustache
+behind	=	keister
+scope	=	range
+nose	=	noses
+ascent	=	climb
+seashore	=	coast
+watermelon	=	Citrullus vulgaris
+pan	=	cooking pan
+arts	=	humanistic discipline
+frying pan	=	skillet
+work force	=	men
+snake	=	serpent
+merchandising	=	selling
+poor	=	poor people
+gun	=	guns
+Zea mays	=	corn
+cowboy	=	cowman
+group meeting	=	meeting
+cowboy	=	cowhand
+owner	=	proprietor
+leotard	=	cat suit
+sec	=	s
+surfer	=	surfboarder
+cat	=	true cat
+rummy	=	drunk
+shade	=	shadowiness
+potato	=	murphy
+carrot	=	carrots
+corner	=	cornering
+scooter	=	sea scooter
+tally	=	run
+three	=	III
+advertisement	=	advertizement
+gaffe	=	slip
+hand-to-hand struggle	=	wrestling
+armoured combat vehicle	=	tank
+adult female	=	woman
+studying	=	perusal
+light	=	visible radiation
+outfit	=	outfits
+snowfall	=	snow
+hat	=	chapeau
+hungriness	=	hunger
+policewoman	=	police matron
+instance	=	case
+batter	=	hitter
+purple	=	purpleness
+hugging	=	petting
+panda	=	coon bear
+internet	=	cyberspace
+family	=	household
+gear	=	gear wheel
+splash	=	splashed
+cloth	=	textile
+tiddler	=	kid
+greenhorn	=	cub
+fireplace	=	open fireplace
+landrover	=	jeep
+amphitheater	=	amphitheatre
+camel	=	camels
+birthday suit	=	raw
+eyebrow	=	eyebrows
+zero	=	nothing
+pacing	=	tempo
+phone	=	telephone
+wedding	=	nuptials
+Cucumis sativus	=	cucumber
+police force	=	police
+fast	=	fasting
+getting	=	acquiring
+chop	=	chopped
+corn	=	maize
+ikon	=	picture
+hurrying	=	speeding
+radio	=	wireless
+teen	=	teenager
+mortise joint	=	ankle
+net	=	cyberspace
+war machine	=	military
+soda	=	sodium carbonate
+reindeer	=	Greenland caribou
+hatful	=	lot
+riding	=	horseback riding
+cows	=	oxen
+waggon	=	wagon
+phone	=	phoning
+lot	=	muckle
+blade	=	leaf blade
+projection screen	=	screen
+side arm	=	pistol
+infant	=	baby
+exercise	=	physical exercise
+tenting	=	camping
+photographer	=	lensman
+awakening	=	waking up
+perusing	=	studying
+exercising	=	workout
+lens	=	lens system
+acclivity	=	climb
+mode	=	fashion
+survey	=	study
+feeding	=	eating
+surfing	=	surfriding
+nothing	=	zero
+fencing	=	fence
+exhilaration	=	excitement
+shrimp	=	half-pint
+pa	=	dad
+boom	=	roaring
+magician	=	conjurer
+quintuplet	=	five
+monocycle	=	unicycle
+chimneypiece	=	mantel
+bedchamber	=	bedroom
+lots	=	wads
+plane	=	aeroplane
+computer	=	computing machine
+patio	=	terrace
+lion	=	king of beasts
+bundle	=	package
+console table	=	console
+posing	=	sitting
+presumption	=	given
+pealing	=	rolling
+wearing apparel	=	apparel
+nothing	=	null
+metallic element	=	metal
+slowing	=	retardation
+oculus	=	eye
+four	=	quaternion
+kennel	=	doghouse
+cooking pan	=	pan
+accommodation	=	fitting
+summertime	=	summer
+skillet	=	frypan
+climb	=	upgrade
+evenfall	=	dusk
+filming	=	cinematography
+shorts	=	trunks
+zoo	=	zoological garden
+lens system	=	lens
+stairway	=	staircase
+physician	=	doctor
+serving	=	helping
+performing artist	=	performer
+tube	=	tubing
+portraying	=	depicting
+volleyball game	=	volleyball
+data processor	=	computer
+eat	=	eaten
+cleansing agent	=	cleaner
+diving	=	diving event
+Little Phoebe	=	five
+wireless	=	radio
+graffito	=	graffiti
+policeman	=	police officer
+store	=	shop
+stump	=	tree stump
+helmet	=	helmets
+lots	=	gobs
+soilure	=	dirtying
+black	=	inkiness
+catch	=	caught
+woods	=	forest
+broadsheet	=	circular
+turning away	=	shunning
+bean curd	=	tofu
+hat	=	hats
+cross	=	crossed
+licking	=	defeat
+elevation	=	raising
+fine art	=	art
+tan	=	sunburn
+islet	=	isle
+victimisation	=	using
+backpack	=	packsack
+pulpit	=	podium
+true pine	=	pine
+salientian	=	toad
+like	=	the like
+art	=	fine art
+drunk	=	inebriate
+hike	=	hiking
+behind	=	tooshie
+waste material	=	waste
+squirt	=	squirted
+mugful	=	mug
+moon-curser	=	runner
+book	=	books
+cub	=	cubs
+boa	=	feather boa
+racer	=	racers
+lovely	=	pin-up
+wind	=	air current
+piece of ass	=	screwing
+buttocks	=	behind
+Rangifer tarandus	=	reindeer
+motorcoach	=	bus
+keyboard	=	keyboards
+forenoon	=	morning
+squirt	=	squirting
+weather	=	weather condition
+terzetto	=	three
+motorcar	=	car
+screwing	=	nooky
+kid	=	minor
+bonfire	=	balefire
+surfboard	=	surfboards
+lawn tennis	=	tennis
+stenography	=	tachygraphy
+nothing	=	nil
+hugging	=	snuggling
+part	=	component part
+way	=	manner
+flavourer	=	seasoning
+trick	=	tricks
+lick	=	salt lick
+body	=	physical structure
+triplet	=	three
+prohibitionist	=	dry
+olive	=	olives
+forte-piano	=	piano
+trey	=	three
+moustache	=	moustaches
+suit	=	suit of clothes
+Panthera leo	=	lion
+missy	=	girl
+sea-coast	=	seashore
+dramatic play	=	play
+grin	=	smiling
+cuddling	=	petting
+skate	=	skates
+camouflage	=	disguise
+train	=	trained
+world	=	macrocosm
+scissure	=	crack
+picture	=	pictures
+eye	=	optic
+round	=	unit of ammunition
+pat	=	tap
+tailing	=	shadowing
+fur	=	pelt
+floater	=	spots
+goo	=	slime
+going away	=	leaving
+residual	=	rest
+be	=	is
+pepper	=	peppers
+bread	=	breadstuff
+pile	=	heap
+tintinnabulation	=	ringing
+church	=	Christian church
+person	=	someone
+police	=	police force
+cluster	=	clump
+doctor	=	doctors
+cowpoke	=	cowboy
+hiker	=	hikers
+screwing	=	shtup
+gunk	=	goo
+terra firma	=	ground
+stick	=	sticks
+person	=	somebody
+luncheon	=	lunch
+assembling	=	collecting
+packet	=	package
+pepper	=	common pepper
+24-hour interval	=	day
+sports stadium	=	stadium
+kissing	=	caressing
+marketplace	=	market
+hole	=	holes
+slowing	=	deceleration
+babe	=	baby
+kitchen range	=	stove
+quadruplet	=	four
+natation	=	floating
+peal	=	rolling
+bus	=	jitney
+cheetah	=	Acinonyx jubatus
+surfing	=	surfboarding
+stripling	=	teenager
+plant	=	industrial plant
+four	=	tetrad
+fiddle	=	violin
+shutting	=	closing
+loading	=	load
+walking	=	walk
+wearable	=	clothing
+basement	=	cellar
+somebody	=	mortal
+clustering	=	bunch
+corn	=	Zea mays
+swamp	=	swampland
+washing soda	=	soda
+rescue	=	rescues
+side	=	sides
+screwing	=	roll in the hay
+fashion	=	style
+pants	=	bloomers
+guy	=	guys
+batrachian	=	frog
+pail	=	bucket
+target	=	targeted
+passing	=	passing game
+boring	=	drilling
+cluster	=	clustering
+face	=	human face
+boredom	=	ennui
+isle	=	islet
+wind	=	current of air
+niff	=	pong
+rug	=	carpet
+zip	=	nothing
+sot	=	drunk
+playground	=	resort area
+eyebrow	=	supercilium
+lacrimation	=	watering
+volaille	=	chicken
+cooking	=	cookery
+avoidance	=	shunning
+water	=	H2O
+good story	=	funny
+cattle	=	kine
+flip	=	flips
+behind	=	arse
+podium	=	rostrum
+Aeonium haworthii	=	pinwheel
+rubber	=	India rubber
+perch	=	perching
+protein folding	=	folding
+like	=	the likes of
+going	=	leaving
+black pepper	=	pepper
+behind	=	posterior
+computer	=	computing device
+funny	=	funny story
+practitioner	=	practician
+tubing	=	tube
+auto	=	automobile
+boulder	=	boulders
+leaf	=	leafage
+restaurant	=	eatery
+jot	=	jotting
+toy	=	plaything
+rest	=	resting
+chimp	=	chimpanzee
+parrot	=	parrots
+exterior	=	outside
+imbibing	=	drinking
+idling	=	loafing
+animal	=	creature
+clown	=	buffoon
+play	=	played
+chili con carne	=	chili
+turtleneck	=	turtle
+moo-cow	=	cow
+vicinity	=	neck of the woods
+seasoning	=	flavorer
+handbag	=	purse
+current	=	electric current
+airplane	=	plane
+making	=	devising
+acquiring	=	getting
+association football	=	soccer
+hill	=	hills
+baseball	=	baseball game
+automobile	=	motorcar
+mensuration	=	measuring
+guck	=	goo
+three	=	ternion
+castle	=	palace
+textile	=	cloth
+subject	=	theme
+jet plane	=	jet
+clean	=	clean and jerk
+revealing	=	revelation
+funny	=	good story
+meeting	=	group meeting
+climb	=	acclivity
+disassembly	=	dismantling
+basket	=	handbasket
+4	=	four
+light	=	visible light
+fashion	=	way
+photo	=	photograph
+cowherd	=	cowboy
+marshland	=	marsh
+cooking stove	=	stove
+veteran	=	veteran soldier
+three	=	tercet
+banana tree	=	banana
+hockey	=	field hockey
+runner	=	moon curser
+crepuscle	=	dusk
+jet	=	jet plane
+white pepper	=	pepper
+hugging	=	kissing
+fist	=	fists
+arts	=	humanities
+top side	=	upside
+armed services	=	military
+exercise	=	workout
+hanging	=	wall hanging
+squatting	=	squat
+cold	=	common cold
+rosebush	=	rose
+dismantling	=	dismantlement
+purchasing	=	buying
+cut	=	cuts
+tree stump	=	stump
+in	=	inch
+atmospheric condition	=	weather
+animal	=	beast
+tooshie	=	behind
+carpet	=	rug
+backpack	=	knapsack
+boredom	=	tedium
+cucumber vine	=	cucumber
+skillet	=	frying pan
+climber	=	climbers
+seats	=	seating
+air current	=	wind
+podium	=	ambo
+male	=	males
+cows	=	cattle
+snuggling	=	petting
+heaps	=	lots
+tackle	=	tackled
+weapon	=	weapon system
+nothing	=	zilch
+horse	=	Equus caballus
+musical theater	=	musical
+slugger	=	batter
+film editing	=	cutting
+hand	=	handing
+onion	=	onions
+buffoon	=	clown
+stone	=	rock
+leap	=	leapt
+funny	=	funny remark
+engagement	=	fight
+uniform	=	uniforms
+playacting	=	acting
+eating place	=	restaurant
+advertisement	=	advert
+boulder	=	bowlder
+electronic mail	=	email
+drilling	=	boring
+lot	=	peck
+lot	=	tidy sum
+schoolroom	=	classroom
+court	=	tribunal
+universe	=	world
+operate	=	operating
+ternary	=	three
+shrimp	=	shrimps
+rafts	=	lots
+two	=	2
+water scooter	=	scooter
+railroad train	=	train
+lipstick	=	lip rouge
+morning time	=	morning
+lense	=	lens
+cuddling	=	kissing
+surfboarding	=	surfing
+part	=	portion
+day	=	mean solar day
+potato	=	potatoes
+manus	=	hand
+edifice	=	building
+camera	=	cameras
+rotter	=	skunk
+prestidigitator	=	magician
+salientian	=	frog
+one shot	=	round
+rich person	=	have
+salt lick	=	lick
+four	=	quaternity
+chiding	=	scolding
+frypan	=	skillet
+lacrimation	=	tearing
+dog house	=	kennel
+computer	=	electronic computer
+hurler	=	pitcher
+individual	=	someone
+intellection	=	thinking
+shades	=	dark glasses
+airplane	=	aeroplane
+carpet	=	carpeting
+jeep	=	landrover
+mortal	=	somebody
+full	=	full moon
+bunny girl	=	bunny
+golf	=	golf game
+awakening	=	wakening
+infant	=	babe
+cogwheel	=	gear
+country	=	nation
+silver	=	atomic number 47
+underside	=	bottom
+cereal grass	=	cereal
+skunk	=	scum bag
+chop	=	chopping
+objurgation	=	scolding
+shrimp	=	runt
+blanket	=	blankets
+petting	=	caressing
+dad	=	daddy
+spotlight	=	public eye
+wealthy person	=	have
+three	=	trey
+raw	=	altogether
+chetah	=	cheetah
+boy	=	male child
+backpack	=	rucksack
+pine	=	true pine
+runt	=	shrimp
+Phoebe	=	five
+jewelry	=	jewellery
+lots	=	heaps
+purpose	=	aim
+vest	=	waistcoat
+beige	=	ecru
+observance	=	watching
+lunch	=	luncheon
+spray	=	sprayed
+hind end	=	behind
+fenland	=	marsh
+rugby	=	rugby football
+trunks	=	shorts
+camping	=	tenting
+clean	=	cleaned
+aged	=	elderly
+acting	=	performing
+summersault	=	flip
+excitement	=	exhilaration
+shining	=	polishing
+line drive	=	liner
+grownup	=	adult
+airs	=	pose
+open	=	opened
+ambo	=	podium
+splash	=	plash
+small fry	=	squirt
+magician	=	prestidigitator
+Sun	=	sun
+slew	=	lot
+derriere	=	behind
+swimsuit	=	swimming costume
+puking	=	vomiting
+cat	=	cats
+flavouring	=	seasoning
+program	=	plan
+poulet	=	chicken
+workout	=	exercising
+drama	=	play
+mixing	=	commixture
+four	=	Little Joe
+tympan	=	drum
+Citrullus vulgaris	=	watermelon
+seafowl	=	seabird
+pong	=	niff
+marsh	=	fenland
+prawn	=	prawns
+mint	=	lot
+deceleration	=	slowing
+child	=	nipper
+articulatio genus	=	knee
+five	=	cinque
+tire	=	tiring
+youngster	=	child
+building	=	buildings
+liberal arts	=	arts
+coat	=	coats
+spud	=	potato
+nix	=	nothing
+someone	=	person
+wrestle	=	wrestling
+magic	=	thaumaturgy
+wedding ceremony	=	wedding
+cheering	=	shouting
+Irish potato	=	potato
+watermelon vine	=	watermelon
+doc	=	doctor
+adult male	=	man
+restaurant	=	eating place
+stick	=	stuck
+slip	=	solecism
+game	=	games
+intent	=	aim
+clothing	=	habiliment
+visible light	=	light
+cattle	=	cows
+group	=	grouped
+team	=	teaming
+police	=	constabulary
+concourse	=	throng
+vegetable	=	veg
+twenty-four hour period	=	day
+Indian corn	=	corn
+raft	=	rafting
+fence	=	fencing
+quarry	=	prey
+jump	=	jumped
+speaker	=	verbalizer
+tank	=	armoured combat vehicle
+thawing	=	melting
+wave	=	moving ridge
+cards	=	card game
+mentation	=	thinking
+internet	=	net
+nothing	=	aught
+phase	=	stage
+girl	=	young lady
+sport	=	athletics
+individual	=	person
+swimsuit	=	swimsuits
+travelling	=	travel
+out-of-doors	=	outdoors
+lots	=	slews
+home plate	=	plate
+hand	=	mitt
+style	=	way
+jab	=	poking
+grand	=	one thousand
+trunk	=	tree trunk
+drunk	=	drunkard
+person	=	persons
+cowboy	=	puncher
+melting	=	thawing
+kine	=	cows
+lip rouge	=	lipstick
+photograph	=	photo
+clean and jerk	=	clean
+wild	=	state of nature
+field hut	=	hut
+hindquarters	=	behind
+wall hanging	=	hanging
+capsicum	=	capsicum pepper plant
+putting	=	putt
+residuum	=	rest
+itinerary	=	route
+down	=	down feather
+teenager	=	teenagers
+rock	=	rocks
+prey	=	fair game
+wadding	=	packing
+pedestal	=	stand
+five	=	5
+solar day	=	day
+slope	=	incline
+taping	=	tape recording
+tons	=	lots
+grin	=	smile
+army hut	=	hut
+fade	=	slicing
+viridity	=	green
+teenager	=	adolescent
+disclosure	=	revealing
+plant	=	works
+pastureland	=	pasture
+butter	=	buttered
+class	=	category
+power	=	powering
+thousand	=	grand
+knee	=	knees
+limelight	=	spotlight
+goalkeeper	=	goalie
+nothing	=	zippo
+perform	=	performed
+home base	=	plate
+seating room	=	seating
+quint	=	five
+ophidian	=	snake
+pip-squeak	=	squirt
+caoutchouc	=	rubber
+coon bear	=	panda
+triad	=	three
+veg	=	vegetable
+crying	=	tears
+clothes	=	wearing apparel
+pickings	=	taking
+roaring	=	thunder
+mixer	=	social
+waste	=	waste product
+moisture	=	wet
+oodles	=	lots
+baby	=	babe
+direction	=	directions
+piece	=	piecing
+spousal relationship	=	marriage
+wrestling	=	grappling
+roaring	=	boom
+spots	=	musca volitans
+curb	=	curbing
+head	=	heads
+eating house	=	restaurant
+porcupine	=	hedgehog
+powerfulness	=	power
+aeroplane	=	airplane
+spreading	=	spread
+caressing	=	kissing
+showing	=	screening
+practician	=	practitioner
+muzzle	=	gun muzzle
+pose	=	airs
+dusk	=	crepuscle
+rubbish	=	trash
+mother	=	female parent
+sociable	=	social
+wads	=	lots
+1000	=	grand
+play	=	drama
+double-decker	=	bus
+cement	=	cementing
+team	=	teams
+thaumaturgy	=	magic
+competition	=	competitions
+swimming costume	=	swimsuit
+backpack	=	haversack
+cat suit	=	leotard
+rest	=	residual
+shaving	=	shave
+rolling	=	peal
+evacuation	=	emptying
+motorcar	=	automobile
+study	=	survey
+porc	=	pork

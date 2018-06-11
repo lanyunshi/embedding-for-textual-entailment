@@ -1,0 +1,47 @@
+load data ...
+data loaded!
+Label... entitynum 13029 dimension:200
+ lambda 1.0 model:My epoch: 100 split num: 3
+
+ >>>  Cross: 0 Train num: 45644 Test num: 21513
+  After adjusting, Train num: 45644 Vali num: 10755 Test num: 10758
+... training
+epoch: 100, training time: 284.11 secs, train perf: 99.94 %, val perf: 93.88 %, average cost: 0.0103
+so far .... accuracy: 0.943298010783
+label: 0 recall: 95.0 precision: 90.0
+label: 1 recall: 95.0 precision: 91.0
+label: 2 recall: 94.0 precision: 98.0
+label: 3 recall: 93.0 precision: 95.0
+label: 4 recall: nan precision: 0.0
+label: 5 recall: nan precision: 0.0
+label: 6 recall: nan precision: 0.0
+so far ... f1 score: 93.8342791788
+
+ >>>  Cross: 1 Train num: 45504 Test num: 21603
+  After adjusting, Train num: 45504 Vali num: 10800 Test num: 10803
+... training
+epoch: 100, training time: 252.31 secs, train perf: 99.95 %, val perf: 94.62 %, average cost: 0.0095
+so far .... accuracy: 0.947051744886
+label: 0 recall: 95.0 precision: 90.0
+label: 1 recall: 95.0 precision: 92.0
+label: 2 recall: 94.0 precision: 98.0
+label: 3 recall: 93.0 precision: 95.0
+label: 4 recall: nan precision: 0.0
+label: 5 recall: nan precision: 0.0
+label: 6 recall: nan precision: 0.0
+so far ... f1 score: 93.9640158242
+
+ >>>  Cross: 2 Train num: 44722 Test num: 22305
+  After adjusting, Train num: 44722 Vali num: 11150 Test num: 11155
+... training
+epoch: 100, training time: 253.02 secs, train perf: 99.94 %, val perf: 94.31 %, average cost: 0.0100
+so far .... accuracy: 0.944867772299
+label: 0 recall: 95.0 precision: 92.0
+label: 1 recall: 95.0 precision: 90.0
+label: 2 recall: 95.0 precision: 98.0
+label: 3 recall: 93.0 precision: 95.0
+label: 4 recall: nan precision: 0.0
+label: 5 recall: nan precision: 0.0
+label: 6 recall: nan precision: 0.0
+so far ... f1 score: 94.0936034753
+final accuracy ### 0.945072509323 final f1 ### 93.9639661594 std: 0.0015392785898

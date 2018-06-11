@@ -1,0 +1,62 @@
+# This folder contains:
+1. EntailmentVector: implements about entailment vector
+2. TextualEntailment: implements about textual entailment
+
+# This implement contains:
+1. Direct evaluation of Entailment Vectors
+	a. our baseline: word2vec
+	b. NN model
+	c. ST model 
+2. Evaluation on Textual Entailment
+	a. our baseline: w2v
+	b. w2v + NN model
+	c. w2v + ST model
+
+# Prerequisites
+	a. Python 2.7
+	b. Tensorflow
+
+# Usage 
+To test pre-trained NN model of Entailment Vectors on test/CS data
+$ cd EntailmentVector
+$ python code/TrainRunner.py data/ NN only-test -tp test -pm 2017_01_24_10_29_53
+change "-tp test" to "-tp CS" is you want to test on CS data
+
+To test pre-trained ST model of Entailment Vectors on test/CS data
+$ python code/TrainRunner.py data/ My only-test -tp test -pm 2017_03_21_10_31_00
+
+If you want to train model by yourself
+1. convert word pairs data into index
+	$ python code/Entity2Idx.py data
+2. train word2vec/NN/ST models
+	$ python code/TrainRunner.py data/ ConW2v train-test
+	$ python code/TrainRunner.py data/ NN train-test
+	$ python code/TrainRunner.py data/ My train-test
+	# You can change the parameters of model in file "TrainRunner.py". Please set proper parameters to train different models.
+
+To test pre-trained w2v/w2v + NN/w2v + ST model of Textual Entailment on SICK(ss) data
+$ cd TextualEntailment
+$ python code/train.py data/SICKglove/w2v.txt w2vw2v data/SICK/sequence/train.txt data/SICK/sequence/dev.txt data/SICK/sequence/test.txt saved-model --is_train 0 --load saved-model/sick_w2v
+$ python code/train.py data/SICKglove/w2vnn.txt w2vw2vnn data/SICK/sequence/train.txt data/SICK/sequence/dev.txt data/SICK/sequence/test.txt saved-model --is_train 0 --load saved-model/sick_w2vnn
+$ python code/train.py data/SICKglove/w2vour.txt w2vw2vour data/SICK/sequence/train.txt data/SICK/sequence/dev.txt data/SICK/sequence/test.txt saved-model --is_train 0 --load saved-model/sick_w2vour
+# Please note that these results are slightly different from the reported results, since there are some variables missing in the pre-trained model by saving mistake, so we reproduced the results during revision
+
+To test pre-trained w2v/w2v + NN/w2v + ST model of Textual Entailment on SICK(ns) data
+$ python code/train.py data/SICKglove/w2v.txt w2vw2v data/SICK/sequenceSplit/train.txt data/SICK/sequenceSplit/dev.txt data/SICK/sequenceSplit/test.txt saved-model --is_train 0 --load saved-model/sick_split_w2v
+$ python code/train.py data/SICKglove/w2vnn.txt w2vw2vnn data/SICK/sequenceSplit/train.txt data/SICK/sequenceSplit/dev.txt data/SICK/sequenceSplit/test.txt saved-model --is_train 0 --load saved-model/sick_split_w2vnn
+$ python code/train.py data/SICKglove/w2vour.txt w2vw2vour data/SICK/sequenceSplit/train.txt data/SICK/sequenceSplit/dev.txt data/SICK/sequenceSplit/test.txt saved-model --is_train 0 --load saved-model/sick_split_w2vour
+
+To test pre-trained w2v/w2v + NN/w2v + ST model of Textual Entailment on SNLI(ss) data
+$ python code/train.py data/SNLIglove/w2v.txt w2vw2v data/SNLI/sequence/train.txt data/SNLI/sequence/dev.txt data/SNLI/sequence/test.txt saved-model --is_train 0 --load saved-model/snli_w2v
+$ python code/train.py data/SNLIglove/w2vnn.txt w2vw2vnn data/SNLI/sequence/train.txt data/SNLI/sequence/dev.txt data/SNLI/sequence/test.txt saved-model --is_train 0 --load saved-model/snli_w2vnn
+$ python code/train.py data/SNLIglove/w2vour.txt w2vw2vour data/SNLI/sequence/train.txt data/SNLI/sequence/dev.txt data/SNLI/sequence/test.txt saved-model --is_train 0 --load saved-model/snli_w2vour
+
+To test pre-trained w2v/w2v + NN/w2v + ST model of Textual Entailment on SNLI(ns) data
+$ python code/train.py data/SNLIglove/w2v.txt w2vw2v data/SNLI/sequenceSplit/train.txt data/SNLI/sequenceSplit/dev.txt data/SNLI/sequenceSplit/test.txt saved-model --is_train 0 --load saved-model/snli_split_w2v
+$ python code/train.py data/SNLIglove/w2vnn.txt w2vw2vnn data/SNLI/sequenceSplit/train.txt data/SNLI/sequenceSplit/dev.txt data/SNLI/sequenceSplit/test.txt saved-model --is_train 0 --load saved-model/snli_split_w2vnn
+$ python code/train.py data/SNLIglove/w2vour.txt w2vw2vour data/SNLI/sequenceSplit/train.txt data/SNLI/sequenceSplit/dev.txt data/SNLI/sequenceSplit/test.txt saved-model --is_train 0 --load saved-model/snli_split_w2vour
+
+To train your own model, you can simply run
+$ python code/train.py path/to/golve/file w2vw2v/w2vnn/w2vour path/to/train/data path/to/dev/data path/to/test/data path/to/save-model/folder
+
+# Thank Erick Rocha Fonseca's implementation of decomposable attention model (DAM), we modified the DAM model based on his original code.
