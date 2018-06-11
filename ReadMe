@@ -44,7 +44,6 @@ $ cd TextualEntailment
 $ python code/train.py data/SICKglove/w2v.txt w2vw2v data/SICK/sequence/train.txt data/SICK/sequence/dev.txt data/SICK/sequence/test.txt saved-model --is_train 0 --load saved-model/sick_w2v
 $ python code/train.py data/SICKglove/w2vnn.txt w2vw2vnn data/SICK/sequence/train.txt data/SICK/sequence/dev.txt data/SICK/sequence/test.txt saved-model --is_train 0 --load saved-model/sick_w2vnn
 $ python code/train.py data/SICKglove/w2vour.txt w2vw2vour data/SICK/sequence/train.txt data/SICK/sequence/dev.txt data/SICK/sequence/test.txt saved-model --is_train 0 --load saved-model/sick_w2vour
-# Please note that these results are slightly different from the reported results, since there are some variables missing in the pre-trained model by saving mistake, so we reproduced the results during revision
 
 To test pre-trained w2v/w2v + NN/w2v + ST model of Textual Entailment on SICK(ns) data
 $ python code/train.py data/SICKglove/w2v.txt w2vw2v data/SICK/sequenceSplit/train.txt data/SICK/sequenceSplit/dev.txt data/SICK/sequenceSplit/test.txt saved-model --is_train 0 --load saved-model/sick_split_w2v
