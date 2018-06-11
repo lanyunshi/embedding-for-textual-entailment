@@ -59,4 +59,4 @@ $ python code/train.py data/SNLIglove/w2vour.txt w2vw2vour data/SNLI/sequenceSpl
 To train your own model, you can simply run
 $ python code/train.py path/to/golve/file w2vw2v/w2vnn/w2vour path/to/train/data path/to/dev/data path/to/test/data path/to/save-model/folder
 
-# Thank [Erick Rocha Fonseca](https://blog.csdn.net/m0_38099607/article/details/72477993)'s implementation of decomposable attention model (DAM), we modified the DAM model based on his original code.
+# Thank [Erick Rocha Fonseca](https://github.com/erickrf/multiffn-nli) 's implementation of decomposable attention model (DAM), we modified the DAM model based on his original code.
